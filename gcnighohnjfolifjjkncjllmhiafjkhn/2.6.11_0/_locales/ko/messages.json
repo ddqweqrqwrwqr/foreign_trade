@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "계정"
+   },
+   "addRule": {
+      "message": "규칙 추가"
+   },
+   "autoTranslate": {
+      "message": "자동 번역"
+   },
+   "autoTranslateExtra": {
+      "message": "열면 수동으로 번역을 클릭하지 않고도 수신된 메시지가 자동으로 번역됩니다."
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "captcha": {
+      "message": "캡차"
+   },
+   "characters": {
+      "message": "캐릭터"
+   },
+   "chromeOnly": {
+      "message": "현재 Chrome 사용만 지원하므로 다른 브라우저는 이메일 로그인을 사용해야 합니다."
+   },
+   "clickSend": {
+      "message": "보내기를 클릭합니다."
+   },
+   "clickSetHotkey": {
+      "message": "설정 바로 가기를 클릭하면 보낼 메시지를 빠르게 번역할 수 있습니다."
+   },
+   "confirmUpdate": {
+      "message": "업데이트 확인"
+   },
+   "contactSpeakLang": {
+      "message": "연락처 언어"
+   },
+   "contactSpeakLangExtra": {
+      "message": "당신이 보내는 메시지가 번역될 언어, 일반적으로 상대방의 언어"
+   },
+   "contactSpeakLangTip": {
+      "message": "자동으로 설정하면 프로그램이 자동으로 상대방의 언어를 감지합니다."
+   },
+   "currentVersion": {
+      "message": "현재 버전"
+   },
+   "customerServiceEmail": {
+      "message": "고객 서비스 이메일"
+   },
+   "description": {
+      "message": "100개 이상의 언어로 된 Whatsapp 메시지를 위한 자동 번역 도구(비공식)"
+   },
+   "earlyBird": {
+      "message": "제한된 시간 동안 얼리버드 할인!"
+   },
+   "email": {
+      "message": "이메일"
+   },
+   "enterToSend": {
+      "message": "메시지를 보내고 번역하려면 입력하십시오."
+   },
+   "enterToSendExtra": {
+      "message": "열면 Enter 키를 누르면 메시지가 전송되고 번역됩니다(사용자 지정 바로 가기가 무시됩니다. 이 구성 수정은 whatsapp 페이지로 새로 고쳐야 적용됩니다)."
+   },
+   "expirationTime": {
+      "message": "만료 시간"
+   },
+   "fastTranslate": {
+      "message": "즉시 보내기"
+   },
+   "fastTranslateExtra": {
+      "message": "전원을 켜면 바로 가기를 사용하면 번역하는 동안 메시지가 자동으로 전송됩니다."
+   },
+   "firstLogin": {
+      "message": "처음 로그인하면 즉시 3일의 전문 회원 자격이 부여됩니다."
+   },
+   "forgetPassword": {
+      "message": "암호를 잊어 버렸습니다"
+   },
+   "googleLogin": {
+      "message": "Google로 로그인"
+   },
+   "helpDocumentation": {
+      "message": "도움말 설명서"
+   },
+   "inputEmail": {
+      "message": "이메일 주소를 입력하세요!"
+   },
+   "inputHotkey": {
+      "message": "바로 가기를 입력하십시오."
+   },
+   "inputPassword": {
+      "message": "비밀번호를 입력하세요!"
+   },
+   "languageDetectionEngine": {
+      "message": "언어 인식 엔진"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "메시지 언어를 인식하는 데 사용되는 엔진 선택"
+   },
+   "least": {
+      "message": "최소한"
+   },
+   "limitTip": {
+      "message": "❗️ 죄송합니다. 일일 평가판 제한(30회/일)에 도달했습니다. 내일 다시 시도하십시오. (PRO 사용자는 무제한입니다)"
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "loginOut": {
+      "message": "로그아웃"
+   },
+   "more": {
+      "message": "더"
+   },
+   "moreSettings": {
+      "message": "추가 설정"
+   },
+   "name": {
+      "message": "자동 Whatsapp ™ 번역기 - 수신 및 보낸 메시지 자동 번역"
+   },
+   "nativeLanguageInterception": {
+      "message": "강제 번역"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "활성화 후 메시지가 번역되지 않으면 보낸 메시지를 가로채십시오(이 구성 변경 사항은 whatsapp 페이지를 새로 고쳐야 적용됩니다)."
+   },
+   "needToRefresh": {
+      "message": "(이 구성을 수정하려면 whatsapp 페이지를 새로 고쳐야 합니다.)"
+   },
+   "newPassword": {
+      "message": "새 암호"
+   },
+   "noAccount": {
+      "message": "계정이 없습니까? "
+   },
+   "noDeeplPreview": {
+      "message": "이 엔진은 현재 미리보기 기능을 지원하지 않습니다."
+   },
+   "notIsInvalidEmail": {
+      "message": "올바른 이메일 주소가 아닙니다."
+   },
+   "officialWebsite": {
+      "message": "공식 웹사이트"
+   },
+   "onlineCustomerService": {
+      "message": "온라인 고객 서비스"
+   },
+   "or": {
+      "message": "또는"
+   },
+   "originalText": {
+      "message": "원본"
+   },
+   "password": {
+      "message": "비밀번호"
+   },
+   "pleaseInput": {
+      "message": "입력하십시오"
+   },
+   "proLimitTip": {
+      "message": "죄송합니다. 이 기능은 PRO 사용자만 사용할 수 있습니다."
+   },
+   "refresh": {
+      "message": "새로 고침"
+   },
+   "register": {
+      "message": "등록"
+   },
+   "replacementText": {
+      "message": "교체"
+   },
+   "sendCaptcha": {
+      "message": "확인 코드 받기"
+   },
+   "sendSuccess": {
+      "message": "성공적으로 보냈습니다"
+   },
+   "setHotkey": {
+      "message": "바로 가기 설정"
+   },
+   "settingTip": {
+      "message": "첫 번째 설치 후 구성을 적용하기 전에 whatsapp 페이지를 새로 고쳐야 합니다."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "showLangStatus": {
+      "message": "원래 언어 표시"
+   },
+   "showLangStatusExtra": {
+      "message": "개봉 후 번역된 언어가 번역 후 표시됩니다. 전환하려면 언어를 클릭하십시오."
+   },
+   "translateBilingual": {
+      "message": "이중언어 디스플레이"
+   },
+   "translateBilingualExtra": {
+      "message": "개봉 후 이중언어 콘텐츠가 표시됩니다(번역은 원본과 대조하여 표시됨)."
+   },
+   "translateTerminology": {
+      "message": "용어집"
+   },
+   "translateTerminologyExtra": {
+      "message": "일단 설정되면, 함수라는 용어는 우선 어휘의 내용을 인식하고 대체하는데, 이것은 종종 고유 명사와 약어를 대체하는 데 사용됩니다. 함수는 대소문자를 구분하고 공백을 포함하여 입력된 모든 구두점을 유지합니다."
+   },
+   "translateTextColor": {
+      "message": "텍스트 색상 번역"
+   },
+   "translateTextColorExtra": {
+      "message": "번역된 내용의 색상"
+   },
+   "translationInterception": {
+      "message": "메시지가 번역되지 않아 전송이 중지되었습니다. 보내기 전에 번역하거나 시스템 보내기 버튼을 클릭하여 강제로 보내십시오."
+   },
+   "translationPreview": {
+      "message": "번역 미리보기"
+   },
+   "translationPreviewExtra": {
+      "message": "개봉 후 번역된 내용의 미리보기가 실시간으로 표시되어 번역 정확도를 높이는 데 도움이 됩니다."
+   },
+   "translationService": {
+      "message": "번역 엔진"
+   },
+   "translationServiceExtra": {
+      "message": "번역 엔진"
+   },
+   "translationSwitch": {
+      "message": "번역 스위치"
+   },
+   "translationSwitchExtra": {
+      "message": "종료 후 프로그램 작동이 중지됩니다."
+   },
+   "unlock": {
+      "message": "잠금 해제"
+   },
+   "unlockAllFeatures": {
+      "message": "모든 기능 잠금 해제"
+   },
+   "updatePassword": {
+      "message": "암호 업데이트"
+   },
+   "updateSuccess": {
+      "message": "업데이트 성공"
+   },
+   "usageToday": {
+      "message": "오늘 사용법"
+   },
+   "yourLanguage": {
+      "message": "당신의 언어"
+   },
+   "yourLanguageExtra": {
+      "message": "당신이 받는 메시지가 번역될 언어, 일반적으로 당신의 모국어"
+   }
+}

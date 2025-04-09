@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Akaunti"
+   },
+   "addRule": {
+      "message": "Ongeza sheria"
+   },
+   "autoTranslate": {
+      "message": "tafsiri moja kwa moja"
+   },
+   "autoTranslateExtra": {
+      "message": "Baada ya kufungua, ujumbe kupokea itakuwa moja kwa moja kutafsiriwa bila mikono bonyeza Tafsiri."
+   },
+   "cancel": {
+      "message": "kughairi"
+   },
+   "captcha": {
+      "message": "SKU"
+   },
+   "characters": {
+      "message": "tabia"
+   },
+   "chromeOnly": {
+      "message": "Hivi sasa inasaidia tu matumizi ya Chrome, vivinjari vingine vinahitaji kutumia kuingia kwa barua pepe"
+   },
+   "clickSend": {
+      "message": "Bofya Tuma."
+   },
+   "clickSetHotkey": {
+      "message": "Bonyeza kwenye njia ya mkato ya mipangilio, unaweza kutafsiri haraka ujumbe utakaotumwa"
+   },
+   "confirmUpdate": {
+      "message": "Thibitisha sasisho"
+   },
+   "contactSpeakLang": {
+      "message": "lugha ya mawasiliano"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Lugha ambayo ujumbe unaotuma utatafsiriwa, kwa kawaida lugha ya upande mwingine"
+   },
+   "contactSpeakLangTip": {
+      "message": "Ikiwa imewekwa kwa otomatiki, programu itagundua kiotomatiki lugha ya wahusika wengine"
+   },
+   "currentVersion": {
+      "message": "Toleo la sasa"
+   },
+   "customerServiceEmail": {
+      "message": "Barua pepe ya huduma kwa wateja"
+   },
+   "description": {
+      "message": "Chombo cha kutafsiri kiotomatiki kwa ujumbe wa Whatsapp katika lugha zaidi ya 100 (isiyo rasmi)"
+   },
+   "earlyBird": {
+      "message": "Punguzo la ndege la mapema kwa muda mfupi!"
+   },
+   "email": {
+      "message": "email"
+   },
+   "enterToSend": {
+      "message": "Ingiza kutuma na kutafsiri ujumbe"
+   },
+   "enterToSendExtra": {
+      "message": "Baada ya kufungua, kubonyeza ufunguo wa Ingiza utatuma na kutafsiri ujumbe (njia ya mkato desturi itapuuzwa, marekebisho haya ya usanidi yanahitaji kuburudishwa kwa ukurasa wa whatsapp kuchukua athari)"
+   },
+   "expirationTime": {
+      "message": "muda wa matumizi"
+   },
+   "fastTranslate": {
+      "message": "Tuma mara moja"
+   },
+   "fastTranslateExtra": {
+      "message": "Wakati imewashwa, wakati wa kutumia njia ya mkato, ujumbe hutumwa moja kwa moja wakati wa kutafsiri"
+   },
+   "firstLogin": {
+      "message": "Mara ya kwanza unapoingia, mara moja utapokea uanachama wa kitaaluma wa siku 3."
+   },
+   "forgetPassword": {
+      "message": "Imesahau nywila"
+   },
+   "googleLogin": {
+      "message": "Ingia na Google"
+   },
+   "helpDocumentation": {
+      "message": "Nyaraka za Msaada"
+   },
+   "inputEmail": {
+      "message": "Tafadhali ingiza anwani yako ya barua pepe!"
+   },
+   "inputHotkey": {
+      "message": "Tafadhali ingiza njia za mkato"
+   },
+   "inputPassword": {
+      "message": "Tafadhali ingiza nywila yako!"
+   },
+   "languageDetectionEngine": {
+      "message": "injini ya utambuzi wa lugha"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Chagua injini inayotumika kutambua lugha ya ujumbe"
+   },
+   "least": {
+      "message": "angalau"
+   },
+   "limitTip": {
+      "message": "❗️ Samahani, umefikia kikomo cha majaribio cha kila siku (mara 30/siku), tafadhali jaribu tena kesho."
+   },
+   "login": {
+      "message": "ingia"
+   },
+   "loginOut": {
+      "message": "ingia nje"
+   },
+   "more": {
+      "message": "zaidi"
+   },
+   "moreSettings": {
+      "message": "Mipangilio zaidi"
+   },
+   "name": {
+      "message": "Moja kwa moja Whatsapp ™ Translator"
+   },
+   "nativeLanguageInterception": {
+      "message": "tafsiri ya kulazimishwa"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Baada ya kuwezesha, wakati ujumbe si kutafsiriwa, kuingilia ujumbe uliotumwa (mabadiliko haya ya usanidi yanahitaji kuonyesha upya ukurasa wa whatsapp kuchukua athari)"
+   },
+   "needToRefresh": {
+      "message": "(Marekebisho haya ya usanidi yanahitaji kuburudisha ukurasa wa whatsapp kuchukua athari)"
+   },
+   "newPassword": {
+      "message": "nywila mpya"
+   },
+   "noAccount": {
+      "message": "Je, huna akaunti? "
+   },
+   "noDeeplPreview": {
+      "message": "Injini hii kwa sasa haitumii kazi ya hakikisho"
+   },
+   "notIsInvalidEmail": {
+      "message": "Sio barua pepe halali."
+   },
+   "officialWebsite": {
+      "message": "tovuti rasmi"
+   },
+   "onlineCustomerService": {
+      "message": "Huduma kwa wateja mtandaoni"
+   },
+   "or": {
+      "message": "au"
+   },
+   "originalText": {
+      "message": "asili"
+   },
+   "password": {
+      "message": "nenosiri"
+   },
+   "pleaseInput": {
+      "message": "Tafadhali ingiza"
+   },
+   "proLimitTip": {
+      "message": "Samahani, kipengele hiki ni mdogo kwa watumiaji wa PRO pekee."
+   },
+   "refresh": {
+      "message": "upya"
+   },
+   "register": {
+      "message": "SKU"
+   },
+   "replacementText": {
+      "message": "badala"
+   },
+   "sendCaptcha": {
+      "message": "Pata nambari ya kuthibitisha"
+   },
+   "sendSuccess": {
+      "message": "Imetumwa kwa mafanikio"
+   },
+   "setHotkey": {
+      "message": "Weka njia za mkato"
+   },
+   "settingTip": {
+      "message": "Baada ya usakinishaji wa kwanza, unahitaji kuonyesha upya ukurasa wa whatsapp kabla ya usanidi kuanza kutumika."
+   },
+   "settings": {
+      "message": "mipangilio"
+   },
+   "showLangStatus": {
+      "message": "Onyesha lugha asili"
+   },
+   "showLangStatusExtra": {
+      "message": "Baada ya kufungua, lugha iliyotafsiriwa kutoka itaonyeshwa baada ya tafsiri. Bofya kwenye lugha kubadili."
+   },
+   "translateBilingual": {
+      "message": "kuonyesha lugha mbili"
+   },
+   "translateBilingualExtra": {
+      "message": "Baada ya kufungua, maudhui ya lugha mbili yataonyeshwa (tafsiri inaonyeshwa dhidi ya asili)"
+   },
+   "translateTerminology": {
+      "message": "Fasaha"
+   },
+   "translateTerminologyExtra": {
+      "message": "Mara baada ya kuwekwa, neno chaguo la kukokotoa litatambua kwa upendeleo na kuchukua nafasi ya yaliyomo katika msamiati, ambao mara nyingi hutumiwa kuchukua nafasi ya nomino na vifupisho vinavyofaa."
+   },
+   "translateTextColor": {
+      "message": "Kutafsiri rangi ya maandishi"
+   },
+   "translateTextColorExtra": {
+      "message": "Rangi ya maudhui yaliyotafsiriwa"
+   },
+   "translationInterception": {
+      "message": "Ujumbe haujatafsiriwa na kuacha kutuma. Tafadhali tafsiri kabla ya kutuma, au bonyeza kitufe cha kutuma mfumo ili kulazimisha kutumwa."
+   },
+   "translationPreview": {
+      "message": "Tafsiri Preview"
+   },
+   "translationPreviewExtra": {
+      "message": "Baada ya kufungua, hakikisho la maudhui yaliyotafsiriwa litaonyeshwa kwa wakati halisi, ambayo husaidia kuboresha usahihi wa tafsiri"
+   },
+   "translationService": {
+      "message": "Injini ya Tafsiri"
+   },
+   "translationServiceExtra": {
+      "message": "Injini kwa ajili ya tafsiri"
+   },
+   "translationSwitch": {
+      "message": "Kubadili tafsiri"
+   },
+   "translationSwitchExtra": {
+      "message": "Baada ya kufunga, programu itaacha kufanya kazi"
+   },
+   "unlock": {
+      "message": "Fungua"
+   },
+   "unlockAllFeatures": {
+      "message": "Fungua vipengele vyote"
+   },
+   "updatePassword": {
+      "message": "Update nywila"
+   },
+   "updateSuccess": {
+      "message": "Update mafanikio"
+   },
+   "usageToday": {
+      "message": "matumizi leo"
+   },
+   "yourLanguage": {
+      "message": "Lugha yako"
+   },
+   "yourLanguageExtra": {
+      "message": "Lugha ambayo ujumbe utapokea utatafsiriwa, kwa kawaida lugha yako ya asili"
+   }
+}

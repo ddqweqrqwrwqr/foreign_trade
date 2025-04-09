@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Akaun"
+   },
+   "addRule": {
+      "message": "Tambah Peraturan"
+   },
+   "autoTranslate": {
+      "message": "Terjemahan automatik"
+   },
+   "autoTranslateExtra": {
+      "message": "Selepas dihidupkan, mesej yang diterima akan diterjemahkan secara automatik, tidak perlu klik pada terjemahan secara manual."
+   },
+   "cancel": {
+      "message": "Batalkan."
+   },
+   "captcha": {
+      "message": "Kod pengesahan"
+   },
+   "characters": {
+      "message": "Aksara"
+   },
+   "chromeOnly": {
+      "message": "Pada masa ini hanya menyokong penggunaan Chrome, pelayar lain perlu log masuk menggunakan e-mel."
+   },
+   "clickSend": {
+      "message": "Klik untuk menghantar."
+   },
+   "clickSetHotkey": {
+      "message": "Klik pada pintasan Tetapan untuk menterjemah mesej yang akan dihantar dengan cepat."
+   },
+   "confirmUpdate": {
+      "message": "Sahkan kemaskini."
+   },
+   "contactSpeakLang": {
+      "message": "Bahasa Kenalan"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Mesej yang anda hantar akan diterjemahkan ke dalam bahasa, biasanya bahasa pihak lain."
+   },
+   "contactSpeakLangTip": {
+      "message": "Jika ditetapkan kepada auto, program akan mengesan bahasa masing-masing secara automatik."
+   },
+   "currentVersion": {
+      "message": "Versi Semasa"
+   },
+   "customerServiceEmail": {
+      "message": "E-mel perkhidmatan pelanggan"
+   },
+   "description": {
+      "message": "Alat Whatsapp untuk terjemahan mesej automatik dalam lebih 100 bahasa (tidak rasmi)"
+   },
+   "earlyBird": {
+      "message": "Diskaun awal burung untuk masa yang terhad!"
+   },
+   "email": {
+      "message": "Peti Mel"
+   },
+   "enterToSend": {
+      "message": "Tekan Enter untuk menghantar dan menterjemah mesej."
+   },
+   "enterToSendExtra": {
+      "message": "Selepas dihidupkan, menekan kekunci Enter akan menghantar dan menterjemah mesej (pintasan tersuai akan diabaikan. Konfigurasi ini diubah suai dan halaman whatsapp perlu dimuat semula untuk berfungsi)."
+   },
+   "expirationTime": {
+      "message": "Masa tamat tempoh"
+   },
+   "fastTranslate": {
+      "message": "Hantar sekarang."
+   },
+   "fastTranslateExtra": {
+      "message": "Apabila dihidupkan, apabila menggunakan kekunci pintasan, mesej akan dihantar secara automatik pada masa yang sama dengan terjemahan."
+   },
+   "firstLogin": {
+      "message": "Log masuk kali pertama akan mendapat keahlian profesional selama 3 hari dengan segera."
+   },
+   "forgetPassword": {
+      "message": "Lupa kata laluan."
+   },
+   "googleLogin": {
+      "message": "Log masuk dengan Google"
+   },
+   "helpDocumentation": {
+      "message": "Dokumentasi Bantuan"
+   },
+   "inputEmail": {
+      "message": "Sila masukkan alamat e-mel!"
+   },
+   "inputHotkey": {
+      "message": "Sila masukkan kekunci pintasan."
+   },
+   "inputPassword": {
+      "message": "Sila masukkan kata laluan!"
+   },
+   "languageDetectionEngine": {
+      "message": "Enjin pengecaman bahasa"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Pilih enjin untuk mengenal pasti bahasa mesej."
+   },
+   "least": {
+      "message": "Minimum"
+   },
+   "limitTip": {
+      "message": "❗️ Minta maaf, anda telah mencapai had percubaan harian (30 kali / hari), sila cuba lagi esok. (Pengguna PRO tidak terhad)"
+   },
+   "login": {
+      "message": "Log Masuk"
+   },
+   "loginOut": {
+      "message": "Log Keluar Log Masuk"
+   },
+   "more": {
+      "message": "Lagi."
+   },
+   "moreSettings": {
+      "message": "Lebih banyak tetapan"
+   },
+   "name": {
+      "message": "Penterjemah ™ automatik Whatsapp"
+   },
+   "nativeLanguageInterception": {
+      "message": "Terjemahan paksa"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Selepas dihidupkan, mesej yang dihantar dipintas apabila mesej tidak diterjemahkan (konfigurasi ini diubah suai dan halaman whatsapp perlu dimuat semula untuk menjadi berkesan)."
+   },
+   "needToRefresh": {
+      "message": "(Konfigurasi ini diubah suai dan halaman whatsapp perlu dimuat semula untuk berkuat kuasa.)"
+   },
+   "newPassword": {
+      "message": "Kata laluan baru"
+   },
+   "noAccount": {
+      "message": "Tidak mempunyai akaun? "
+   },
+   "noDeeplPreview": {
+      "message": "Enjin ini tidak menyokong fungsi pratonton buat masa ini."
+   },
+   "notIsInvalidEmail": {
+      "message": "Bukan alamat e-mel yang sah."
+   },
+   "officialWebsite": {
+      "message": "Laman web rasmi"
+   },
+   "onlineCustomerService": {
+      "message": "Perkhidmatan pelanggan dalam talian"
+   },
+   "or": {
+      "message": "atau"
+   },
+   "originalText": {
+      "message": "Asal"
+   },
+   "password": {
+      "message": "Kata laluan"
+   },
+   "pleaseInput": {
+      "message": "Sila masukkan."
+   },
+   "proLimitTip": {
+      "message": "Minta maaf, ciri ini hanya tersedia untuk pengguna PRO."
+   },
+   "refresh": {
+      "message": "Muat Semula"
+   },
+   "register": {
+      "message": "Daftar"
+   },
+   "replacementText": {
+      "message": "Gantikan"
+   },
+   "sendCaptcha": {
+      "message": "Dapatkan kod pengesahan."
+   },
+   "sendSuccess": {
+      "message": "Penghantaran berjaya."
+   },
+   "setHotkey": {
+      "message": "Tetapkan Pintasan Kekunci"
+   },
+   "settingTip": {
+      "message": "Selepas pemasangan pertama, anda perlu memuat semula halaman whatsapp sebelum konfigurasi akan berfungsi."
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "showLangStatus": {
+      "message": "Paparkan bahasa asal."
+   },
+   "showLangStatusExtra": {
+      "message": "Selepas dibuka, kami akan menunjukkan bahasa apa yang diterjemahkan selepas terjemahan. Klik pada bahasa itu untuk menukar."
+   },
+   "translateBilingual": {
+      "message": "Paparan dwibahasa"
+   },
+   "translateBilingualExtra": {
+      "message": "Selepas dibuka, kandungan dwibahasa akan dipaparkan (terjemahan dipaparkan berbanding dengan yang asal)."
+   },
+   "translateTerminology": {
+      "message": "Glosari"
+   },
+   "translateTerminologyExtra": {
+      "message": "Setelah ditetapkan, fungsi istilah akan mengutamakan pengenalpastian dan penggantian kandungan perbendaharaan kata, yang biasanya digunakan untuk menggantikan kata nama khas dan akronim. Ambil perhatian bahawa ciri ini adalah sensitif huruf besar-besaran dan akan mengekalkan semua tanda baca yang dimasukkan, termasuk ruang."
+   },
+   "translateTextColor": {
+      "message": "Warna teks terjemahan"
+   },
+   "translateTextColorExtra": {
+      "message": "Warna kandungan selepas terjemahan."
+   },
+   "translationInterception": {
+      "message": "Mesej tidak diterjemahkan, hentikan penghantaran. Sila terjemah dan hantar semula, atau klik butang Hantar Sistem untuk memaksa penghantaran."
+   },
+   "translationPreview": {
+      "message": "Pratonton Terjemahan"
+   },
+   "translationPreviewExtra": {
+      "message": "Selepas dihidupkan, pratonton kandungan selepas terjemahan akan dipaparkan dalam masa nyata, yang akan membantu meningkatkan ketepatan terjemahan."
+   },
+   "translationService": {
+      "message": "Enjin Terjemahan"
+   },
+   "translationServiceExtra": {
+      "message": "Enjin yang digunakan untuk menterjemah."
+   },
+   "translationSwitch": {
+      "message": "Suis Terjemahan"
+   },
+   "translationSwitchExtra": {
+      "message": "Selepas ditutup, program akan berhenti berfungsi."
+   },
+   "unlock": {
+      "message": "Buka kunci"
+   },
+   "unlockAllFeatures": {
+      "message": "Buka kunci semua fungsi."
+   },
+   "updatePassword": {
+      "message": "Kemaskini Kata Laluan"
+   },
+   "updateSuccess": {
+      "message": "Kemaskini berjaya."
+   },
+   "usageToday": {
+      "message": "Bilangan penggunaan hari ini."
+   },
+   "yourLanguage": {
+      "message": "Bahasa anda"
+   },
+   "yourLanguageExtra": {
+      "message": "Mesej yang anda terima akan diterjemahkan ke dalam bahasa, biasanya bahasa ibunda anda."
+   }
+}

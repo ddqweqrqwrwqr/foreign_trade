@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Konts"
+   },
+   "addRule": {
+      "message": "Pievienot noteikumu"
+   },
+   "autoTranslate": {
+      "message": "automātiskais tulkojums"
+   },
+   "autoTranslateExtra": {
+      "message": "Pēc atvēršanas saņemtais ziņojums tiks automātiski tulkots, manuāli neklikšķinot uz Tulkot."
+   },
+   "cancel": {
+      "message": "atcelt"
+   },
+   "captcha": {
+      "message": "Iepakojums"
+   },
+   "characters": {
+      "message": "raksturs"
+   },
+   "chromeOnly": {
+      "message": "Pašlaik atbalsta tikai Chrome lietošanu, citām pārlūkprogrammām ir jāizmanto pieteikšanās pa e-pastu"
+   },
+   "clickSend": {
+      "message": "Noklikšķiniet uz Sūtīt."
+   },
+   "clickSetHotkey": {
+      "message": "Noklikšķiniet uz saīsnes iestatījumi, jūs varat ātri tulkot nosūtījamo ziņojumu"
+   },
+   "confirmUpdate": {
+      "message": "Apstipriniet atjauninājumu"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktu valoda"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Valoda, kurā tiks tulkota jūsu nosūtītā ziņa, parasti otras puses valoda"
+   },
+   "contactSpeakLangTip": {
+      "message": "Ja iestatīta uz automātisko, programma automātiski noteiks otras puses valodu"
+   },
+   "currentVersion": {
+      "message": "Pašreizējā versija"
+   },
+   "customerServiceEmail": {
+      "message": "Klientu apkalpošanas e-pasts"
+   },
+   "description": {
+      "message": "Automātiskais tulkošanas rīks Whatsapp ziņojumiem vairāk nekā 100 valodās (neoficiāls)"
+   },
+   "earlyBird": {
+      "message": "Agrā putna atlaide uz ierobežotu laiku!"
+   },
+   "email": {
+      "message": "E-pasts"
+   },
+   "enterToSend": {
+      "message": "Ievadiet, lai nosūtītu un tulkotu ziņojumus"
+   },
+   "enterToSendExtra": {
+      "message": "Pēc atvēršanas, nospiežot taustiņu Enter, ziņojums tiks nosūtīts un tulkots (pielāgotā saīsne tiks ignorēta, šī konfigurācijas modifikācija ir jāatsvaidzina whatsapp lapā, lai tā stātos spēkā)"
+   },
+   "expirationTime": {
+      "message": "derīguma termiņš"
+   },
+   "fastTranslate": {
+      "message": "Sūtīt nekavējoties"
+   },
+   "fastTranslateExtra": {
+      "message": "Ieslēdzot, izmantojot saīsni, tulkošanas laikā ziņojumi tiek automātiski nosūtīti"
+   },
+   "firstLogin": {
+      "message": "Pirmo reizi piesakoties, jūs uzreiz saņemsiet 3 dienu profesionālu dalību."
+   },
+   "forgetPassword": {
+      "message": "Aizmirsti paroli"
+   },
+   "googleLogin": {
+      "message": "Pierakstieties ar Google"
+   },
+   "helpDocumentation": {
+      "message": "Palīdzības dokumentācija"
+   },
+   "inputEmail": {
+      "message": "Lūdzu, ievadiet savu e-pasta adresi!"
+   },
+   "inputHotkey": {
+      "message": "Lūdzu, ievadiet īsceļus"
+   },
+   "inputPassword": {
+      "message": "Lūdzu, ievadiet savu paroli!"
+   },
+   "languageDetectionEngine": {
+      "message": "valodas atpazīšanas dzinējs"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Atlasiet dzinēju, ko izmanto ziņojuma valodas atpazīšanai"
+   },
+   "least": {
+      "message": "Vismazāk"
+   },
+   "limitTip": {
+      "message": "❗️ Atvainojiet, esat sasniedzis dienas izmēģinājuma limitu (30 reizes dienā), lūdzu, mēģiniet vēlreiz rīt. (PRO lietotāji ir neierobežoti)"
+   },
+   "login": {
+      "message": "pieteikšanās"
+   },
+   "loginOut": {
+      "message": "izrakstīties"
+   },
+   "more": {
+      "message": "vairāk"
+   },
+   "moreSettings": {
+      "message": "Vairāk iestatījumu"
+   },
+   "name": {
+      "message": "Automātisks Whatsapp ™ Tulks"
+   },
+   "nativeLanguageInterception": {
+      "message": "Piespiedu tulkošana"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Pēc iespējošanas, kad ziņojums netiek tulkots, pārtveriet nosūtīto ziņojumu (šīs konfigurācijas izmaiņas ir jāatsvaidzina whatsapp lapa, lai tā stātos spēkā)"
+   },
+   "needToRefresh": {
+      "message": "(Šī konfigurācijas modifikācija ir nepieciešams, lai atsvaidzinātu whatsapp lapu, lai stātos spēkā)"
+   },
+   "newPassword": {
+      "message": "jauna parole"
+   },
+   "noAccount": {
+      "message": "Vai jums nav konta? "
+   },
+   "noDeeplPreview": {
+      "message": "Šis dzinējs pašlaik neatbalsta priekšskatījuma funkciju"
+   },
+   "notIsInvalidEmail": {
+      "message": "Nav derīga e-pasta adrese."
+   },
+   "officialWebsite": {
+      "message": "oficiālā mājaslapa"
+   },
+   "onlineCustomerService": {
+      "message": "Tiešsaistes klientu apkalpošana"
+   },
+   "or": {
+      "message": "vai"
+   },
+   "originalText": {
+      "message": "oriģināls"
+   },
+   "password": {
+      "message": "parole"
+   },
+   "pleaseInput": {
+      "message": "Lūdzu, ievadiet"
+   },
+   "proLimitTip": {
+      "message": "Atvainojiet, šī funkcija ir ierobežota tikai PRO lietotājiem."
+   },
+   "refresh": {
+      "message": "atsvaidzināt"
+   },
+   "register": {
+      "message": "Reģistrēties"
+   },
+   "replacementText": {
+      "message": "aizstāt"
+   },
+   "sendCaptcha": {
+      "message": "Iegūstiet verifikācijas kodu"
+   },
+   "sendSuccess": {
+      "message": "Veiksmīgi nosūtīts"
+   },
+   "setHotkey": {
+      "message": "Iestatiet īsceļus"
+   },
+   "settingTip": {
+      "message": "Pēc pirmās instalēšanas jums ir jāatsvaidzina whatsapp lapa, pirms konfigurācija stāsies spēkā."
+   },
+   "settings": {
+      "message": "iestatījumi"
+   },
+   "showLangStatus": {
+      "message": "Parādīt oriģinālo valodu"
+   },
+   "showLangStatusExtra": {
+      "message": "Pēc atvēršanas pēc tulkojuma tiks parādīta tulkotā valoda. Noklikšķiniet uz valodas, lai pārslēgtos."
+   },
+   "translateBilingual": {
+      "message": "divvalodu displejs"
+   },
+   "translateBilingualExtra": {
+      "message": "Pēc atvēršanas tiks parādīts divvalodu saturs (tulkojums tiek parādīts pret oriģinālu)"
+   },
+   "translateTerminology": {
+      "message": "Vārdnīca"
+   },
+   "translateTerminologyExtra": {
+      "message": "Pēc iestatīšanas termins funkcija priekšroku atpazīs un aizstās vārdu krājuma saturu, ko bieži izmanto, lai aizstātu pareizos lietvārdus un saīsinājumus. Ņemiet vērā, ka funkcija ir jutīga uz gadījumiem un saglabās visas ievadītās pieturzīmes, ieskaitot atstarpes."
+   },
+   "translateTextColor": {
+      "message": "Tulkojot teksta krāsu"
+   },
+   "translateTextColorExtra": {
+      "message": "Tulkotā satura krāsa"
+   },
+   "translationInterception": {
+      "message": "Ziņojums nav tulkots un pārtrauc sūtīšanu. Lūdzu, tulkojiet to pirms nosūtīšanas, vai noklikšķiniet uz sistēmas nosūtīt pogu, lai piespiestu to nosūtīt."
+   },
+   "translationPreview": {
+      "message": "Tulkošanas priekšskatījums"
+   },
+   "translationPreviewExtra": {
+      "message": "Pēc atvēršanas reāllaikā tiks parādīts tulkotā satura priekšskatījums, kas palīdz uzlabot tulkojuma precizitāti"
+   },
+   "translationService": {
+      "message": "Tulkošanas dzinējs"
+   },
+   "translationServiceExtra": {
+      "message": "Dzinējs tulkošanai"
+   },
+   "translationSwitch": {
+      "message": "Tulkošanas slēdzis"
+   },
+   "translationSwitchExtra": {
+      "message": "Pēc slēgšanas programma pārtrauks darbu"
+   },
+   "unlock": {
+      "message": "Atbloķēt"
+   },
+   "unlockAllFeatures": {
+      "message": "Atbloķēt visas funkcijas"
+   },
+   "updatePassword": {
+      "message": "Atjaunināt paroli"
+   },
+   "updateSuccess": {
+      "message": "Atjaunināt veiksmīgi"
+   },
+   "usageToday": {
+      "message": "Lietojums šodien"
+   },
+   "yourLanguage": {
+      "message": "Jūsu valoda"
+   },
+   "yourLanguageExtra": {
+      "message": "Valoda, kurā tiks tulkots saņemtais ziņojums, parasti jūsu dzimtā valoda"
+   }
+}

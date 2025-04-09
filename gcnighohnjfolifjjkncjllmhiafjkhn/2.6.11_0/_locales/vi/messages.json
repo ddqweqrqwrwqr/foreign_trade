@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Tài khoản"
+   },
+   "addRule": {
+      "message": "Thêm quy tắc"
+   },
+   "autoTranslate": {
+      "message": "Dịch tự động"
+   },
+   "autoTranslateExtra": {
+      "message": "Sau khi mở, tin nhắn nhận được sẽ tự động được dịch, không cần phải nhấp vào dịch theo cách thủ công."
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "captcha": {
+      "message": "Mã xác nhận"
+   },
+   "characters": {
+      "message": "Nhân vật"
+   },
+   "chromeOnly": {
+      "message": "Hiện tại chỉ hỗ trợ Chrome, các trình duyệt khác cần đăng nhập bằng hộp thư."
+   },
+   "clickSend": {
+      "message": "Nhấp vào gửi"
+   },
+   "clickSetHotkey": {
+      "message": "Nhấp vào phím tắt cài đặt, bạn có thể nhanh chóng dịch tin nhắn muốn gửi."
+   },
+   "confirmUpdate": {
+      "message": "Xác nhận cập nhật"
+   },
+   "contactSpeakLang": {
+      "message": "Ngôn ngữ liên hệ"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Ngôn ngữ mà tin nhắn bạn gửi sẽ được dịch, thường là ngôn ngữ của bên kia."
+   },
+   "contactSpeakLangTip": {
+      "message": "Nếu được đặt thành auto, chương trình sẽ tự động phát hiện ngôn ngữ của đối phương."
+   },
+   "currentVersion": {
+      "message": "Phiên bản hiện tại"
+   },
+   "customerServiceEmail": {
+      "message": "Hộp thư chăm sóc khách hàng"
+   },
+   "description": {
+      "message": "Một công cụ dịch tự động tin nhắn Whatsapp với hơn 100 ngôn ngữ (không chính thức)"
+   },
+   "earlyBird": {
+      "message": "Giảm giá chim sớm giới hạn thời gian!"
+   },
+   "email": {
+      "message": "Hộp thư"
+   },
+   "enterToSend": {
+      "message": "Nhập để gửi và dịch tin nhắn"
+   },
+   "enterToSendExtra": {
+      "message": "Sau khi mở, nhấn phím Enter sẽ gửi và dịch tin nhắn (phím tắt tùy chỉnh sẽ bị bỏ qua, sửa đổi cấu hình này, cần phải làm mới trang whatsapp trước khi có hiệu lực)"
+   },
+   "expirationTime": {
+      "message": "Thời gian hết hạn"
+   },
+   "fastTranslate": {
+      "message": "Gửi ngay"
+   },
+   "fastTranslateExtra": {
+      "message": "Sau khi mở, khi sử dụng phím tắt, tin nhắn sẽ tự động được gửi trong khi dịch."
+   },
+   "firstLogin": {
+      "message": "Đăng nhập lần đầu tiên, bạn sẽ nhận được thành viên chuyên nghiệp 3 ngày ngay lập tức."
+   },
+   "forgetPassword": {
+      "message": "Quên mật khẩu"
+   },
+   "googleLogin": {
+      "message": "Đăng nhập bằng Google"
+   },
+   "helpDocumentation": {
+      "message": "Tài liệu trợ giúp"
+   },
+   "inputEmail": {
+      "message": "Vui lòng nhập email!"
+   },
+   "inputHotkey": {
+      "message": "Vui lòng nhập phím tắt"
+   },
+   "inputPassword": {
+      "message": "Xin hãy nhập mật khẩu!"
+   },
+   "languageDetectionEngine": {
+      "message": "Công cụ nhận dạng ngôn ngữ"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Chọn công cụ để nhận dạng ngôn ngữ tin nhắn"
+   },
+   "least": {
+      "message": "Tối thiểu"
+   },
+   "limitTip": {
+      "message": "❗️ Xin lỗi, bạn đã đạt đến giới hạn dùng thử hàng ngày (30 lần / ngày), xin vui lòng thử lại vào ngày mai. (Người dùng PRO không giới hạn)"
+   },
+   "login": {
+      "message": "Đăng nhập"
+   },
+   "loginOut": {
+      "message": "Đăng xuất"
+   },
+   "more": {
+      "message": "Thêm"
+   },
+   "moreSettings": {
+      "message": "Thêm cài đặt"
+   },
+   "name": {
+      "message": "Tự động Whatsapp ™ dịch - tự động dịch các tin nhắn nhận và gửi"
+   },
+   "nativeLanguageInterception": {
+      "message": "Dịch bắt buộc"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Sau khi mở, khi tin nhắn không được dịch, chặn tin nhắn được gửi (sửa đổi cấu hình này, cần phải làm mới trang whatsapp trước khi có hiệu lực)"
+   },
+   "needToRefresh": {
+      "message": "(Sửa đổi cấu hình này, cần phải làm mới trang whatsapp trước khi nó có hiệu lực)"
+   },
+   "newPassword": {
+      "message": "Mật khẩu mới"
+   },
+   "noAccount": {
+      "message": "Không có tài khoản? "
+   },
+   "noDeeplPreview": {
+      "message": "Động cơ này tạm thời không hỗ trợ chức năng xem trước."
+   },
+   "notIsInvalidEmail": {
+      "message": "Không phải là một hộp thư hợp lệ"
+   },
+   "officialWebsite": {
+      "message": "Trang chính thức"
+   },
+   "onlineCustomerService": {
+      "message": "Dịch vụ khách hàng trực tuyến"
+   },
+   "or": {
+      "message": "Hoặc"
+   },
+   "originalText": {
+      "message": "Bản gốc"
+   },
+   "password": {
+      "message": "Mật khẩu"
+   },
+   "pleaseInput": {
+      "message": "Vui lòng nhập"
+   },
+   "proLimitTip": {
+      "message": "Xin lỗi, tính năng này chỉ dành cho người dùng PRO"
+   },
+   "refresh": {
+      "message": "Làm mới"
+   },
+   "register": {
+      "message": "Đăng ký"
+   },
+   "replacementText": {
+      "message": "Thay thế"
+   },
+   "sendCaptcha": {
+      "message": "Nhận mã xác minh"
+   },
+   "sendSuccess": {
+      "message": "Gửi thành công"
+   },
+   "setHotkey": {
+      "message": "Thiết lập phím tắt"
+   },
+   "settingTip": {
+      "message": "Sau lần cài đặt đầu tiên, bạn cần làm mới trang whatsapp trước khi cấu hình có hiệu lực."
+   },
+   "settings": {
+      "message": "Thiết lập"
+   },
+   "showLangStatus": {
+      "message": "Hiển thị ngôn ngữ gốc"
+   },
+   "showLangStatusExtra": {
+      "message": "Sau khi mở, sau khi dịch sẽ hiển thị bản dịch từ ngôn ngữ nào, nhấp vào ngôn ngữ đó để chuyển đổi."
+   },
+   "translateBilingual": {
+      "message": "Hiển thị song ngữ"
+   },
+   "translateBilingualExtra": {
+      "message": "Sau khi mở, nội dung song ngữ sẽ được hiển thị (hiển thị so sánh bản dịch và bản gốc)"
+   },
+   "translateTerminology": {
+      "message": "Bảng thuật ngữ"
+   },
+   "translateTerminologyExtra": {
+      "message": "Sau khi được thiết lập, chức năng thuật ngữ sẽ ưu tiên xác định và thay thế nội dung trong từ vựng, thường được sử dụng để thay thế các danh từ và từ viết tắt. Xin lưu ý rằng chức năng này phân biệt chữ hoa chữ thường và sẽ giữ lại tất cả các dấu câu đã nhập, bao gồm cả dấu cách."
+   },
+   "translateTextColor": {
+      "message": "Dịch màu văn bản"
+   },
+   "translateTextColorExtra": {
+      "message": "Màu sắc của nội dung sau khi dịch"
+   },
+   "translationInterception": {
+      "message": "Tin nhắn chưa được dịch, ngừng gửi. Vui lòng dịch trước khi gửi hoặc nhấp vào nút gửi hệ thống để buộc gửi."
+   },
+   "translationPreview": {
+      "message": "Xem trước bản dịch"
+   },
+   "translationPreviewExtra": {
+      "message": "Sau khi mở, bản xem trước của nội dung sau khi dịch sẽ được hiển thị trong thời gian thực, giúp cải thiện độ chính xác của bản dịch."
+   },
+   "translationService": {
+      "message": "Công cụ dịch"
+   },
+   "translationServiceExtra": {
+      "message": "Công cụ để dịch"
+   },
+   "translationSwitch": {
+      "message": "Công tắc dịch"
+   },
+   "translationSwitchExtra": {
+      "message": "Sau khi đóng, chương trình sẽ ngừng hoạt động."
+   },
+   "unlock": {
+      "message": "Mở khóa"
+   },
+   "unlockAllFeatures": {
+      "message": "Mở khóa tất cả các tính năng"
+   },
+   "updatePassword": {
+      "message": "Cập nhật mật khẩu"
+   },
+   "updateSuccess": {
+      "message": "Cập nhật thành công"
+   },
+   "usageToday": {
+      "message": "Số lần sử dụng hôm nay"
+   },
+   "yourLanguage": {
+      "message": "Ngôn ngữ của bạn"
+   },
+   "yourLanguageExtra": {
+      "message": "Tin nhắn bạn nhận được sẽ được dịch sang ngôn ngữ, thường là ngôn ngữ mẹ đẻ của bạn."
+   }
+}

@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Compte"
+   },
+   "addRule": {
+      "message": "Ajouter une règle"
+   },
+   "autoTranslate": {
+      "message": "traduction automatique"
+   },
+   "autoTranslateExtra": {
+      "message": "Après ouverture, le message reçu sera automatiquement traduit sans cliquer manuellement sur Traduire."
+   },
+   "cancel": {
+      "message": "annuler"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "caractère"
+   },
+   "chromeOnly": {
+      "message": "Actuellement, ne prend en charge que l'utilisation de Chrome, les autres navigateurs doivent utiliser la connexion par e-mail"
+   },
+   "clickSend": {
+      "message": "Cliquez sur Envoyer."
+   },
+   "clickSetHotkey": {
+      "message": "Cliquez sur le raccourci paramètres, vous pourrez traduire rapidement le message à envoyer"
+   },
+   "confirmUpdate": {
+      "message": "Confirmer la mise à jour"
+   },
+   "contactSpeakLang": {
+      "message": "langue de contact"
+   },
+   "contactSpeakLangExtra": {
+      "message": "La langue dans laquelle le message que vous envoyez sera traduit, généralement la langue de l'autre partie"
+   },
+   "contactSpeakLangTip": {
+      "message": "S'il est réglé sur auto, le programme détectera automatiquement la langue de l'autre partie"
+   },
+   "currentVersion": {
+      "message": "Version actuelle"
+   },
+   "customerServiceEmail": {
+      "message": "E-mail du service client"
+   },
+   "description": {
+      "message": "Un outil de traduction automatique des messages Whatsapp dans plus de 100 langues (non officiel)"
+   },
+   "earlyBird": {
+      "message": "Réduction Early Bird pour une durée limitée!"
+   },
+   "email": {
+      "message": "email"
+   },
+   "enterToSend": {
+      "message": "Entrer pour envoyer et traduire des messages"
+   },
+   "enterToSendExtra": {
+      "message": "Après l'ouverture, appuyer sur la touche Entrée enverra et traduira le message (le raccourci personnalisé sera ignoré, cette modification de configuration doit être actualisée sur la page WhatsApp pour prendre effet)"
+   },
+   "expirationTime": {
+      "message": "délai d'expiration"
+   },
+   "fastTranslate": {
+      "message": "Envoyer immédiatement"
+   },
+   "fastTranslateExtra": {
+      "message": "Lorsqu'il est activé, lors de l'utilisation de raccourci, les messages sont automatiquement envoyés pendant la traduction"
+   },
+   "firstLogin": {
+      "message": "La première fois que vous vous connectez, vous recevrez immédiatement un abonnement professionnel de 3 jours."
+   },
+   "forgetPassword": {
+      "message": "Mot de passe oublié"
+   },
+   "googleLogin": {
+      "message": "Connectez-vous avec Google"
+   },
+   "helpDocumentation": {
+      "message": "Aide Documentation"
+   },
+   "inputEmail": {
+      "message": "Veuillez saisir votre adresse e-mail!"
+   },
+   "inputHotkey": {
+      "message": "Veuillez saisir des raccourcis"
+   },
+   "inputPassword": {
+      "message": "Veuillez entrer votre mot de passe!"
+   },
+   "languageDetectionEngine": {
+      "message": "Moteur de reconnaissance linguistique"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Sélectionnez le moteur utilisé pour reconnaître la langue du message"
+   },
+   "least": {
+      "message": "moins"
+   },
+   "limitTip": {
+      "message": "❗️ Désolé, vous avez atteint la limite d'essai quotidienne (30 fois / jour), veuillez réessayer demain. (Les utilisateurs PRO sont illimités)"
+   },
+   "login": {
+      "message": "login"
+   },
+   "loginOut": {
+      "message": "déconnexion"
+   },
+   "more": {
+      "message": "plus"
+   },
+   "moreSettings": {
+      "message": "Plus de paramètres"
+   },
+   "name": {
+      "message": "Traducteur automatique Whatsapp ™"
+   },
+   "nativeLanguageInterception": {
+      "message": "traduction forcée"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Après l'activation, lorsque le message n'est pas traduit, interceptez le message envoyé (ce changement de configuration doit actualiser la page WhatsApp pour prendre effet)"
+   },
+   "needToRefresh": {
+      "message": "(Cette modification de configuration doit rafraîchir la page whatsapp pour prendre effet)"
+   },
+   "newPassword": {
+      "message": "nouveau mot de passe"
+   },
+   "noAccount": {
+      "message": "Vous n'avez pas de compte? "
+   },
+   "noDeeplPreview": {
+      "message": "Ce moteur ne prend pas actuellement en charge la fonction de prévisualisation"
+   },
+   "notIsInvalidEmail": {
+      "message": "Pas une adresse e-mail valide."
+   },
+   "officialWebsite": {
+      "message": "site officiel"
+   },
+   "onlineCustomerService": {
+      "message": "Service à la clientèle en ligne"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "originalText": {
+      "message": "original"
+   },
+   "password": {
+      "message": "mot de passe"
+   },
+   "pleaseInput": {
+      "message": "Veuillez entrer"
+   },
+   "proLimitTip": {
+      "message": "Désolé, cette fonctionnalité est limitée aux utilisateurs PRO uniquement."
+   },
+   "refresh": {
+      "message": "rafraîchir"
+   },
+   "register": {
+      "message": "S'inscrire"
+   },
+   "replacementText": {
+      "message": "remplacer"
+   },
+   "sendCaptcha": {
+      "message": "Obtenir le code de vérification"
+   },
+   "sendSuccess": {
+      "message": "Envoyé avec succès"
+   },
+   "setHotkey": {
+      "message": "Définir des raccourcis"
+   },
+   "settingTip": {
+      "message": "Après la première installation, vous devez actualiser la page WhatsApp avant que la configuration ne prenne effet."
+   },
+   "settings": {
+      "message": "paramètres"
+   },
+   "showLangStatus": {
+      "message": "Afficher la langue d'origine"
+   },
+   "showLangStatusExtra": {
+      "message": "Après ouverture, la langue traduite de sera affichée après la traduction. Cliquez sur la langue pour basculer."
+   },
+   "translateBilingual": {
+      "message": "affichage bilingue"
+   },
+   "translateBilingualExtra": {
+      "message": "Après ouverture, le contenu bilingue sera affiché (la traduction est affichée par rapport à l'original)"
+   },
+   "translateTerminology": {
+      "message": "Glossaire"
+   },
+   "translateTerminologyExtra": {
+      "message": "Une fois définie, la fonction de terme reconnaîtra et remplacera préférentiellement le contenu dans le vocabulaire, qui est souvent utilisé pour remplacer les noms et abréviations propres. Notez que la fonction est sensible à la casse et conservera toute la ponctuation entrée, y compris les espaces."
+   },
+   "translateTextColor": {
+      "message": "Traduire la couleur du texte"
+   },
+   "translateTextColorExtra": {
+      "message": "La couleur du contenu traduit"
+   },
+   "translationInterception": {
+      "message": "Le message n'a pas été traduit et a cessé d'être envoyé. Veuillez le traduire avant de l'envoyer, ou cliquez sur le bouton d'envoi du système pour le forcer à être envoyé."
+   },
+   "translationPreview": {
+      "message": "Aperçu de la traduction"
+   },
+   "translationPreviewExtra": {
+      "message": "Après l'ouverture, un aperçu du contenu traduit sera affiché en temps réel, ce qui contribue à améliorer la précision de la traduction."
+   },
+   "translationService": {
+      "message": "Moteur de traduction"
+   },
+   "translationServiceExtra": {
+      "message": "Moteur de traduction"
+   },
+   "translationSwitch": {
+      "message": "Commutateur de traduction"
+   },
+   "translationSwitchExtra": {
+      "message": "Après la fermeture, le programme cessera de fonctionner"
+   },
+   "unlock": {
+      "message": "Déverrouiller"
+   },
+   "unlockAllFeatures": {
+      "message": "Débloquer toutes les fonctionnalités"
+   },
+   "updatePassword": {
+      "message": "Mettre à jour le mot de passe"
+   },
+   "updateSuccess": {
+      "message": "Mise à jour réussie"
+   },
+   "usageToday": {
+      "message": "utilisation aujourd'hui"
+   },
+   "yourLanguage": {
+      "message": "Votre langue"
+   },
+   "yourLanguageExtra": {
+      "message": "La langue dans laquelle le message que vous recevez sera traduit, généralement votre langue maternelle"
+   }
+}

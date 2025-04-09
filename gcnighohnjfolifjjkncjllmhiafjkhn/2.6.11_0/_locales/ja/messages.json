@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "アカウント"
+   },
+   "addRule": {
+      "message": "ルールの追加"
+   },
+   "autoTranslate": {
+      "message": "自動翻訳"
+   },
+   "autoTranslateExtra": {
+      "message": "オンにすると、受信したメッセージが自動的に翻訳され、手動で翻訳をクリックする必要はありません"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "captcha": {
+      "message": "確認コード"
+   },
+   "characters": {
+      "message": "1文字"
+   },
+   "chromeOnly": {
+      "message": "現在はChromeのみをサポートしており、他のブラウザはメールアドレスでログインする必要があります"
+   },
+   "clickSend": {
+      "message": "クリックして送信"
+   },
+   "clickSetHotkey": {
+      "message": "設定ショートカットをクリックすると、送信するメッセージをすばやく翻訳できます"
+   },
+   "confirmUpdate": {
+      "message": "更新の確認"
+   },
+   "contactSpeakLang": {
+      "message": "連絡先の言語"
+   },
+   "contactSpeakLangExtra": {
+      "message": "あなたが送信するメッセージは、通常、相手の言語に翻訳されます"
+   },
+   "contactSpeakLangTip": {
+      "message": "自動に設定すると、プログラムは自動的に相手の言語を検出します"
+   },
+   "currentVersion": {
+      "message": "現在のバージョン"
+   },
+   "customerServiceEmail": {
+      "message": "カスタマーサポートのメールアドレス"
+   },
+   "description": {
+      "message": "100以上の言語をサポートするWhatsappメッセージ自動翻訳ツール(非公式)"
+   },
+   "earlyBird": {
+      "message": "期間限定の早期割引!"
+   },
+   "email": {
+      "message": "メールアドレス"
+   },
+   "enterToSend": {
+      "message": "Enterキーメッセージの送信と翻訳"
+   },
+   "enterToSendExtra": {
+      "message": "オンにすると、Enterキーを押すとメッセージが送信され、翻訳されます(カスタムショートカットキーは無視されます。この構成は変更され、whatsappページを更新する必要があります)"
+   },
+   "expirationTime": {
+      "message": "有効期限"
+   },
+   "fastTranslate": {
+      "message": "今すぐ送信"
+   },
+   "fastTranslateExtra": {
+      "message": "オンにすると、ショートカットキーを使用すると、翻訳と同時に自動的にメッセージが送信されます"
+   },
+   "firstLogin": {
+      "message": "初めてログインすると、すぐに3日間のプロフェッショナルメンバーシップを獲得できます。"
+   },
+   "forgetPassword": {
+      "message": "パスワードを忘れた"
+   },
+   "googleLogin": {
+      "message": "Googleでログイン"
+   },
+   "helpDocumentation": {
+      "message": "ヘルプドキュメント"
+   },
+   "inputEmail": {
+      "message": "メールアドレスを入力してください!"
+   },
+   "inputHotkey": {
+      "message": "ショートカットキーを入力してください"
+   },
+   "inputPassword": {
+      "message": "パスワードを入力してください!"
+   },
+   "languageDetectionEngine": {
+      "message": "言語認識エンジン"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "メッセージの言語を認識するエンジンを選択します"
+   },
+   "least": {
+      "message": "最少"
+   },
+   "limitTip": {
+      "message": "❗️ 申し訳ありませんが、1日のトライアルの上限（1日30回）に達しました。明日もう一度お試しください。（PROユーザー制限なし）"
+   },
+   "login": {
+      "message": "ログイン"
+   },
+   "loginOut": {
+      "message": "ログアウト"
+   },
+   "more": {
+      "message": "もっと"
+   },
+   "moreSettings": {
+      "message": "より多くの設定"
+   },
+   "name": {
+      "message": "自動Whatsapp™翻訳機-受信と送信のメッセージを自動的に翻訳します"
+   },
+   "nativeLanguageInterception": {
+      "message": "強制翻訳"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "オンにすると、メッセージが翻訳されていない場合、送信されたメッセージを傍受します(この構成の変更は、whatsappページを更新してから有効にする必要があります)"
+   },
+   "needToRefresh": {
+      "message": "(この構成の変更は、whatsappページを更新してから有効にする必要があります)"
+   },
+   "newPassword": {
+      "message": "新しいパスワード"
+   },
+   "noAccount": {
+      "message": "アカウントなし? "
+   },
+   "noDeeplPreview": {
+      "message": "このエンジンはプレビュー機能をサポートしていません"
+   },
+   "notIsInvalidEmail": {
+      "message": "有効なメールアドレスではありません"
+   },
+   "officialWebsite": {
+      "message": "公式サイト"
+   },
+   "onlineCustomerService": {
+      "message": "オンラインカスタマーサポート"
+   },
+   "or": {
+      "message": "または"
+   },
+   "originalText": {
+      "message": "原文の"
+   },
+   "password": {
+      "message": "パスワード"
+   },
+   "pleaseInput": {
+      "message": "入力してください"
+   },
+   "proLimitTip": {
+      "message": "申し訳ありませんが、この機能はPROユーザーのみです。"
+   },
+   "refresh": {
+      "message": "リフレッシュ"
+   },
+   "register": {
+      "message": "登録する"
+   },
+   "replacementText": {
+      "message": "置換"
+   },
+   "sendCaptcha": {
+      "message": "認証コードを取得する"
+   },
+   "sendSuccess": {
+      "message": "送信成功"
+   },
+   "setHotkey": {
+      "message": "ショートカットキーの設定"
+   },
+   "settingTip": {
+      "message": "最初にインストールした後、whatsappページを更新してから構成が有効になります"
+   },
+   "settings": {
+      "message": "設定する"
+   },
+   "showLangStatus": {
+      "message": "元の言語を表示"
+   },
+   "showLangStatusExtra": {
+      "message": "オンにすると、翻訳後に翻訳された言語が表示され、その言語をクリックすると切り替えることができます"
+   },
+   "translateBilingual": {
+      "message": "バイリンガル表示"
+   },
+   "translateBilingualExtra": {
+      "message": "オンにすると、バイリンガルコンテンツが表示されます(訳文と原文の対照表示)"
+   },
+   "translateTerminology": {
+      "message": "用語集"
+   },
+   "translateTerminologyExtra": {
+      "message": "設定すると、用語機能は用語集の内容を優先的に認識して置き換えます。これは通常、固有名詞や略語を置き換えるために使用されます。この機能は大文字と小文字を区別し、スペースを含むすべての入力句読点を保持することに注意してください。"
+   },
+   "translateTextColor": {
+      "message": "翻訳テキストの色"
+   },
+   "translateTextColorExtra": {
+      "message": "翻訳後のコンテンツの色"
+   },
+   "translationInterception": {
+      "message": "メッセージが翻訳されていないため、送信を停止します。翻訳してから送信するか、システム送信ボタンをクリックして強制的に送信してください。"
+   },
+   "translationPreview": {
+      "message": "翻訳プレビュー"
+   },
+   "translationPreviewExtra": {
+      "message": "オンにすると、翻訳後の内容のプレビューがリアルタイムで表示され、翻訳精度の向上に役立ちます"
+   },
+   "translationService": {
+      "message": "翻訳エンジン"
+   },
+   "translationServiceExtra": {
+      "message": "翻訳用エンジン"
+   },
+   "translationSwitch": {
+      "message": "翻訳スイッチ"
+   },
+   "translationSwitchExtra": {
+      "message": "閉じると、プログラムは動作を停止します"
+   },
+   "unlock": {
+      "message": "ロック解除"
+   },
+   "unlockAllFeatures": {
+      "message": "すべての機能をアンロック"
+   },
+   "updatePassword": {
+      "message": "パスワードの更新"
+   },
+   "updateSuccess": {
+      "message": "更新成功"
+   },
+   "usageToday": {
+      "message": "今日の使用回数"
+   },
+   "yourLanguage": {
+      "message": "あなたの言語"
+   },
+   "yourLanguageExtra": {
+      "message": "受信したメッセージは、通常は母国語である言語に翻訳されます"
+   }
+}

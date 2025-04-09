@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Účet"
+   },
+   "addRule": {
+      "message": "Přidat pravidlo"
+   },
+   "autoTranslate": {
+      "message": "automatický překlad"
+   },
+   "autoTranslateExtra": {
+      "message": "Po otevření bude přijatá zpráva automaticky přeložena bez ručního kliknutí na Přeložit."
+   },
+   "cancel": {
+      "message": "zrušit"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "znak"
+   },
+   "chromeOnly": {
+      "message": "V současné době podporuje pouze použití Chrome, ostatní prohlížeče musí používat přihlášení e-mailem"
+   },
+   "clickSend": {
+      "message": "Klikněte na Odeslat."
+   },
+   "clickSetHotkey": {
+      "message": "Klikněte na zástupce nastavení, můžete rychle přeložit zprávu, která má být odeslána"
+   },
+   "confirmUpdate": {
+      "message": "Potvrdit aktualizaci"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktní jazyk"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Jazyk, do kterého bude odeslaná zpráva přeložena, obvykle jazyk druhé strany"
+   },
+   "contactSpeakLangTip": {
+      "message": "Pokud je nastaveno na automatické, program automaticky rozpozná jazyk druhé strany."
+   },
+   "currentVersion": {
+      "message": "Aktuální verze"
+   },
+   "customerServiceEmail": {
+      "message": "E-mail zákaznického servisu"
+   },
+   "description": {
+      "message": "Nástroj automatického překladu pro Whatsapp zprávy ve více než 100 jazycích (neoficiální)"
+   },
+   "earlyBird": {
+      "message": "Early bird sleva na omezenou dobu!"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "enterToSend": {
+      "message": "Zadejte pro odesílání a překládání zpráv"
+   },
+   "enterToSendExtra": {
+      "message": "Po otevření stisknutím klávesy Enter odešle a přeloží zprávu (vlastní zástupce bude ignorován, tato změna konfigurace musí být obnovena na stránce WhatsApp, aby se projevila)"
+   },
+   "expirationTime": {
+      "message": "doba vypršení platnosti"
+   },
+   "fastTranslate": {
+      "message": "Odeslat ihned"
+   },
+   "fastTranslateExtra": {
+      "message": "Při zapnutí, při použití zástupce, se zprávy automaticky odesílají při překladu"
+   },
+   "firstLogin": {
+      "message": "Při prvním přihlášení získáte okamžitě třídenní profesionální členství."
+   },
+   "forgetPassword": {
+      "message": "Zapomenuté heslo"
+   },
+   "googleLogin": {
+      "message": "Přihlásit se pomocí Google"
+   },
+   "helpDocumentation": {
+      "message": "Dokumentace nápovědy"
+   },
+   "inputEmail": {
+      "message": "Zadejte svou e-mailovou adresu!"
+   },
+   "inputHotkey": {
+      "message": "Zadejte zástupce"
+   },
+   "inputPassword": {
+      "message": "Zadejte své heslo!"
+   },
+   "languageDetectionEngine": {
+      "message": "motor pro rozpoznávání jazyků"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Vyberte motor používaný k rozpoznání jazyka zprávy"
+   },
+   "least": {
+      "message": "nejméně"
+   },
+   "limitTip": {
+      "message": "❗️ Omlouváme se, dosáhli jste denního zkušebního limitu (30 krát denně), zkuste to prosím znovu zítra. (Uživatelé PRO jsou neomezeni)"
+   },
+   "login": {
+      "message": "Přihlášení"
+   },
+   "loginOut": {
+      "message": "odhlásit"
+   },
+   "more": {
+      "message": "více"
+   },
+   "moreSettings": {
+      "message": "Další nastavení"
+   },
+   "name": {
+      "message": "Automatický Whatsapp ™ Překladatel"
+   },
+   "nativeLanguageInterception": {
+      "message": "nucený překlad"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Po zapnutí, když zpráva není přeložena, zachytit odeslanou zprávu (tato změna konfigurace musí obnovit stránku whatsapp, aby se projevila)"
+   },
+   "needToRefresh": {
+      "message": "(Tato změna konfigurace musí obnovit stránku whatsapp, aby se projevila)"
+   },
+   "newPassword": {
+      "message": "nové heslo"
+   },
+   "noAccount": {
+      "message": "Nemáte účet? "
+   },
+   "noDeeplPreview": {
+      "message": "Tento motor momentálně nepodporuje funkci náhledu."
+   },
+   "notIsInvalidEmail": {
+      "message": "Neplatná e-mailová adresa."
+   },
+   "officialWebsite": {
+      "message": "Oficiální stránky"
+   },
+   "onlineCustomerService": {
+      "message": "Online zákaznický servis"
+   },
+   "or": {
+      "message": "nebo"
+   },
+   "originalText": {
+      "message": "původní"
+   },
+   "password": {
+      "message": "heslo"
+   },
+   "pleaseInput": {
+      "message": "Prosím zadejte"
+   },
+   "proLimitTip": {
+      "message": "Omlouváme se, tato funkce je omezena pouze na uživatele PRO."
+   },
+   "refresh": {
+      "message": "Obnovit"
+   },
+   "register": {
+      "message": "Přihlásit"
+   },
+   "replacementText": {
+      "message": "nahradit"
+   },
+   "sendCaptcha": {
+      "message": "Získat ověřovací kód"
+   },
+   "sendSuccess": {
+      "message": "Úspěšně odesláno"
+   },
+   "setHotkey": {
+      "message": "Nastavit klávesové zkratky"
+   },
+   "settingTip": {
+      "message": "Po první instalaci je třeba aktualizovat stránku WhatsApp předtím, než se konfigurace projeví."
+   },
+   "settings": {
+      "message": "nastavení"
+   },
+   "showLangStatus": {
+      "message": "Zobrazit původní jazyk"
+   },
+   "showLangStatusExtra": {
+      "message": "Po otevření se po překladu zobrazí přeložený jazyk. Klikněte na jazyk pro přepnutí."
+   },
+   "translateBilingual": {
+      "message": "bilingvní displej"
+   },
+   "translateBilingualExtra": {
+      "message": "Po otevření se zobrazí dvojjazyčný obsah (překlad se zobrazí proti originálu)"
+   },
+   "translateTerminology": {
+      "message": "Slovník pojmů"
+   },
+   "translateTerminologyExtra": {
+      "message": "Jakmile je nastavena, termín funkce přednostně rozpozná a nahradí obsah ve slovníku, který se často používá k nahrazení správných podstatných jmen a zkratek. Všimněte si, že funkce je citlivá na velká a velká písmena a zachová všechny zadané interpunkce včetně mezer."
+   },
+   "translateTextColor": {
+      "message": "Přeložit barvu textu"
+   },
+   "translateTextColorExtra": {
+      "message": "Barva přeloženého obsahu"
+   },
+   "translationInterception": {
+      "message": "Zpráva nebyla přeložena a přestala odesílat. Prosím přeložte ji před odesláním, nebo klikněte na tlačítko odeslat systému pro vynucení odeslání."
+   },
+   "translationPreview": {
+      "message": "Náhled překladu"
+   },
+   "translationPreviewExtra": {
+      "message": "Po otevření se zobrazí náhled přeloženého obsahu v reálném čase, což pomáhá zlepšit přesnost překladu."
+   },
+   "translationService": {
+      "message": "Překladatelský stroj"
+   },
+   "translationServiceExtra": {
+      "message": "Stroj pro překlad"
+   },
+   "translationSwitch": {
+      "message": "Přepínač překladu"
+   },
+   "translationSwitchExtra": {
+      "message": "Po ukončení programu program přestane fungovat"
+   },
+   "unlock": {
+      "message": "Odemknout"
+   },
+   "unlockAllFeatures": {
+      "message": "Odemknout všechny funkce"
+   },
+   "updatePassword": {
+      "message": "Aktualizovat heslo"
+   },
+   "updateSuccess": {
+      "message": "Úspěšná aktualizace"
+   },
+   "usageToday": {
+      "message": "Využití dnes"
+   },
+   "yourLanguage": {
+      "message": "Váš jazyk"
+   },
+   "yourLanguageExtra": {
+      "message": "Jazyk, do kterého bude zpráva, kterou obdržíte, přeložena, obvykle váš rodný jazyk"
+   }
+}

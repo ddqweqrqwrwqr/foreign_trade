@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Cont"
+   },
+   "addRule": {
+      "message": "Adăugați regulă"
+   },
+   "autoTranslate": {
+      "message": "traducere automată"
+   },
+   "autoTranslateExtra": {
+      "message": "După deschidere, mesajul primit va fi tradus automat fără a face clic manual pe Traducere."
+   },
+   "cancel": {
+      "message": "anula"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "caracter"
+   },
+   "chromeOnly": {
+      "message": "În prezent acceptă numai utilizarea Chrome, alte browsere trebuie să utilizeze autentificarea prin e-mail"
+   },
+   "clickSend": {
+      "message": "Faceți clic pe Trimiteți."
+   },
+   "clickSetHotkey": {
+      "message": "Faceți clic pe comanda rapidă de setări, puteți traduce rapid mesajul care urmează să fie trimis"
+   },
+   "confirmUpdate": {
+      "message": "Confirmați actualizarea"
+   },
+   "contactSpeakLang": {
+      "message": "limba de contact"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Limba în care va fi tradus mesajul pe care îl trimiteți, de obicei limba celeilalte părți"
+   },
+   "contactSpeakLangTip": {
+      "message": "Dacă este setat automat, programul va detecta automat limba celeilalte părți"
+   },
+   "currentVersion": {
+      "message": "Versiunea curentă"
+   },
+   "customerServiceEmail": {
+      "message": "Serviciul clienți e-mail"
+   },
+   "description": {
+      "message": "Un instrument de traducere automată pentru Whatsapp mesaje în peste 100 de limbi (neoficial)"
+   },
+   "earlyBird": {
+      "message": "Reducere timpurie pentru o perioadă limitată!"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "enterToSend": {
+      "message": "Enter pentru a trimite și traduce mesaje"
+   },
+   "enterToSendExtra": {
+      "message": "După deschidere, apăsând tasta Enter va trimite și traduce mesajul (comanda rapidă personalizată va fi ignorată, această modificare a configurației trebuie actualizată la pagina WhatsApp pentru a intra în vigoare)"
+   },
+   "expirationTime": {
+      "message": "timpul de expirare"
+   },
+   "fastTranslate": {
+      "message": "Trimite imediat"
+   },
+   "fastTranslateExtra": {
+      "message": "Când sunt activate, când se utilizează comanda rapidă, mesajele sunt trimise automat în timpul traducerii"
+   },
+   "firstLogin": {
+      "message": "Prima dată când vă conectați, veți primi imediat un abonament profesional de 3 zile."
+   },
+   "forgetPassword": {
+      "message": "Am uitat parola"
+   },
+   "googleLogin": {
+      "message": "Conectați-vă cu Google"
+   },
+   "helpDocumentation": {
+      "message": "Documentație de ajutor"
+   },
+   "inputEmail": {
+      "message": "Vă rugăm să introduceți adresa de e-mail!"
+   },
+   "inputHotkey": {
+      "message": "Vă rugăm să introduceți comenzi rapide"
+   },
+   "inputPassword": {
+      "message": "Vă rugăm să introduceți parola!"
+   },
+   "languageDetectionEngine": {
+      "message": "motor de recunoaștere a limbii"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Selectați motorul folosit pentru a recunoaște limba mesajului"
+   },
+   "least": {
+      "message": "cel mai mic"
+   },
+   "limitTip": {
+      "message": "❗️ Ne pare rău, ați atins limita zilnică de încercare (de 30 de ori / zi), vă rugăm să încercați din nou mâine. (Utilizatorii PRO sunt nelimitați)"
+   },
+   "login": {
+      "message": "Autentificare"
+   },
+   "loginOut": {
+      "message": "deconectare"
+   },
+   "more": {
+      "message": "Mai Mult"
+   },
+   "moreSettings": {
+      "message": "Mai multe setări"
+   },
+   "name": {
+      "message": "Traducător automat Whatsapp ™"
+   },
+   "nativeLanguageInterception": {
+      "message": "traducere forțată"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "După activare, când mesajul nu este tradus, interceptați mesajul trimis (această modificare a configurației trebuie să reîmprospăteze pagina WhatsApp pentru a intra în vigoare)"
+   },
+   "needToRefresh": {
+      "message": "(Această modificare a configurației trebuie să reîmprospăteze pagina WhatsApp pentru a avea efect)"
+   },
+   "newPassword": {
+      "message": "parolă nouă"
+   },
+   "noAccount": {
+      "message": "Nu aveți un cont? "
+   },
+   "noDeeplPreview": {
+      "message": "Acest motor nu acceptă în prezent funcția de previzualizare"
+   },
+   "notIsInvalidEmail": {
+      "message": "Nu este o adresă de e-mail validă."
+   },
+   "officialWebsite": {
+      "message": "site-ul oficial"
+   },
+   "onlineCustomerService": {
+      "message": "Serviciu clienți online"
+   },
+   "or": {
+      "message": "sau"
+   },
+   "originalText": {
+      "message": "original"
+   },
+   "password": {
+      "message": "Parola"
+   },
+   "pleaseInput": {
+      "message": "Vă rugăm să introduceți"
+   },
+   "proLimitTip": {
+      "message": "Ne pare rău, această caracteristică este limitată doar la utilizatorii PRO."
+   },
+   "refresh": {
+      "message": "reîmprospătare"
+   },
+   "register": {
+      "message": "Înregistrare"
+   },
+   "replacementText": {
+      "message": "înlocuiți"
+   },
+   "sendCaptcha": {
+      "message": "Obțineți codul de verificare"
+   },
+   "sendSuccess": {
+      "message": "Trimis cu succes"
+   },
+   "setHotkey": {
+      "message": "Setează comenzi rapide"
+   },
+   "settingTip": {
+      "message": "După prima instalare, trebuie să reîmprospătați pagina WhatsApp înainte ca configurația să intre în vigoare."
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "showLangStatus": {
+      "message": "Arată limba originală"
+   },
+   "showLangStatusExtra": {
+      "message": "După deschidere, limba tradusă din va fi afișată după traducere. Faceți clic pe limba pentru a comuta."
+   },
+   "translateBilingual": {
+      "message": "afișare bilingvă"
+   },
+   "translateBilingualExtra": {
+      "message": "După deschidere, va fi afișat conținut bilingv (traducerea este afișată față de original)"
+   },
+   "translateTerminology": {
+      "message": "Glosar"
+   },
+   "translateTerminologyExtra": {
+      "message": "Odată setat, termenul de funcție va recunoaște și înlocui preferențial conținutul din vocabular, care este adesea folosit pentru a înlocui substantivele și abrevierile corespunzătoare. Rețineți că funcția este sensibilă la majuscule și minuscule și va păstra toate punctuațiile introduse, inclusiv spațiile."
+   },
+   "translateTextColor": {
+      "message": "Traduceți culoarea textului"
+   },
+   "translateTextColorExtra": {
+      "message": "Culoarea conținutului tradus"
+   },
+   "translationInterception": {
+      "message": "Mesajul nu a fost tradus și nu a mai fost trimis. Vă rugăm să îl traduceți înainte de a-l trimite sau faceți clic pe butonul de trimitere a sistemului pentru a forța trimiterea acestuia."
+   },
+   "translationPreview": {
+      "message": "Previzualizare traducere"
+   },
+   "translationPreviewExtra": {
+      "message": "După deschidere, o previzualizare a conținutului tradus va fi afișată în timp real, ceea ce ajută la îmbunătățirea preciziei traducerii"
+   },
+   "translationService": {
+      "message": "Motorul de traducere"
+   },
+   "translationServiceExtra": {
+      "message": "Motor pentru traducere"
+   },
+   "translationSwitch": {
+      "message": "Comutator de traducere"
+   },
+   "translationSwitchExtra": {
+      "message": "După închidere, programul nu va mai funcționa"
+   },
+   "unlock": {
+      "message": "Deblocare"
+   },
+   "unlockAllFeatures": {
+      "message": "Deblocați toate caracteristicile"
+   },
+   "updatePassword": {
+      "message": "Actualizați parola"
+   },
+   "updateSuccess": {
+      "message": "Actualizare reușită"
+   },
+   "usageToday": {
+      "message": "utilizare astăzi"
+   },
+   "yourLanguage": {
+      "message": "Limba ta"
+   },
+   "yourLanguageExtra": {
+      "message": "Limba în care va fi tradus mesajul pe care îl primiți, de obicei limba dvs. maternă"
+   }
+}

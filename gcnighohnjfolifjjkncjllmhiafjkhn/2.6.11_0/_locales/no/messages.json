@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "addRule": {
+      "message": "Legg til regel"
+   },
+   "autoTranslate": {
+      "message": "automatisk oversettelse"
+   },
+   "autoTranslateExtra": {
+      "message": "Etter åpningen blir den mottatte meldingen automatisk oversatt uten å klikke manuelt på Oversette."
+   },
+   "cancel": {
+      "message": "avbryt"
+   },
+   "captcha": {
+      "message": "Norsk"
+   },
+   "characters": {
+      "message": "karakter"
+   },
+   "chromeOnly": {
+      "message": "Støtter for øyeblikket bare Chrome-bruk, andre nettlesere må bruke pålogging via e-post"
+   },
+   "clickSend": {
+      "message": "Klikk Send."
+   },
+   "clickSetHotkey": {
+      "message": "Klikk på snarveien innstillinger, du kan raskt oversette meldingen som skal sendes"
+   },
+   "confirmUpdate": {
+      "message": "Bekreft oppdatering"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktspråk"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Språket som meldingen du sender vil bli oversatt til, vanligvis språket til den andre parten"
+   },
+   "contactSpeakLangTip": {
+      "message": "Hvis det er satt til automatisk, vil programmet automatisk oppdage den andre partens språk"
+   },
+   "currentVersion": {
+      "message": "Nåværende versjon"
+   },
+   "customerServiceEmail": {
+      "message": "Kundeservice e-post"
+   },
+   "description": {
+      "message": "Et automatisk oversettelsesverktøy for Whatsapp-meldinger på mer enn 100 språk (uoffisielt)"
+   },
+   "earlyBird": {
+      "message": "Tidlig fuglrabatt i en begrenset periode!"
+   },
+   "email": {
+      "message": "e-post"
+   },
+   "enterToSend": {
+      "message": "Skriv inn for å sende og oversette meldinger"
+   },
+   "enterToSendExtra": {
+      "message": "Etter åpning vil du trykke på Enter-tasten sende og oversette meldingen (den tilpassede snarveien blir ignorert, denne konfigurasjonsendringen må oppdateres til whatsapp-siden for å tre i kraft)"
+   },
+   "expirationTime": {
+      "message": "utløpstid"
+   },
+   "fastTranslate": {
+      "message": "Send umiddelbart"
+   },
+   "fastTranslateExtra": {
+      "message": "Når du er slått på, når du bruker snarveien, sendes meldinger automatisk mens du oversetter"
+   },
+   "firstLogin": {
+      "message": "Første gang du logger på, vil du umiddelbart motta et 3-dagers profesjonelt medlemskap."
+   },
+   "forgetPassword": {
+      "message": "Glemte passord"
+   },
+   "googleLogin": {
+      "message": "Logg på med Google"
+   },
+   "helpDocumentation": {
+      "message": "Hjelpdokumentasjon"
+   },
+   "inputEmail": {
+      "message": "Vennligst skriv inn din e-postadresse!"
+   },
+   "inputHotkey": {
+      "message": "Vennligst skriv inn snarveier"
+   },
+   "inputPassword": {
+      "message": "Vennligst skriv inn passordet ditt!"
+   },
+   "languageDetectionEngine": {
+      "message": "språkgjenkjenningsmotor"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Velg motoren som brukes til å gjenkjenne meldingsspråket"
+   },
+   "least": {
+      "message": "minst"
+   },
+   "limitTip": {
+      "message": "❗️ Beklager, du har nådd den daglige prøvegrensen (30 ganger / dag), prøv igjen i morgen. (PRO-brukere er ubegrenset)"
+   },
+   "login": {
+      "message": "innlogging"
+   },
+   "loginOut": {
+      "message": "logg ut"
+   },
+   "more": {
+      "message": "mer"
+   },
+   "moreSettings": {
+      "message": "Flere innstillinger"
+   },
+   "name": {
+      "message": "Automatisk Whatsapp ™ Oversetter"
+   },
+   "nativeLanguageInterception": {
+      "message": "tvunget oversettelse"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Etter aktivering, når meldingen ikke er oversatt, avlytter du den sendte meldingen (denne konfigurasjonsendringen må oppdatere whatsapp-siden for å tre i kraft)"
+   },
+   "needToRefresh": {
+      "message": "(Denne konfigurasjonsendringen må oppdatere whatsapp-siden for å tre i kraft)"
+   },
+   "newPassword": {
+      "message": "nytt passord"
+   },
+   "noAccount": {
+      "message": "Har du ikke en konto? "
+   },
+   "noDeeplPreview": {
+      "message": "Denne motoren støtter for øyeblikket ikke forhåndsvisningsfunksjonen"
+   },
+   "notIsInvalidEmail": {
+      "message": "Ikke en gyldig e-postadresse."
+   },
+   "officialWebsite": {
+      "message": "offisielt nettsted"
+   },
+   "onlineCustomerService": {
+      "message": "Online kundeservice"
+   },
+   "or": {
+      "message": "eller"
+   },
+   "originalText": {
+      "message": "original"
+   },
+   "password": {
+      "message": "Passord"
+   },
+   "pleaseInput": {
+      "message": "Vennligst skriv inn"
+   },
+   "proLimitTip": {
+      "message": "Beklager, denne funksjonen er bare begrenset til PRO-brukere."
+   },
+   "refresh": {
+      "message": "oppdater"
+   },
+   "register": {
+      "message": "Registrer"
+   },
+   "replacementText": {
+      "message": "erstatte"
+   },
+   "sendCaptcha": {
+      "message": "Få bekreftelseskode"
+   },
+   "sendSuccess": {
+      "message": "Sendt vellykket"
+   },
+   "setHotkey": {
+      "message": "Sett snarveier"
+   },
+   "settingTip": {
+      "message": "Etter den første installasjonen må du oppdatere whatsapp-siden før konfigurasjonen trer i kraft."
+   },
+   "settings": {
+      "message": "innstillinger"
+   },
+   "showLangStatus": {
+      "message": "Vis originalspråk"
+   },
+   "showLangStatusExtra": {
+      "message": "Etter åpning vil språket oversatt fra vises etter oversettelsen. Klikk på språket for å bytte."
+   },
+   "translateBilingual": {
+      "message": "Tospråklig skjerm"
+   },
+   "translateBilingualExtra": {
+      "message": "Etter åpning vises tospråklig innhold (oversettelsen vises mot originalen)"
+   },
+   "translateTerminology": {
+      "message": "Ordliste"
+   },
+   "translateTerminologyExtra": {
+      "message": "Når det er angitt, vil begrepsfunksjonen fortrinnsvis gjenkjenne og erstatte innholdet i ordforrådet, som ofte brukes til å erstatte riktige substantiver og forkortelser. Merk at funksjonen er sakssensitiv og vil beholde alle angitte tegnsetting, inkludert mellomrom."
+   },
+   "translateTextColor": {
+      "message": "Oversett tekstfarge"
+   },
+   "translateTextColorExtra": {
+      "message": "Fargen på det oversatte innholdet"
+   },
+   "translationInterception": {
+      "message": "Meldingen har ikke blitt oversatt og sluttet å sende. Vennligst oversett den før du sender den, eller klikk på send-knappen for å tvinge den til å bli sendt."
+   },
+   "translationPreview": {
+      "message": "Oversettelse Forhåndsvisning"
+   },
+   "translationPreviewExtra": {
+      "message": "Etter åpning vil en forhåndsvisning av det oversatte innholdet vises i sanntid, noe som bidrar til å forbedre oversettelsesnøyaktigheten"
+   },
+   "translationService": {
+      "message": "Oversettelsesmotor"
+   },
+   "translationServiceExtra": {
+      "message": "Motor for oversettelse"
+   },
+   "translationSwitch": {
+      "message": "Oversettelsesbryter"
+   },
+   "translationSwitchExtra": {
+      "message": "Etter stenging vil programmet slutte å fungere"
+   },
+   "unlock": {
+      "message": "Lås opp"
+   },
+   "unlockAllFeatures": {
+      "message": "Lås opp alle funksjonene"
+   },
+   "updatePassword": {
+      "message": "Oppdater passord"
+   },
+   "updateSuccess": {
+      "message": "Oppdatering vellykket"
+   },
+   "usageToday": {
+      "message": "bruk i dag"
+   },
+   "yourLanguage": {
+      "message": "Ditt språk"
+   },
+   "yourLanguageExtra": {
+      "message": "Språket som meldingen du mottar vil bli oversatt til, vanligvis morsmålet ditt"
+   }
+}

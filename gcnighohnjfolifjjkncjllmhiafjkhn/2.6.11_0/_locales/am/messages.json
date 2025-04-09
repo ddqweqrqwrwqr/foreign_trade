@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "መለያ"
+   },
+   "addRule": {
+      "message": "ደንብ ይጨምሩ"
+   },
+   "autoTranslate": {
+      "message": "ራስ-ሰር ትርጉም"
+   },
+   "autoTranslateExtra": {
+      "message": "ከተከፈተ በኋላ, የተቀበለው መልእክት በእጅ ተርጉም ጠቅ ሳይደረግ በራስ-ሰር ይተረጎማል."
+   },
+   "cancel": {
+      "message": "መሰረዝ"
+   },
+   "captcha": {
+      "message": "ካፒታል"
+   },
+   "characters": {
+      "message": "ባህሪ"
+   },
+   "chromeOnly": {
+      "message": "በአሁኑ ጊዜ የ Chrome አጠቃቀምን ብቻ ይደግፋል, ሌሎች አሳሾች የኢሜል መግቢያን መጠቀም አለባቸው"
+   },
+   "clickSend": {
+      "message": "መላክን ጠቅ ያድርጉ።"
+   },
+   "clickSetHotkey": {
+      "message": "የቅንብሮች አቋራጭ ላይ ጠቅ ያድርጉ, የሚላከውን መልእክት በፍጥነት መተርጎም ይችላሉ"
+   },
+   "confirmUpdate": {
+      "message": "ዝማኔውን ያረጋግጡ"
+   },
+   "contactSpeakLang": {
+      "message": "የእውቂያ ቋንቋ"
+   },
+   "contactSpeakLangExtra": {
+      "message": "የሚልኩት መልእክት የሚተረጎምበት ቋንቋ፣ አብዛኛውን ጊዜ የሌላው ወገን ቋንቋ"
+   },
+   "contactSpeakLangTip": {
+      "message": "ወደ ራስ-ሰር ከተዋቀረ ፕሮግራሙ የሌላውን ወገን ቋንቋ በራስ-ሰር ያገኛል"
+   },
+   "currentVersion": {
+      "message": "የአሁኑ ስሪት"
+   },
+   "customerServiceEmail": {
+      "message": "የደንበኞች አገልግሎት ኢሜይል"
+   },
+   "description": {
+      "message": "ከ100 በላይ ቋንቋዎች ለ Whatsapp መልዕክቶች አውቶማቲክ የትርጉም መሣሪያ (ኦፊሴላዊ ያልሆነ)"
+   },
+   "earlyBird": {
+      "message": "ለተወሰነ ጊዜ ቀደምት ወፍ ቅናሽ!"
+   },
+   "email": {
+      "message": "ኢሜይል"
+   },
+   "enterToSend": {
+      "message": "መልዕክቶችን ለመላክ እና ለመተርጎም ያስገቡ"
+   },
+   "enterToSendExtra": {
+      "message": "ከተከፈተ በኋላ, የ Enter ቁልፍ በመጫን መልእክቱን ይልካል እና ይተረጉማል (የ ብጁ አቋራጭ ችላ ይሆናል, ይህ ውቅረት ማሻሻያ ተግባራዊ ለማድረግ ወደ whatsapp ገጽ ማደስ ያስፈልገዋል)"
+   },
+   "expirationTime": {
+      "message": "የማለቂያ ጊዜ"
+   },
+   "fastTranslate": {
+      "message": "ወዲያውኑ ላክ"
+   },
+   "fastTranslateExtra": {
+      "message": "ሲበራ, አቋራጭ በመጠቀም ጊዜ, በመተርጎም ላይ ሳለ መልዕክቶች በራስ-ሰር ይላካሉ"
+   },
+   "firstLogin": {
+      "message": "ለመጀመሪያ ጊዜ ሲገቡ ወዲያውኑ የ3-ቀን ሙያዊ አባልነት ይቀበላሉ።"
+   },
+   "forgetPassword": {
+      "message": "የይለፍ ቃል ረስተዋል"
+   },
+   "googleLogin": {
+      "message": "Google ጋር ይግቡ"
+   },
+   "helpDocumentation": {
+      "message": "የእገዛ ሰነዶች"
+   },
+   "inputEmail": {
+      "message": "እባክዎ የኢሜይል አድራሻዎን ያስገቡ!"
+   },
+   "inputHotkey": {
+      "message": "እባክዎ አቋራጮችን ያስገቡ"
+   },
+   "inputPassword": {
+      "message": "እባክዎ የይለፍ ቃልዎን ያስገቡ!"
+   },
+   "languageDetectionEngine": {
+      "message": "ቋንቋ ማወቂያ ሞተር"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "የመልእክት ቋንቋን ለመለየት ጥቅም ላይ የዋለውን ሞተር ይምረጡ"
+   },
+   "least": {
+      "message": "ቢያንስ"
+   },
+   "limitTip": {
+      "message": "❗️ ይቅርታ፣ ዕለታዊ የሙከራ ገደብ ላይ ደርሰዋል (በቀን 30 ጊዜ)፣ እባክዎ ነገ እንደገና ይሞክሩ። (PRO ተጠቃሚዎች ያልተገደቡ ናቸው)"
+   },
+   "login": {
+      "message": "መግቢያ"
+   },
+   "loginOut": {
+      "message": "ውጣ ውጣ"
+   },
+   "more": {
+      "message": "ተጨማሪ"
+   },
+   "moreSettings": {
+      "message": "ተጨማሪ ቅንብሮች"
+   },
+   "name": {
+      "message": "ሰር Whatsapp ™ ተርጓሚ - በራስ-ሰር የተቀበሉ እና የተላኩ መልዕክቶችን መተርጎም"
+   },
+   "nativeLanguageInterception": {
+      "message": "የግዳጅ ትርጉም"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "ማንቃት በኋላ, መልእክቱ ካልተተረጎመ ጊዜ, የተላከውን መልእክት መጥለፍ (ይህ ውቅረት ለውጥ ተግባራዊ ለማድረግ የ whatsapp ገጽን ማደስ ያስፈልገዋል)"
+   },
+   "needToRefresh": {
+      "message": "(ይህ ውቅረት ማሻሻያ ተግባራዊ ለማድረግ የ whatsapp ገጽን ማደስ ያስፈልገዋል)"
+   },
+   "newPassword": {
+      "message": "አዲስ የይለፍ ቃል"
+   },
+   "noAccount": {
+      "message": "መለያ የለህም? "
+   },
+   "noDeeplPreview": {
+      "message": "ይህ ሞተር በአሁኑ ጊዜ የቅድመ እይታ ተግባርን አይደግፍም"
+   },
+   "notIsInvalidEmail": {
+      "message": "ትክክለኛ የኢሜይል አድራሻ አይደለም።"
+   },
+   "officialWebsite": {
+      "message": "ኦፊሴላዊ ድር ጣቢያ"
+   },
+   "onlineCustomerService": {
+      "message": "የመስመር ላይ የደንበኞች አገልግሎት"
+   },
+   "or": {
+      "message": "ወይም"
+   },
+   "originalText": {
+      "message": "የመጀመሪያ"
+   },
+   "password": {
+      "message": "የይለፍ ቃል"
+   },
+   "pleaseInput": {
+      "message": "እባክዎ ያስገቡ"
+   },
+   "proLimitTip": {
+      "message": "ይቅርታ፣ ይህ ባህሪ ለPR ተጠቃሚዎች ብቻ የተገደበ ነው።"
+   },
+   "refresh": {
+      "message": "ማደስ"
+   },
+   "register": {
+      "message": "ይመዝገቡ"
+   },
+   "replacementText": {
+      "message": "መተካት"
+   },
+   "sendCaptcha": {
+      "message": "የማረጋገጫ ኮድ ያግኙ"
+   },
+   "sendSuccess": {
+      "message": "በተሳካ ሁኔታ ተልኳል"
+   },
+   "setHotkey": {
+      "message": "አቋራጮችን አዘጋጅ"
+   },
+   "settingTip": {
+      "message": "ከመጀመሪያው ጭነት በኋላ, ውቅረቱ ተግባራዊ ከመሆኑ በፊት የ WhatsApp ገጽን ማደስ ያስፈልግዎታል."
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "showLangStatus": {
+      "message": "የመጀመሪያ ቋንቋ አሳይ"
+   },
+   "showLangStatusExtra": {
+      "message": "ከተከፈተ በኋላ የተተረጎመው ቋንቋ ከትርጉሙ በኋላ ይታያል. ለመቀየር ቋንቋውን ጠቅ ያድርጉ."
+   },
+   "translateBilingual": {
+      "message": "የሁለት ቋንቋ ማሳያ"
+   },
+   "translateBilingualExtra": {
+      "message": "ከተከፈተ በኋላ የሁለት ቋንቋ ተናጋሪ ይዘት ይታያል (ትርጉሙ ከመጀመሪያው ጋር ይታያል)"
+   },
+   "translateTerminology": {
+      "message": "የቃላት መዝገበ ቃላት"
+   },
+   "translateTerminologyExtra": {
+      "message": "አንዴ ከተዋቀረ፣ የቃሉ ተግባር በዋናነት በመዝገበ-ቃላት ውስጥ ያለውን ይዘት ይገነዘባል እና ይተካል፣ እሱም ብዙውን ጊዜ ትክክለኛ ስሞችን እና ምህጻረ ቃላትን ለመተካት ጥቅም ላይ ይውላል። ተግባሩ ጉዳይ-ተኮር እና ክፍተቶችን ጨምሮ ሁሉንም የገቡ ሥርዓተ-ነጥቦችን እንደሚይዝ ልብ ይበሉ።"
+   },
+   "translateTextColor": {
+      "message": "ጽሑፍ ቀለም ተርጉም"
+   },
+   "translateTextColorExtra": {
+      "message": "የተተረጎመ ይዘት ቀለም"
+   },
+   "translationInterception": {
+      "message": "መልዕክቱ አልተተረጎመም እና መላክ አቁሟል. እባክዎን ከመላክዎ በፊት ይተርጉሙት, ወይም እንዲላክ ለማስገደድ የስርዓቱን መላክ አዝራር ጠቅ ያድርጉ."
+   },
+   "translationPreview": {
+      "message": "የትርጉም ቅድመ እይታ"
+   },
+   "translationPreviewExtra": {
+      "message": "ከተከፈተ በኋላ፣ የተተረጎመው ይዘት ቅድመ እይታ በቅጽበት ይታያል፣ ይህም የትርጉሙን ትክክለኛነት ለማሻሻል ይረዳል"
+   },
+   "translationService": {
+      "message": "የትርጉም ሞተር"
+   },
+   "translationServiceExtra": {
+      "message": "ለትርጉም ሞተር"
+   },
+   "translationSwitch": {
+      "message": "የትርጉም መቀየሪያ"
+   },
+   "translationSwitchExtra": {
+      "message": "ከተዘጋ በኋላ ፕሮግራሙ ሥራውን ያቆማል"
+   },
+   "unlock": {
+      "message": "ክፈት"
+   },
+   "unlockAllFeatures": {
+      "message": "ሁሉንም ባህሪያት ይክፈቱ"
+   },
+   "updatePassword": {
+      "message": "የይለፍ ቃል አዘምኑ"
+   },
+   "updateSuccess": {
+      "message": "የተሳካ አዘምን"
+   },
+   "usageToday": {
+      "message": "አጠቃቀም ዛሬ"
+   },
+   "yourLanguage": {
+      "message": "የእርስዎ ቋንቋ"
+   },
+   "yourLanguageExtra": {
+      "message": "የሚደርሱት መልእክት የሚተረጎምበት ቋንቋ፣ አብዛኛውን ጊዜ የአፍ መፍቻ ቋንቋዎ"
+   }
+}

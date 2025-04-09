@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "खाता"
+   },
+   "addRule": {
+      "message": "नियम जोड़ें"
+   },
+   "autoTranslate": {
+      "message": "स्वचालित अनुवाद"
+   },
+   "autoTranslateExtra": {
+      "message": "खोलने के बाद, प्राप्त संदेश को मैन्युअल रूप से अनुवाद पर क्लिक किए बिना स्वचालित रूप से अनुवादित किया जाएगा।"
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "captcha": {
+      "message": "कैप्चा"
+   },
+   "characters": {
+      "message": "चरित्र"
+   },
+   "chromeOnly": {
+      "message": "वर्तमान में केवल उपयोग का समर्थन करता है, अन्य ब्राउज़रों को ईमेल लॉगिन का उपयोग करने की आवश्यकता है"
+   },
+   "clickSend": {
+      "message": "भेजें पर क्लिक करें।"
+   },
+   "clickSetHotkey": {
+      "message": "सेटिंग्स शॉर्टकट पर क्लिक करें, आप भेजे जाने वाले संदेश को जल्दी से अनुवाद सकते हैं"
+   },
+   "confirmUpdate": {
+      "message": "अपडेट की पुष्टि करें"
+   },
+   "contactSpeakLang": {
+      "message": "संपर्क भाषा"
+   },
+   "contactSpeakLangExtra": {
+      "message": "जिस भाषा में आप संदेश भेजते हैं, उसका अनुवाद किया जाएगा, आमतौर पर दूसरे पक्ष की भाषा"
+   },
+   "contactSpeakLangTip": {
+      "message": "यदि ऑटो पर सेट किया जाता है, तो प्रोग्राम स्वचालित रूप से दूसरे पक्ष की भाषा का पता लगाएगा"
+   },
+   "currentVersion": {
+      "message": "वर्तमान संस्करण"
+   },
+   "customerServiceEmail": {
+      "message": "ग्राहक सेवा ईमेल"
+   },
+   "description": {
+      "message": "से अधिक 100 भाषाओं में Whatsapp संदेशों के लिए एक स्वचालित अनुवाद उपकरण (अनौपचारिक)"
+   },
+   "earlyBird": {
+      "message": "सीमित समय के लिए प्रारंभिक पक्षी छूट!"
+   },
+   "email": {
+      "message": "ईमेल"
+   },
+   "enterToSend": {
+      "message": "संदेश भेजने और अनुवाद के लिए दर्ज करें"
+   },
+   "enterToSendExtra": {
+      "message": "खोलने के बाद, कुंजी दर्ज करें दबाने से संदेश अनुवाद जाएगा (कस्टम शॉर्टकट को अनदेखा कर दिया जाएगा, इस कॉन्फ़िगरेशन संशोधन को प्रभावी करने के लिए व्हाट्सएप पृष्ठ पर ताज़ा करने की आवश्यकता है)"
+   },
+   "expirationTime": {
+      "message": "समाप्ति समय"
+   },
+   "fastTranslate": {
+      "message": "तुरंत भेजें"
+   },
+   "fastTranslateExtra": {
+      "message": "चालू होने पर, शॉर्टकट का उपयोग करते समय, अनुवाद करते समय संदेश स्वचालित रूप से भेजे जाते हैं"
+   },
+   "firstLogin": {
+      "message": "पहली बार जब आप लॉग इन करते हैं, तो आपको तुरंत 3-दिवसीय पेशेवर सदस्यता प्राप्त होगी।"
+   },
+   "forgetPassword": {
+      "message": "पासवर्ड भूल गए"
+   },
+   "googleLogin": {
+      "message": "Google के साथ साइन इन करें"
+   },
+   "helpDocumentation": {
+      "message": "प्रलेखन में मदद करें"
+   },
+   "inputEmail": {
+      "message": "कृपया अपना ईमेल पता दर्ज करें!"
+   },
+   "inputHotkey": {
+      "message": "कृपया शॉर्टकट दर्ज करें"
+   },
+   "inputPassword": {
+      "message": "कृपया अपना पासवर्ड दर्ज करें!"
+   },
+   "languageDetectionEngine": {
+      "message": "भाषा मान्यता इंजन"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "संदेश भाषा को पहचानने के लिए उपयोग किए जाने वाले इंजन का चयन करें"
+   },
+   "least": {
+      "message": "कम से कम"
+   },
+   "limitTip": {
+      "message": "❗️ क्षमा करें, आप दैनिक परीक्षण सीमा तक पहुंच गए हैं (30 times/day), कृपया कल फिर से प्रयास करें। (PRO उपयोगकर्ता असीमित हैं)"
+   },
+   "login": {
+      "message": "लॉगिन"
+   },
+   "loginOut": {
+      "message": "लॉग आउट करें"
+   },
+   "more": {
+      "message": "अधिक"
+   },
+   "moreSettings": {
+      "message": "अधिक सेटिंग्स"
+   },
+   "name": {
+      "message": "स्वचालित Whatsapp ™ अनुवादक"
+   },
+   "nativeLanguageInterception": {
+      "message": "जबरन अनुवाद"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "सक्षम करने के बाद, जब संदेश का अनुवाद नहीं किया जाता है, तो भेजे गए संदेश को अवरोधित करें (इस कॉन्फ़िगरेशन परिवर्तन को प्रभावी करने के लिए व्हाट्सएप पृष्ठ को ताज़ा करने की आवश्यकता है)"
+   },
+   "needToRefresh": {
+      "message": "(इस कॉन्फ़िगरेशन संशोधन को प्रभावी होने के लिए व्हाट्सएप पृष्ठ को ताज़ा करने की आवश्यकता है)"
+   },
+   "newPassword": {
+      "message": "नया पासवर्ड"
+   },
+   "noAccount": {
+      "message": "खाता नहीं है? "
+   },
+   "noDeeplPreview": {
+      "message": "यह इंजन वर्तमान में पूर्वावलोकन फ़ंक्शन का समर्थन नहीं करता है"
+   },
+   "notIsInvalidEmail": {
+      "message": "मान्य ईमेल पता नहीं।"
+   },
+   "officialWebsite": {
+      "message": "आधिकारिक वेबसाइट"
+   },
+   "onlineCustomerService": {
+      "message": "ऑनलाइन ग्राहक सेवा"
+   },
+   "or": {
+      "message": "या"
+   },
+   "originalText": {
+      "message": "मूल"
+   },
+   "password": {
+      "message": "पासवर्ड"
+   },
+   "pleaseInput": {
+      "message": "कृपया दर्ज करें"
+   },
+   "proLimitTip": {
+      "message": "क्षमा करें, यह सुविधा केवल PRO उपयोगकर्ताओं तक सीमित है।"
+   },
+   "refresh": {
+      "message": "ताज़ा करें"
+   },
+   "register": {
+      "message": "रजिस्टर"
+   },
+   "replacementText": {
+      "message": "बदलें"
+   },
+   "sendCaptcha": {
+      "message": "सत्यापन कोड प्राप्त करें"
+   },
+   "sendSuccess": {
+      "message": "सफलतापूर्वक भेजा गया"
+   },
+   "setHotkey": {
+      "message": "शॉर्टकट सेट करें"
+   },
+   "settingTip": {
+      "message": "पहली स्थापना के बाद, कॉन्फ़िगरेशन प्रभावी होने से पहले आपको व्हाट्सएप पृष्ठ को ताज़ा करने की आवश्यकता है।"
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "showLangStatus": {
+      "message": "मूल भाषा दिखाएँ"
+   },
+   "showLangStatusExtra": {
+      "message": "खोलने के बाद, अनुवाद के बाद अनुवादित भाषा प्रदर्शित की जाएगी। स्विच करने के लिए भाषा पर क्लिक करें।"
+   },
+   "translateBilingual": {
+      "message": "द्विभाषी प्रदर्शन"
+   },
+   "translateBilingualExtra": {
+      "message": "खोलने के बाद, द्विभाषी सामग्री प्रदर्शित की जाएगी (अनुवाद मूल के खिलाफ प्रदर्शित किया गया है)"
+   },
+   "translateTerminology": {
+      "message": "शब्दावली"
+   },
+   "translateTerminologyExtra": {
+      "message": "एक बार सेट होने के बाद, शब्द फ़ंक्शन अधिमानतः शब्दावली में सामग्री को पहचानेगा और बदल देगा, जिसका उपयोग अक्सर उचित संज्ञा और संक्षिप्त नाम को बदलने के लिए किया जाता है। ध्यान दें कि फ़ंक्शन केस-सेंसिटिव है और रिक्त स्थान सहित सभी दर्ज किए गए विराम चिह्नों को बनाए रखेगा।"
+   },
+   "translateTextColor": {
+      "message": "पाठ रंग का अनुवाद करें"
+   },
+   "translateTextColorExtra": {
+      "message": "अनुवादित सामग्री का रंग"
+   },
+   "translationInterception": {
+      "message": "संदेश का अनुवाद नहीं किया गया है और भेजना बंद कर दिया गया है। कृपया इसे भेजने से पहले अनुवाद या इसे भेजने के लिए मजबूर करने के लिए सिस्टम भेजें बटन पर क्लिक करें।"
+   },
+   "translationPreview": {
+      "message": "अनुवाद पूर्वावलोकन"
+   },
+   "translationPreviewExtra": {
+      "message": "खोलने के बाद, अनुवादित सामग्री का पूर्वावलोकन वास्तविक समय में प्रदर्शित किया जाएगा, जो अनुवाद सटीकता में सुधार करने में मदद करता है"
+   },
+   "translationService": {
+      "message": "अनुवाद इंजन"
+   },
+   "translationServiceExtra": {
+      "message": "अनुवाद के लिए इंजन"
+   },
+   "translationSwitch": {
+      "message": "अनुवाद स्विच"
+   },
+   "translationSwitchExtra": {
+      "message": "बंद करने के बाद, प्रोग्राम काम करना बंद कर देगा"
+   },
+   "unlock": {
+      "message": "अनलॉक करें"
+   },
+   "unlockAllFeatures": {
+      "message": "सभी सुविधाओं को अनलॉक करें"
+   },
+   "updatePassword": {
+      "message": "पासवर्ड अपडेट करें"
+   },
+   "updateSuccess": {
+      "message": "सफल अपडेट करें"
+   },
+   "usageToday": {
+      "message": "आज उपयोग"
+   },
+   "yourLanguage": {
+      "message": "आपकी भाषा"
+   },
+   "yourLanguageExtra": {
+      "message": "जिस भाषा में आपको संदेश प्राप्त होता है, उसका अनुवाद किया जाएगा, आमतौर पर आपकी मूल भाषा"
+   }
+}

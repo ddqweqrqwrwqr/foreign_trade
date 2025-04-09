@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "खाते"
+   },
+   "addRule": {
+      "message": "नियम जोडा"
+   },
+   "autoTranslate": {
+      "message": "स्वयंचलित भाषांतर"
+   },
+   "autoTranslateExtra": {
+      "message": "उघडल्यानंतर, प्राप्त संदेश स्वहस्ते भाषांतर क्लिक केल्याशिवाय स्वयंचलितपणे भाषांतरित केला जाईल."
+   },
+   "cancel": {
+      "message": "रद्द करा"
+   },
+   "captcha": {
+      "message": "कॅप्चा"
+   },
+   "characters": {
+      "message": "चारित्र्य"
+   },
+   "chromeOnly": {
+      "message": "सध्या केवळ Chrome वापरास समर्थन देते, इतर ब्राउझरना ईमेल लॉगिन वापरण्याची आवश्यकता आहे"
+   },
+   "clickSend": {
+      "message": "पाठवा क्लिक करा."
+   },
+   "clickSetHotkey": {
+      "message": "सेटिंग्ज शॉर्टकटवर क्लिक करा, आपण पाठविल्या जाणार् या संदेशाचे द्रुतपणे भाषांतर करू शकता"
+   },
+   "confirmUpdate": {
+      "message": "अद्ययावत पुष्टी करा"
+   },
+   "contactSpeakLang": {
+      "message": "संपर्क भाषा"
+   },
+   "contactSpeakLangExtra": {
+      "message": "आपण पाठविलेल्या संदेशाचे भाषांतर केले जाईल, सामान्यत: दुसर् या पक्षाची भाषा"
+   },
+   "contactSpeakLangTip": {
+      "message": "स्वयंवर सेट केल्यास, प्रोग्राम स्वयंचलितपणे दुसर् या पक्षाची भाषा शोधेल"
+   },
+   "currentVersion": {
+      "message": "वर्तमान आवृत्ती"
+   },
+   "customerServiceEmail": {
+      "message": "ग्राहक सेवा ईमेल"
+   },
+   "description": {
+      "message": "100 पेक्षा जास्त भाषांमध्ये Whatsapp संदेशांसाठी स्वयंचलित अनुवाद साधन (अनौपचारिक)"
+   },
+   "earlyBird": {
+      "message": "मर्यादित काळासाठी लवकर पक्षी सवलत!"
+   },
+   "email": {
+      "message": "ईमेल"
+   },
+   "enterToSend": {
+      "message": "संदेश पाठविण्यासाठी आणि भाषांतरित करण्यासाठी प्रविष्ट करा"
+   },
+   "enterToSendExtra": {
+      "message": "उघडल्यानंतर, एंटर की दाबल्यास संदेश पाठविला जाईल आणि त्याचे भाषांतर होईल (सानुकूल शॉर्टकटकडे दुर्लक्ष केले जाईल, हे कॉन्फिगरेशन सुधारणे प्रभावी होण्यासाठी व्हॉट्सअ ॅप पृष्ठावर रीफ्रेश करणे आवश्यक आहे)"
+   },
+   "expirationTime": {
+      "message": "कालबाह्यता वेळ"
+   },
+   "fastTranslate": {
+      "message": "तत्काळ पाठवा"
+   },
+   "fastTranslateExtra": {
+      "message": "चालू केल्यावर, शॉर्टकट वापरताना, भाषांतर करताना संदेश स्वयंचलितपणे पाठविले जातात"
+   },
+   "firstLogin": {
+      "message": "आपण प्रथमच लॉग इन करता तेव्हा आपल्याला त्वरित 3-दिवसाची व्यावसायिक सदस्यता प्राप्त होईल."
+   },
+   "forgetPassword": {
+      "message": "संकेतशब्द विसरला"
+   },
+   "googleLogin": {
+      "message": "Google सह साइन इन करा"
+   },
+   "helpDocumentation": {
+      "message": "मदत दस्तऐवजीकरण"
+   },
+   "inputEmail": {
+      "message": "कृपया आपला ईमेल पत्ता प्रविष्ट करा!"
+   },
+   "inputHotkey": {
+      "message": "कृपया शॉर्टकट प्रविष्ट करा"
+   },
+   "inputPassword": {
+      "message": "कृपया आपला संकेतशब्द प्रविष्ट करा!"
+   },
+   "languageDetectionEngine": {
+      "message": "भाषा ओळख इंजिन"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "संदेश भाषा ओळखण्यासाठी वापरलेले इंजिन निवडा"
+   },
+   "least": {
+      "message": "किमान"
+   },
+   "limitTip": {
+      "message": "❗️ क्षमस्व, आपण दररोज चाचणी मर्यादा गाठली आहे (30 वेळा / दिवस), कृपया उद्या पुन्हा प्रयत्न करा. (प्रो वापरकर्ते अमर्यादित आहेत)"
+   },
+   "login": {
+      "message": "लॉगिन"
+   },
+   "loginOut": {
+      "message": "लॉग आउट करा"
+   },
+   "more": {
+      "message": "अधिक"
+   },
+   "moreSettings": {
+      "message": "अधिक सेटिंग्ज"
+   },
+   "name": {
+      "message": "स्वयंचलित Whatsapp ™ अनुवादक"
+   },
+   "nativeLanguageInterception": {
+      "message": "सक्तीचे भाषांतर"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "सक्षम केल्यानंतर, जेव्हा संदेशाचे भाषांतर केले जात नाही, तेव्हा पाठविलेल्या संदेशास अडवा (या कॉन्फिगरेशन बदलास प्रभावी होण्यासाठी व्हॉट्सअ ॅप पृष्ठ रीफ्रेश करणे आवश्यक आहे)"
+   },
+   "needToRefresh": {
+      "message": "(या कॉन्फिगरेशन सुधारणा प्रभावी होण्यासाठी व्हाट्सएप पृष्ठ रीफ्रेश करणे आवश्यक आहे)"
+   },
+   "newPassword": {
+      "message": "नवीन संकेतशब्द"
+   },
+   "noAccount": {
+      "message": "खाते नाही? "
+   },
+   "noDeeplPreview": {
+      "message": "हे इंजिन सध्या पूर्वावलोकन कार्यास समर्थन देत नाही"
+   },
+   "notIsInvalidEmail": {
+      "message": "वैध ईमेल पत्ता नाही."
+   },
+   "officialWebsite": {
+      "message": "अधिकृत संकेतस्थळ"
+   },
+   "onlineCustomerService": {
+      "message": "ऑनलाइन ग्राहक सेवा"
+   },
+   "or": {
+      "message": "किंवा"
+   },
+   "originalText": {
+      "message": "मूळ"
+   },
+   "password": {
+      "message": "संकेतशब्द"
+   },
+   "pleaseInput": {
+      "message": "कृपया प्रविष्ट करा"
+   },
+   "proLimitTip": {
+      "message": "क्षमस्व, हे वैशिष्ट्य केवळ प्रो वापरकर्त्यांपुरते मर्यादित आहे."
+   },
+   "refresh": {
+      "message": "रीफ्रेश"
+   },
+   "register": {
+      "message": "नोंदणी"
+   },
+   "replacementText": {
+      "message": "बदला"
+   },
+   "sendCaptcha": {
+      "message": "सत्यापन कोड मिळवा"
+   },
+   "sendSuccess": {
+      "message": "यशस्वी पाठवले"
+   },
+   "setHotkey": {
+      "message": "शॉर्टकट सेट करा"
+   },
+   "settingTip": {
+      "message": "प्रथम स्थापनेनंतर, कॉन्फिगरेशन लागू होण्यापूर्वी आपल्याला व्हॉट्सअ ॅप पृष्ठ रीफ्रेश करणे आवश्यक आहे."
+   },
+   "settings": {
+      "message": "सेटिंग्ज"
+   },
+   "showLangStatus": {
+      "message": "मूळ भाषा दर्शवा"
+   },
+   "showLangStatusExtra": {
+      "message": "उघडल्यानंतर, भाषांतरित भाषांतर नंतर प्रदर्शित होईल. स्विच करण्यासाठी भाषा क्लिक करा."
+   },
+   "translateBilingual": {
+      "message": "द्विभाषिक प्रदर्शन"
+   },
+   "translateBilingualExtra": {
+      "message": "उघडल्यानंतर, द्विभाषिक सामग्री प्रदर्शित केली जाईल (भाषांतर मूळ विरूद्ध प्रदर्शित केले जाईल)"
+   },
+   "translateTerminology": {
+      "message": "शब्दकोष"
+   },
+   "translateTerminologyExtra": {
+      "message": "एकदा सेट केल्यावर, फंक्शन हा शब्द शब्दसंग्रहातील सामग्री प्राधान्याने ओळखेल आणि पुनर्स्थित करेल, जो बर् याचदा योग्य संज्ञा आणि संक्षेप पुनर्स्थित करण्यासाठी वापरला जातो. लक्षात घ्या की कार्य केस-संवेदनशील आहे आणि रिक्त स्थानांसह सर्व प्रविष्ट केलेले विरामचिन्हे कायम ठेवेल."
+   },
+   "translateTextColor": {
+      "message": "मजकूर रंग अनुवाद"
+   },
+   "translateTextColorExtra": {
+      "message": "अनुवादित सामग्रीचा रंग"
+   },
+   "translationInterception": {
+      "message": "संदेश अनुवादित केले नाही आणि पाठविणे थांबवले आहे. कृपया ते पाठविण्यापूर्वी त्याचे भाषांतर करा, किंवा पाठविण्यास भाग पाडण्यासाठी सिस्टम पाठवा बटणावर क्लिक करा."
+   },
+   "translationPreview": {
+      "message": "अनुवाद पूर्वावलोकन"
+   },
+   "translationPreviewExtra": {
+      "message": "उघडल्यानंतर, भाषांतरित सामग्रीचे पूर्वावलोकन रिअल टाइममध्ये प्रदर्शित केले जाईल, जे भाषांतर अचूकता सुधारण्यास मदत करते"
+   },
+   "translationService": {
+      "message": "भाषांतर इंजिन"
+   },
+   "translationServiceExtra": {
+      "message": "अनुवादासाठी इंजिन"
+   },
+   "translationSwitch": {
+      "message": "भाषांतर स्विच"
+   },
+   "translationSwitchExtra": {
+      "message": "बंद झाल्यानंतर कार्यक्रमाचे काम थांबेल"
+   },
+   "unlock": {
+      "message": "अनलॉक करा"
+   },
+   "unlockAllFeatures": {
+      "message": "सर्व वैशिष्ट्ये अनलॉक करा"
+   },
+   "updatePassword": {
+      "message": "संकेतशब्द अद्यतनित करा"
+   },
+   "updateSuccess": {
+      "message": "यशस्वी अद्यतन"
+   },
+   "usageToday": {
+      "message": "आज वापर"
+   },
+   "yourLanguage": {
+      "message": "आपली भाषा"
+   },
+   "yourLanguageExtra": {
+      "message": "आपण प्राप्त केलेला संदेश ज्या भाषेत अनुवादित केला जाईल, सहसा आपली मूळ भाषा"
+   }
+}

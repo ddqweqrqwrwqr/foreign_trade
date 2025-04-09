@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Tili"
+   },
+   "addRule": {
+      "message": "Lisää sääntö"
+   },
+   "autoTranslate": {
+      "message": "automaattinen käännös"
+   },
+   "autoTranslateExtra": {
+      "message": "Avaamisen jälkeen vastaanotettu viesti käännetään automaattisesti napsauttamatta Kääntäjä."
+   },
+   "cancel": {
+      "message": "Peru"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "merkki"
+   },
+   "chromeOnly": {
+      "message": "Tällä hetkellä tukee vain Chrome-käyttöä, muiden selaimien tarvitsee käyttää sähköpostikirjautumista"
+   },
+   "clickSend": {
+      "message": "Klikkaa Lähetä."
+   },
+   "clickSetHotkey": {
+      "message": "Napsauta asetuksia pikanäppäin, voit nopeasti kääntää lähetettävän viestin"
+   },
+   "confirmUpdate": {
+      "message": "Vahvista päivitys"
+   },
+   "contactSpeakLang": {
+      "message": "yhteyskieli"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Kieli, jolle lähettämäsi viesti käännetään, yleensä toisen osapuolen kieli"
+   },
+   "contactSpeakLangTip": {
+      "message": "Jos asetus on automaattinen, ohjelma tunnistaa automaattisesti toisen osapuolen kielen"
+   },
+   "currentVersion": {
+      "message": "Nykyinen versio"
+   },
+   "customerServiceEmail": {
+      "message": "Sähköinen asiakaspalvelu"
+   },
+   "description": {
+      "message": "Automaattinen käännöstyökalu Whatsapp viesteille yli 100 kielellä (epävirallinen)"
+   },
+   "earlyBird": {
+      "message": "Varhainen lintualennus rajoitetuksi ajaksi!"
+   },
+   "email": {
+      "message": "sähköposti"
+   },
+   "enterToSend": {
+      "message": "Enter to send and translate messages"
+   },
+   "enterToSendExtra": {
+      "message": "Avaamisen jälkeen Enter-näppäintä painettaessa viesti lähetetään ja käännetään (mukautettu pikanäppäin ohitetaan, tämä asetusmuutos pitää päivittää whatsapp-sivulle, jotta se tulisi voimaan)"
+   },
+   "expirationTime": {
+      "message": "viimeinen käyttöpäivä"
+   },
+   "fastTranslate": {
+      "message": "Lähetä välittömästi"
+   },
+   "fastTranslateExtra": {
+      "message": "Kun pikakuvake on päällä, viestit lähetetään automaattisesti käännettäessä"
+   },
+   "firstLogin": {
+      "message": "Kun kirjaudut sisään ensimmäisen kerran, saat välittömästi 3 päivän ammattijäsenyyden."
+   },
+   "forgetPassword": {
+      "message": "Unohdin salasanan"
+   },
+   "googleLogin": {
+      "message": "Kirjaudu sisään Googlella"
+   },
+   "helpDocumentation": {
+      "message": "Ohjeiden dokumentointi"
+   },
+   "inputEmail": {
+      "message": "Anna sähköpostiosoitteesi!"
+   },
+   "inputHotkey": {
+      "message": "Syötä pikanäppäimet"
+   },
+   "inputPassword": {
+      "message": "Anna salasanasi!"
+   },
+   "languageDetectionEngine": {
+      "message": "moottori kielentunnistusta varten"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Valitse viestin kielen tunnistamiseen käytetty moottori"
+   },
+   "least": {
+      "message": "Vähintään"
+   },
+   "limitTip": {
+      "message": "❗️ Anteeksi, olet saavuttanut päivittäisen koerajan (30 kertaa / päivä), yritä uudelleen huomenna. (PRO-käyttäjät ovat rajoittamattomia)"
+   },
+   "login": {
+      "message": "login"
+   },
+   "loginOut": {
+      "message": "Kirjaudu ulos"
+   },
+   "more": {
+      "message": "enemmän"
+   },
+   "moreSettings": {
+      "message": "Lisää asetuksia"
+   },
+   "name": {
+      "message": "Automaattinen Whatsapp ™ Kääntäjä"
+   },
+   "nativeLanguageInterception": {
+      "message": "pakotettu käännös"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Valinnan jälkeen, kun viestiä ei ole käännetty, sieppaa lähetetty viesti (tämän asetusmuutoksen täytyy päivittää whatsapp-sivu, jotta se tulisi voimaan)"
+   },
+   "needToRefresh": {
+      "message": "(Tämän asetusmuutoksen on päivitettävä whatsapp-sivu voimaan tullakseen)"
+   },
+   "newPassword": {
+      "message": "uusi salasana"
+   },
+   "noAccount": {
+      "message": "Eikö sinulla ole tiliä? "
+   },
+   "noDeeplPreview": {
+      "message": "Tämä moottori ei tue tällä hetkellä esikatselutoimintoa"
+   },
+   "notIsInvalidEmail": {
+      "message": "Ei kelvollinen sähköpostiosoite."
+   },
+   "officialWebsite": {
+      "message": "virallinen verkkosivusto"
+   },
+   "onlineCustomerService": {
+      "message": "Online-asiakaspalvelu"
+   },
+   "or": {
+      "message": "tai"
+   },
+   "originalText": {
+      "message": "alkuperäinen"
+   },
+   "password": {
+      "message": "salasana"
+   },
+   "pleaseInput": {
+      "message": "Syötä"
+   },
+   "proLimitTip": {
+      "message": "Valitettavasti tämä ominaisuus on rajoitettu vain PRO-käyttäjille."
+   },
+   "refresh": {
+      "message": "virkistys"
+   },
+   "register": {
+      "message": "Rekisteri"
+   },
+   "replacementText": {
+      "message": "korvaa"
+   },
+   "sendCaptcha": {
+      "message": "Hanki vahvistuskoodi"
+   },
+   "sendSuccess": {
+      "message": "Lähetetty onnistuneesti"
+   },
+   "setHotkey": {
+      "message": "Aseta pikanäppäimet"
+   },
+   "settingTip": {
+      "message": "Ensimmäisen asennuksen jälkeen sinun on päivitettävä whatsapp-sivu ennen kuin asetukset astuvat voimaan."
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "showLangStatus": {
+      "message": "Näytä alkuperäinen kieli"
+   },
+   "showLangStatusExtra": {
+      "message": "Avaamisen jälkeen käännetty kieli tulee näkyviin käännöksen jälkeen. Napsauta kieltä vaihtaaksesi."
+   },
+   "translateBilingual": {
+      "message": "kaksikielinen näyttö"
+   },
+   "translateBilingualExtra": {
+      "message": "Avaamisen jälkeen kaksikielinen sisältö näytetään (käännös näytetään alkuperäistä vasten)"
+   },
+   "translateTerminology": {
+      "message": "Sanasto"
+   },
+   "translateTerminologyExtra": {
+      "message": "Kun funktio on asetettu, se tunnistaa ja korvaa ensisijaisesti sanaston sisällön, jota usein käytetään korvaamaan erisnimet ja lyhenteet. Huomaa, että funktio on kirjainherkkä ja säilyttää kaikki syötetyt välimerkit välilyönnit mukaan lukien."
+   },
+   "translateTextColor": {
+      "message": "Käännä tekstin väri"
+   },
+   "translateTextColorExtra": {
+      "message": "Käännetyn sisällön väri"
+   },
+   "translationInterception": {
+      "message": "Viestiä ei ole käännetty ja sen lähettäminen on lopetettu. Käännä se ennen lähettämistä, tai napsauta järjestelmän lähetyspainiketta pakottaaksesi sen lähettämään."
+   },
+   "translationPreview": {
+      "message": "Käännösten esikatselu"
+   },
+   "translationPreviewExtra": {
+      "message": "Avaamisen jälkeen käännetyn sisällön esikatselu näkyy reaaliajassa, mikä auttaa parantamaan käännöstarkkuutta"
+   },
+   "translationService": {
+      "message": "Käännösmoottori"
+   },
+   "translationServiceExtra": {
+      "message": "Käännöskone"
+   },
+   "translationSwitch": {
+      "message": "Käännöskytkin"
+   },
+   "translationSwitchExtra": {
+      "message": "Sulkemisen jälkeen ohjelma lakkaa toimimasta"
+   },
+   "unlock": {
+      "message": "Avaa lukitus"
+   },
+   "unlockAllFeatures": {
+      "message": "Avaa kaikki ominaisuudet"
+   },
+   "updatePassword": {
+      "message": "Päivitä salasana"
+   },
+   "updateSuccess": {
+      "message": "Päivitys onnistui"
+   },
+   "usageToday": {
+      "message": "käyttö tänään"
+   },
+   "yourLanguage": {
+      "message": "Sinun kielesi"
+   },
+   "yourLanguageExtra": {
+      "message": "Kieli, jolle saamasi viesti käännetään, yleensä äidinkielesi"
+   }
+}

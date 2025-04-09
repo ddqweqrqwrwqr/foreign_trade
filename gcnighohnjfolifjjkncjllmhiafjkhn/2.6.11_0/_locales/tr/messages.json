@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Hesap"
+   },
+   "addRule": {
+      "message": "Kural ekle"
+   },
+   "autoTranslate": {
+      "message": "otomatik çeviri"
+   },
+   "autoTranslateExtra": {
+      "message": "Açıldıktan sonra, alınan mesaj manuel olarak Çevir 'e tıklanmadan otomatik olarak çevrilecektir."
+   },
+   "cancel": {
+      "message": "iptal et"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "karakter"
+   },
+   "chromeOnly": {
+      "message": "Şu anda yalnızca Chrome kullanımını destekliyor, diğer tarayıcıların e-posta girişi kullanması gerekiyor"
+   },
+   "clickSend": {
+      "message": "Gönder 'e tıklayın."
+   },
+   "clickSetHotkey": {
+      "message": "Ayarlar kısayoluna tıklayın, gönderilecek mesajı hızlıca çevirebilirsiniz."
+   },
+   "confirmUpdate": {
+      "message": "Güncellemeyi onayla"
+   },
+   "contactSpeakLang": {
+      "message": "iletişim dili"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Gönderdiğiniz mesajın çevrileceği dil, genellikle karşı tarafın dili"
+   },
+   "contactSpeakLangTip": {
+      "message": "Otomatik olarak ayarlanırsa, program karşı tarafın dilini otomatik olarak algılar."
+   },
+   "currentVersion": {
+      "message": "Mevcut versiyon"
+   },
+   "customerServiceEmail": {
+      "message": "Müşteri hizmetleri e-postası"
+   },
+   "description": {
+      "message": "100 'den fazla dilde Whatsapp mesajlar için otomatik çeviri aracı (resmi olmayan)"
+   },
+   "earlyBird": {
+      "message": "Sınırlı bir süre için erken kuş indirimi!"
+   },
+   "email": {
+      "message": "e-posta"
+   },
+   "enterToSend": {
+      "message": "Mesaj göndermek ve çevirmek için girin"
+   },
+   "enterToSendExtra": {
+      "message": "Açıldıktan sonra, Enter tuşuna basmak mesajı gönderecek ve çevirecektir (özel kısayol göz ardı edilecektir, bu yapılandırma değişikliğinin etkili olması için whatsapp sayfasına yenilenmesi gerekir)"
+   },
+   "expirationTime": {
+      "message": "son kullanma süresi"
+   },
+   "fastTranslate": {
+      "message": "Hemen gönder"
+   },
+   "fastTranslateExtra": {
+      "message": "Açıldığında, kısayol kullanılırken, çeviri sırasında mesajlar otomatik olarak gönderilir"
+   },
+   "firstLogin": {
+      "message": "İlk kez giriş yaptığınızda, hemen 3 günlük bir profesyonel üyelik alacaksınız."
+   },
+   "forgetPassword": {
+      "message": "Şifremi Unuttum"
+   },
+   "googleLogin": {
+      "message": "Google ile giriş yapın"
+   },
+   "helpDocumentation": {
+      "message": "Yardım Belgeleri"
+   },
+   "inputEmail": {
+      "message": "Lütfen e-posta adresinizi girin!"
+   },
+   "inputHotkey": {
+      "message": "Lütfen kısayolları girin"
+   },
+   "inputPassword": {
+      "message": "Lütfen şifrenizi girin!"
+   },
+   "languageDetectionEngine": {
+      "message": "dil tanıma motoru"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Mesaj dilini tanımak için kullanılan motoru seçin"
+   },
+   "least": {
+      "message": "en azından"
+   },
+   "limitTip": {
+      "message": "❗️ Üzgünüz, günlük deneme sınırına ulaştınız (30 kez / gün), lütfen yarın tekrar deneyin. (PRO kullanıcıları sınırsızdır)"
+   },
+   "login": {
+      "message": "oturum aç"
+   },
+   "loginOut": {
+      "message": "oturumu kapat"
+   },
+   "more": {
+      "message": "daha fazla"
+   },
+   "moreSettings": {
+      "message": "Daha fazla ayar"
+   },
+   "name": {
+      "message": "Otomatik Whatsapp ™ Çevirmen"
+   },
+   "nativeLanguageInterception": {
+      "message": "zorla çeviri"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Etkinleştirdikten sonra, mesaj çevrilmediğinde, gönderilen mesaja müdahale edin (bu yapılandırma değişikliğinin etkili olması için whatsapp sayfasını yenilemesi gerekir)"
+   },
+   "needToRefresh": {
+      "message": "(Bu yapılandırma değişikliğinin etkili olması için whatsapp sayfasını yenilemesi gerekir)"
+   },
+   "newPassword": {
+      "message": "yeni şifre"
+   },
+   "noAccount": {
+      "message": "Hesabınız yok mu? "
+   },
+   "noDeeplPreview": {
+      "message": "Bu motor şu anda önizleme işlevini desteklemiyor"
+   },
+   "notIsInvalidEmail": {
+      "message": "Geçerli bir e-posta adresi değil."
+   },
+   "officialWebsite": {
+      "message": "resmi web sitesi"
+   },
+   "onlineCustomerService": {
+      "message": "Çevrimiçi müşteri hizmetleri"
+   },
+   "or": {
+      "message": "veya"
+   },
+   "originalText": {
+      "message": "orijinal"
+   },
+   "password": {
+      "message": "şifre"
+   },
+   "pleaseInput": {
+      "message": "Lütfen girin"
+   },
+   "proLimitTip": {
+      "message": "Üzgünüz, bu özellik yalnızca PRO kullanıcılarıyla sınırlıdır."
+   },
+   "refresh": {
+      "message": "yenile"
+   },
+   "register": {
+      "message": "Kayıt ol"
+   },
+   "replacementText": {
+      "message": "değiştir"
+   },
+   "sendCaptcha": {
+      "message": "Doğrulama kodunu al"
+   },
+   "sendSuccess": {
+      "message": "Başarıyla gönderildi"
+   },
+   "setHotkey": {
+      "message": "Kısayolları ayarla"
+   },
+   "settingTip": {
+      "message": "İlk kurulumdan sonra, yapılandırma etkili olmadan önce whatsapp sayfasını yenilemeniz gerekir."
+   },
+   "settings": {
+      "message": "ayarlar"
+   },
+   "showLangStatus": {
+      "message": "Orijinal dili göster"
+   },
+   "showLangStatusExtra": {
+      "message": "Açıldıktan sonra çevrilen dil çeviriden sonra görüntülenecektir. Geçiş yapmak için dile tıklayın."
+   },
+   "translateBilingual": {
+      "message": "iki dilli ekran"
+   },
+   "translateBilingualExtra": {
+      "message": "Açıldıktan sonra, iki dilli içerik görüntülenecektir (çeviri orijinaline karşı görüntülenir)"
+   },
+   "translateTerminology": {
+      "message": "Sözlük"
+   },
+   "translateTerminologyExtra": {
+      "message": "Bir kez ayarlandıktan sonra, işlev terimi, genellikle uygun isimler ve kısaltmaların yerini almak için kullanılan kelime dağarcığındaki içeriği tercihen tanıyacak ve değiştirecektir. Fonksiyonun büyük / küçük harfe duyarlı olduğunu ve boşluklar da dahil olmak üzere girilen tüm noktalama işaretlerini koruyacağını unutmayın."
+   },
+   "translateTextColor": {
+      "message": "Metin rengini çevir"
+   },
+   "translateTextColorExtra": {
+      "message": "Tercüme edilen içeriğin rengi"
+   },
+   "translationInterception": {
+      "message": "Mesaj çevrilmedi ve göndermeyi durdurdu. Lütfen göndermeden önce çevirin veya gönderilmesini zorlamak için sistem gönder düğmesine tıklayın."
+   },
+   "translationPreview": {
+      "message": "Çeviri Önizlemesi"
+   },
+   "translationPreviewExtra": {
+      "message": "Açıldıktan sonra, çevrilen içeriğin önizlemesi gerçek zamanlı olarak görüntülenecek ve bu da çeviri doğruluğunu artırmaya yardımcı olacaktır."
+   },
+   "translationService": {
+      "message": "Çeviri Motoru"
+   },
+   "translationServiceExtra": {
+      "message": "Çeviri için motor"
+   },
+   "translationSwitch": {
+      "message": "Çeviri anahtarı"
+   },
+   "translationSwitchExtra": {
+      "message": "Kapattıktan sonra program çalışmayı durduracak"
+   },
+   "unlock": {
+      "message": "Kilidi aç"
+   },
+   "unlockAllFeatures": {
+      "message": "Tüm özelliklerin kilidini aç"
+   },
+   "updatePassword": {
+      "message": "Şifreyi güncelle"
+   },
+   "updateSuccess": {
+      "message": "Güncelleme başarılı"
+   },
+   "usageToday": {
+      "message": "bugün kullanım"
+   },
+   "yourLanguage": {
+      "message": "senin dilin"
+   },
+   "yourLanguageExtra": {
+      "message": "Aldığınız mesajın çevrileceği dil, genellikle ana diliniz"
+   }
+}

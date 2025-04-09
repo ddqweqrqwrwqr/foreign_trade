@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Account"
+   },
+   "addRule": {
+      "message": "Add rule"
+   },
+   "autoTranslate": {
+      "message": "automatic translation"
+   },
+   "autoTranslateExtra": {
+      "message": "After opening, the received message will be automatically translated without manually clicking Translate."
+   },
+   "cancel": {
+      "message": "cancel"
+   },
+   "captcha": {
+      "message": "CAPTCHA"
+   },
+   "characters": {
+      "message": "character"
+   },
+   "chromeOnly": {
+      "message": "Currently only supports Chrome use, other browsers need to use email login"
+   },
+   "clickSend": {
+      "message": "Click Send."
+   },
+   "clickSetHotkey": {
+      "message": "Click on the settings shortcut, you can quickly translate the message to be sent"
+   },
+   "confirmUpdate": {
+      "message": "Confirm update"
+   },
+   "contactSpeakLang": {
+      "message": "contact language"
+   },
+   "contactSpeakLangExtra": {
+      "message": "The language into which the message you send will be translated, usually the language of the other party"
+   },
+   "contactSpeakLangTip": {
+      "message": "If set to auto, the program will automatically detect the other party's language"
+   },
+   "currentVersion": {
+      "message": "Current version"
+   },
+   "customerServiceEmail": {
+      "message": "Customer service email"
+   },
+   "description": {
+      "message": "An automatic translation tool for Whatsapp messages in more than 100 languages (unofficial)"
+   },
+   "earlyBird": {
+      "message": "Early bird discount for a limited time!"
+   },
+   "email": {
+      "message": "email"
+   },
+   "enterToSend": {
+      "message": "Enter to send and translate messages"
+   },
+   "enterToSendExtra": {
+      "message": "After opening, pressing the Enter key will send and translate the message (the custom shortcut will be ignored, this configuration modification needs to be refreshed to the whatsapp page to take effect)"
+   },
+   "expirationTime": {
+      "message": "expiration time"
+   },
+   "fastTranslate": {
+      "message": "Send immediately"
+   },
+   "fastTranslateExtra": {
+      "message": "When turned on, when using shortcut, messages are automatically sent while translating"
+   },
+   "firstLogin": {
+      "message": "The first time you log in, you will immediately receive a 3-day professional membership."
+   },
+   "forgetPassword": {
+      "message": "Forgot Password"
+   },
+   "googleLogin": {
+      "message": "Sign in with Google"
+   },
+   "helpDocumentation": {
+      "message": "Help Documentation"
+   },
+   "inputEmail": {
+      "message": "Please enter your email address!"
+   },
+   "inputHotkey": {
+      "message": "Please enter shortcuts"
+   },
+   "inputPassword": {
+      "message": "Please enter your password!"
+   },
+   "languageDetectionEngine": {
+      "message": "language recognition engine"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Select the engine used to recognize the message language"
+   },
+   "least": {
+      "message": "least"
+   },
+   "limitTip": {
+      "message": "❗️ Sorry, you have reached the daily trial limit (30 times/day), please try again tomorrow. (PRO users are unlimited)"
+   },
+   "login": {
+      "message": "login"
+   },
+   "loginOut": {
+      "message": "log out"
+   },
+   "more": {
+      "message": "more"
+   },
+   "moreSettings": {
+      "message": "More settings"
+   },
+   "name": {
+      "message": "Automatic Whatsapp ™ Translator"
+   },
+   "nativeLanguageInterception": {
+      "message": "forced translation"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "After enabling, when the message is not translated, intercept the sent message (this configuration change needs to refresh the whatsapp page to take effect)"
+   },
+   "needToRefresh": {
+      "message": "(This configuration modification needs to refresh the whatsapp page to take effect)"
+   },
+   "newPassword": {
+      "message": "new password"
+   },
+   "noAccount": {
+      "message": "Don't have an account? "
+   },
+   "noDeeplPreview": {
+      "message": "This engine does not currently support the preview function"
+   },
+   "notIsInvalidEmail": {
+      "message": "Not a valid email address."
+   },
+   "officialWebsite": {
+      "message": "official website"
+   },
+   "onlineCustomerService": {
+      "message": "Online customer service"
+   },
+   "or": {
+      "message": "or"
+   },
+   "originalText": {
+      "message": "original"
+   },
+   "password": {
+      "message": "password"
+   },
+   "pleaseInput": {
+      "message": "Please enter"
+   },
+   "proLimitTip": {
+      "message": "Sorry, this feature is limited to PRO users only."
+   },
+   "refresh": {
+      "message": "refresh"
+   },
+   "register": {
+      "message": "Register"
+   },
+   "replacementText": {
+      "message": "replace"
+   },
+   "sendCaptcha": {
+      "message": "Get verification code"
+   },
+   "sendSuccess": {
+      "message": "Sent successfully"
+   },
+   "setHotkey": {
+      "message": "Set shortcuts"
+   },
+   "settingTip": {
+      "message": "After the first installation, you need to refresh the whatsapp page before the configuration will take effect."
+   },
+   "settings": {
+      "message": "settings"
+   },
+   "showLangStatus": {
+      "message": "Show original language"
+   },
+   "showLangStatusExtra": {
+      "message": "After opening, the language translated from will be displayed after the translation. Click on the language to switch."
+   },
+   "translateBilingual": {
+      "message": "bilingual display"
+   },
+   "translateBilingualExtra": {
+      "message": "After opening, bilingual content will be displayed (the translation is displayed against the original)"
+   },
+   "translateTerminology": {
+      "message": "Glossary"
+   },
+   "translateTerminologyExtra": {
+      "message": "Once set, the term function will preferentially recognize and replace the content in the vocabulary, which is often used to replace proper nouns and abbreviations. Note that the function is case-sensitive and will retain all entered punctuation, including spaces."
+   },
+   "translateTextColor": {
+      "message": "Translate text color"
+   },
+   "translateTextColorExtra": {
+      "message": "The color of the translated content"
+   },
+   "translationInterception": {
+      "message": "The message has not been translated and stopped sending. Please translate it before sending it, or click the system send button to force it to be sent."
+   },
+   "translationPreview": {
+      "message": "Translation Preview"
+   },
+   "translationPreviewExtra": {
+      "message": "After opening, a preview of the translated content will be displayed in real time, which helps to improve the translation accuracy"
+   },
+   "translationService": {
+      "message": "Translation Engine"
+   },
+   "translationServiceExtra": {
+      "message": "Engine for translation"
+   },
+   "translationSwitch": {
+      "message": "Translation switch"
+   },
+   "translationSwitchExtra": {
+      "message": "After closing, the program will stop working"
+   },
+   "unlock": {
+      "message": "Unlock"
+   },
+   "unlockAllFeatures": {
+      "message": "Unlock all features"
+   },
+   "updatePassword": {
+      "message": "Update password"
+   },
+   "updateSuccess": {
+      "message": "Update successful"
+   },
+   "usageToday": {
+      "message": "usage today"
+   },
+   "yourLanguage": {
+      "message": "Your language"
+   },
+   "yourLanguageExtra": {
+      "message": "The language into which the message you receive will be translated, usually your native language"
+   }
+}

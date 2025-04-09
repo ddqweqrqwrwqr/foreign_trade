@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "ખાતા"
+   },
+   "addRule": {
+      "message": "નિયમ ઉમેરો"
+   },
+   "autoTranslate": {
+      "message": "સ્વચાલિત અનુવાદ"
+   },
+   "autoTranslateExtra": {
+      "message": "ખોલ્યા પછી, પ્રાપ્ત સંદેશ જાતે અનુવાદ ક્લિક કર્યા વિના આપમેળે અનુવાદ કરવામાં આવશે."
+   },
+   "cancel": {
+      "message": "રદ કરો"
+   },
+   "captcha": {
+      "message": "કેપ્ચા"
+   },
+   "characters": {
+      "message": "પાત્ર"
+   },
+   "chromeOnly": {
+      "message": "હાલમાં ફક્ત Chrome ઉપયોગને સપોર્ટ કરે છે, અન્ય બ્રાઉઝર્સ ઇમેઇલ લ loginગિનનો ઉપયોગ કરવાની જરૂર છે"
+   },
+   "clickSend": {
+      "message": "મોકલો ક્લિક કરો."
+   },
+   "clickSetHotkey": {
+      "message": "સેટિંગ્સ શોર્ટકટ પર ક્લિક કરો, તમે મોકલવા માટે સંદેશ ઝડપથી ભાષાંતર કરી શકો છો"
+   },
+   "confirmUpdate": {
+      "message": "પુષ્ટિ અપડેટ"
+   },
+   "contactSpeakLang": {
+      "message": "સંપર્ક ભાષા"
+   },
+   "contactSpeakLangExtra": {
+      "message": "તમે જે સંદેશ મોકલશો તે ભાષામાં અનુવાદ કરવામાં આવશે, સામાન્ય રીતે બીજી પાર્ટીની ભાષા"
+   },
+   "contactSpeakLangTip": {
+      "message": "જો સ્વત to પર સેટ કરો, તો પ્રોગ્રામ આપમેળે અન્ય પક્ષની ભાષા શોધી કા .શે"
+   },
+   "currentVersion": {
+      "message": "વર્તમાન આવૃત્તિ"
+   },
+   "customerServiceEmail": {
+      "message": "ગ્રાહક સેવા ઇમેઇલ"
+   },
+   "description": {
+      "message": "100 થી વધુ ભાષાઓમાં Whatsapp સંદેશાઓ માટે એક સ્વચાલિત અનુવાદ સાધન (બિનસત્તાવાર)"
+   },
+   "earlyBird": {
+      "message": "મર્યાદિત સમય માટે પ્રારંભિક પક્ષી ડિસ્કાઉન્ટ!"
+   },
+   "email": {
+      "message": "ઇમેઇલ"
+   },
+   "enterToSend": {
+      "message": "સંદેશા મોકલવા અને ભાષાંતર કરવા માટે દાખલ કરો"
+   },
+   "enterToSendExtra": {
+      "message": "ખોલ્યા પછી, એન્ટર કી દબાવવાથી સંદેશ મોકલવામાં આવશે અને ભાષાંતર કરવામાં આવશે (કસ્ટમ શોર્ટકટ અવગણવામાં આવશે, આ રૂપરેખાંકન ફેરફારને અસરમાં લેવા માટે વોટ્સએપ પૃષ્ઠ પર તાજું કરવાની જરૂર છે)"
+   },
+   "expirationTime": {
+      "message": "સમાપ્તિ સમય"
+   },
+   "fastTranslate": {
+      "message": "તરત મોકલો"
+   },
+   "fastTranslateExtra": {
+      "message": "ચાલુ હોય ત્યારે, શોર્ટકટનો ઉપયોગ કરતી વખતે, ભાષાંતર કરતી વખતે સંદેશા આપમેળે મોકલવામાં આવે છે"
+   },
+   "firstLogin": {
+      "message": "પ્રથમ વખત તમે લ logગ ઇન કરો છો, ત્યારે તમને તરત જ 3-દિવસીય વ્યાવસાયિક સભ્યપદ પ્રાપ્ત થશે."
+   },
+   "forgetPassword": {
+      "message": "પાસવર્ડ ભૂલી ગયા છો"
+   },
+   "googleLogin": {
+      "message": "ગૂગલ સાથે સાઇન ઇન કરો"
+   },
+   "helpDocumentation": {
+      "message": "મદદ દસ્તાવેજીકરણ"
+   },
+   "inputEmail": {
+      "message": "કૃપા કરીને તમારું ઇમેઇલ સરનામું દાખલ કરો!"
+   },
+   "inputHotkey": {
+      "message": "કૃપા કરીને શોર્ટકટ્સ દાખલ કરો"
+   },
+   "inputPassword": {
+      "message": "કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો!"
+   },
+   "languageDetectionEngine": {
+      "message": "ભાષા માન્યતા એન્જિન"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "સંદેશ ભાષાને ઓળખવા માટે વપરાયેલ એન્જિન પસંદ કરો"
+   },
+   "least": {
+      "message": "ઓછામાં ઓછું"
+   },
+   "limitTip": {
+      "message": "❗️ માફ કરશો, તમે દૈનિક અજમાયશ મર્યાદા પર પહોંચી ગયા છો (30 વખત / દિવસ), કૃપા કરીને આવતીકાલે ફરીથી પ્રયાસ કરો. (PRO વપરાશકર્તાઓ અમર્યાદિત છે)"
+   },
+   "login": {
+      "message": "પ્રવેશ કરો"
+   },
+   "loginOut": {
+      "message": "લ logગ આઉટ કરો"
+   },
+   "more": {
+      "message": "વધુ"
+   },
+   "moreSettings": {
+      "message": "વધુ સેટિંગ્સ"
+   },
+   "name": {
+      "message": "સ્વચાલિત Whatsapp ™ અનુવાદક - પ્રાપ્ત અને મોકલેલા સંદેશાઓ આપોઆપ ભાષાંતર"
+   },
+   "nativeLanguageInterception": {
+      "message": "દબાણપૂર્વક અનુવાદ"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "સક્ષમ કર્યા પછી, જ્યારે સંદેશ અનુવાદિત નથી, ત્યારે મોકલેલા સંદેશને અટકાવો (આ રૂપરેખાંકન પરિવર્તન અસરમાં લેવા માટે વોટ્સએપ પૃષ્ઠને તાજું કરવાની જરૂર છે)"
+   },
+   "needToRefresh": {
+      "message": "(આ રૂપરેખાંકન ફેરફાર અસરમાં લેવા માટે વોટ્સએપ પૃષ્ઠને રિફ્રેશ કરવાની જરૂર છે)"
+   },
+   "newPassword": {
+      "message": "નવો પાસવર્ડ"
+   },
+   "noAccount": {
+      "message": "ખાતું નથી? "
+   },
+   "noDeeplPreview": {
+      "message": "આ એન્જિન હાલમાં પૂર્વાવલોકન કાર્યને સપોર્ટ કરતું નથી"
+   },
+   "notIsInvalidEmail": {
+      "message": "માન્ય ઇમેઇલ સરનામું નથી."
+   },
+   "officialWebsite": {
+      "message": "સત્તાવાર વેબસાઇટ"
+   },
+   "onlineCustomerService": {
+      "message": "ઓનલાઇન ગ્રાહક સેવા"
+   },
+   "or": {
+      "message": "અથવા"
+   },
+   "originalText": {
+      "message": "મૂળ"
+   },
+   "password": {
+      "message": "પાસવર્ડ"
+   },
+   "pleaseInput": {
+      "message": "કૃપા કરીને દાખલ કરો"
+   },
+   "proLimitTip": {
+      "message": "માફ કરશો, આ સુવિધા ફક્ત PRO વપરાશકર્તાઓ સુધી મર્યાદિત છે."
+   },
+   "refresh": {
+      "message": "તાજું"
+   },
+   "register": {
+      "message": "નોંધણી"
+   },
+   "replacementText": {
+      "message": "બદલો"
+   },
+   "sendCaptcha": {
+      "message": "ચકાસણી કોડ મેળવો"
+   },
+   "sendSuccess": {
+      "message": "સફળતાપૂર્વક મોકલ્યો"
+   },
+   "setHotkey": {
+      "message": "શોર્ટકટ્સ સેટ કરો"
+   },
+   "settingTip": {
+      "message": "પ્રથમ ઇન્સ્ટોલેશન પછી, રૂપરેખાંકન અસરમાં આવે તે પહેલાં તમારે વોટ્સએપ પૃષ્ઠને રિફ્રેશ કરવાની જરૂર છે."
+   },
+   "settings": {
+      "message": "સુયોજનો"
+   },
+   "showLangStatus": {
+      "message": "મૂળ ભાષા બતાવો"
+   },
+   "showLangStatusExtra": {
+      "message": "ખોલ્યા પછી, ભાષાંતર પછી અનુવાદ કરેલી ભાષા પ્રદર્શિત થશે. સ્વિચ કરવા માટે ભાષા પર ક્લિક કરો."
+   },
+   "translateBilingual": {
+      "message": "દ્વિભાષી પ્રદર્શન"
+   },
+   "translateBilingualExtra": {
+      "message": "ખોલ્યા પછી, દ્વિભાષી સામગ્રી પ્રદર્શિત થશે (અનુવાદ મૂળની સામે પ્રદર્શિત થાય છે)"
+   },
+   "translateTerminology": {
+      "message": "ગ્લોસરી"
+   },
+   "translateTerminologyExtra": {
+      "message": "એકવાર સેટ થઈ ગયા પછી, શબ્દ કાર્ય શબ્દભંડોળની સામગ્રીને પ્રાધાન્યરૂપે ઓળખશે અને તેને બદલશે, જેનો ઉપયોગ ઘણીવાર યોગ્ય સંજ્ .ાઓ અને સંક્ષેપોને બદલવા માટે થાય છે. નોંધ લો કે કાર્ય કેસ-સંવેદનશીલ છે અને જગ્યાઓ સહિત તમામ દાખલ કરેલા વિરામચિહ્નોને જાળ"
+   },
+   "translateTextColor": {
+      "message": "ભાષાંતર લખાણ રંગ"
+   },
+   "translateTextColorExtra": {
+      "message": "અનુવાદિત સામગ્રીનો રંગ"
+   },
+   "translationInterception": {
+      "message": "સંદેશનો અનુવાદ કરવામાં આવ્યો નથી અને મોકલવાનું બંધ કર્યું છે. કૃપા કરીને તેને મોકલતા પહેલા તેનો અનુવાદ કરો અથવા તેને મોકલવા દબાણ કરવા માટે સિસ્ટમ મોકલવા બટનને ક્લિક કરો."
+   },
+   "translationPreview": {
+      "message": "અનુવાદ પૂર્વાવલોકન"
+   },
+   "translationPreviewExtra": {
+      "message": "ખોલ્યા પછી, ભાષાંતર કરેલી સામગ્રીનું પૂર્વાવલોકન વાસ્તવિક સમયમાં પ્રદર્શિત થશે, જે અનુવાદની ચોકસાઈને સુધારવામાં મદદ કરે છે"
+   },
+   "translationService": {
+      "message": "અનુવાદ એન્જિન"
+   },
+   "translationServiceExtra": {
+      "message": "અનુવાદ માટે એન્જિન"
+   },
+   "translationSwitch": {
+      "message": "અનુવાદ સ્વીચ"
+   },
+   "translationSwitchExtra": {
+      "message": "બંધ થયા પછી, કાર્યક્રમ કામ કરવાનું બંધ કરશે"
+   },
+   "unlock": {
+      "message": "અનલૉક"
+   },
+   "unlockAllFeatures": {
+      "message": "બધી સુવિધાઓ અનલૉક કરો"
+   },
+   "updatePassword": {
+      "message": "પાસવર્ડ સુધારો"
+   },
+   "updateSuccess": {
+      "message": "સફળ સુધારો"
+   },
+   "usageToday": {
+      "message": "આજે વપરાશ"
+   },
+   "yourLanguage": {
+      "message": "તમારી ભાષા"
+   },
+   "yourLanguageExtra": {
+      "message": "તમે જે સંદેશ પ્રાપ્ત કરો છો તે ભાષામાં અનુવાદ કરવામાં આવશે, સામાન્ય રીતે તમારી મૂળ ભાષા"
+   }
+}

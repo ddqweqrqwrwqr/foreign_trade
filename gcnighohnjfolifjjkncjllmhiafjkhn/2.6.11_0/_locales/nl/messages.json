@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Rekening"
+   },
+   "addRule": {
+      "message": "Regel toevoegen"
+   },
+   "autoTranslate": {
+      "message": "automatische vertaling"
+   },
+   "autoTranslateExtra": {
+      "message": "Na het openen wordt het ontvangen bericht automatisch vertaald zonder handmatig op Vertalen te klikken."
+   },
+   "cancel": {
+      "message": "opzeggen"
+   },
+   "captcha": {
+      "message": "Captcha"
+   },
+   "characters": {
+      "message": "karakter"
+   },
+   "chromeOnly": {
+      "message": "Ondersteunt momenteel alleen Chrome-gebruik, andere browsers moeten e-mailaanmelding gebruiken"
+   },
+   "clickSend": {
+      "message": "Klik op Verzenden."
+   },
+   "clickSetHotkey": {
+      "message": "Klik op de instellingensnelkoppeling, u kunt het te verzenden bericht snel vertalen"
+   },
+   "confirmUpdate": {
+      "message": "Update bevestigen"
+   },
+   "contactSpeakLang": {
+      "message": "contact taal"
+   },
+   "contactSpeakLangExtra": {
+      "message": "De taal waarin het bericht wordt vertaald, meestal de taal van de andere partij"
+   },
+   "contactSpeakLangTip": {
+      "message": "Indien ingesteld op automatisch, zal het programma automatisch de taal van de andere partij detecteren"
+   },
+   "currentVersion": {
+      "message": "Huidige versie"
+   },
+   "customerServiceEmail": {
+      "message": "Klantenservice e-mail"
+   },
+   "description": {
+      "message": "Een automatische vertaaltool voor Whatsapp berichten in meer dan 100 talen (niet officieel)"
+   },
+   "earlyBird": {
+      "message": "Vroegboekkorting voor een beperkte tijd!"
+   },
+   "email": {
+      "message": "e-mail"
+   },
+   "enterToSend": {
+      "message": "Voer in om berichten te verzenden en te vertalen"
+   },
+   "enterToSendExtra": {
+      "message": "Na het openen zal het indrukken van de Enter-toets het bericht verzenden en vertalen (de aangepaste snelkoppeling wordt genegeerd, deze configuratiewijziging moet worden vernieuwd naar de whatsapp-pagina om van kracht te worden)"
+   },
+   "expirationTime": {
+      "message": "vervaltijd"
+   },
+   "fastTranslate": {
+      "message": "Stuur meteen"
+   },
+   "fastTranslateExtra": {
+      "message": "Wanneer ingeschakeld, bij het gebruik van de snelkoppeling, worden berichten automatisch verzonden tijdens het vertalen"
+   },
+   "firstLogin": {
+      "message": "De eerste keer dat u inlogt, ontvangt u direct een 3-daags professioneel lidmaatschap."
+   },
+   "forgetPassword": {
+      "message": "Wachtwoord vergeten"
+   },
+   "googleLogin": {
+      "message": "Inloggen met Google"
+   },
+   "helpDocumentation": {
+      "message": "Hulp Documentatie"
+   },
+   "inputEmail": {
+      "message": "Vul uw e-mailadres in!"
+   },
+   "inputHotkey": {
+      "message": "Voer snelkoppelingen in"
+   },
+   "inputPassword": {
+      "message": "Voer uw wachtwoord in!"
+   },
+   "languageDetectionEngine": {
+      "message": "taalherkenning engine"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Selecteer de engine die wordt gebruikt om de berichttaal te herkennen"
+   },
+   "least": {
+      "message": "minst"
+   },
+   "limitTip": {
+      "message": "❗️ Sorry, je hebt de dagelijkse proeflimiet bereikt (30 keer / dag), probeer het morgen opnieuw. (PRO-gebruikers zijn onbeperkt)"
+   },
+   "login": {
+      "message": "inloggen"
+   },
+   "loginOut": {
+      "message": "uitloggen"
+   },
+   "more": {
+      "message": "meer"
+   },
+   "moreSettings": {
+      "message": "Meer instellingen"
+   },
+   "name": {
+      "message": "Automatische Whatsapp ™ Vertaler"
+   },
+   "nativeLanguageInterception": {
+      "message": "gedwongen vertaling"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Na het inschakelen, wanneer het bericht niet wordt vertaald, onderschept u het verzonden bericht (deze configuratiewijziging moet de whatsapp-pagina vernieuwen om van kracht te worden)"
+   },
+   "needToRefresh": {
+      "message": "(Deze configuratiewijziging moet de WhatsApp-pagina vernieuwen om van kracht te worden)"
+   },
+   "newPassword": {
+      "message": "nieuw wachtwoord"
+   },
+   "noAccount": {
+      "message": "Heb je nog geen account? "
+   },
+   "noDeeplPreview": {
+      "message": "Deze engine ondersteunt momenteel niet de preview functie"
+   },
+   "notIsInvalidEmail": {
+      "message": "Geen geldig e-mailadres."
+   },
+   "officialWebsite": {
+      "message": "officiële website"
+   },
+   "onlineCustomerService": {
+      "message": "Online klantenservice"
+   },
+   "or": {
+      "message": "of"
+   },
+   "originalText": {
+      "message": "origineel"
+   },
+   "password": {
+      "message": "wachtwoord"
+   },
+   "pleaseInput": {
+      "message": "Graag invoeren"
+   },
+   "proLimitTip": {
+      "message": "Sorry, deze functie is beperkt tot alleen PRO-gebruikers."
+   },
+   "refresh": {
+      "message": "vernieuwen"
+   },
+   "register": {
+      "message": "Inschrijven"
+   },
+   "replacementText": {
+      "message": "vervangen"
+   },
+   "sendCaptcha": {
+      "message": "Verificatiecode ophalen"
+   },
+   "sendSuccess": {
+      "message": "Gelukt gestuurd"
+   },
+   "setHotkey": {
+      "message": "Sneltoetsen instellen"
+   },
+   "settingTip": {
+      "message": "Na de eerste installatie moet u de whatsapp-pagina vernieuwen voordat de configuratie van kracht wordt."
+   },
+   "settings": {
+      "message": "instellingen"
+   },
+   "showLangStatus": {
+      "message": "Toon originele taal"
+   },
+   "showLangStatusExtra": {
+      "message": "Na het openen wordt de vertaalde taal na de vertaling weergegeven. Klik op de taal om over te schakelen."
+   },
+   "translateBilingual": {
+      "message": "tweetalig beeldscherm"
+   },
+   "translateBilingualExtra": {
+      "message": "Na het openen wordt tweetalige inhoud weergegeven (de vertaling wordt weergegeven tegen het origineel)"
+   },
+   "translateTerminology": {
+      "message": "Begrippenlijst"
+   },
+   "translateTerminologyExtra": {
+      "message": "Eenmaal ingesteld, zal de term functie bij voorkeur de inhoud in de woordenschat herkennen en vervangen, die vaak wordt gebruikt om eigennamen en afkortingen te vervangen. Merk op dat de functie hoofdlettergevoelig is en alle ingevoerde interpunctie behoudt, inclusief spaties."
+   },
+   "translateTextColor": {
+      "message": "Tekstkleur vertalen"
+   },
+   "translateTextColorExtra": {
+      "message": "De kleur van de vertaalde inhoud"
+   },
+   "translationInterception": {
+      "message": "Het bericht is niet vertaald en is niet meer verzonden. Vertaal het alstublieft voordat u het verzendt, of klik op de knop Systeem verzenden om het te forceren om te worden verzonden."
+   },
+   "translationPreview": {
+      "message": "Vertaalvoorbeeld"
+   },
+   "translationPreviewExtra": {
+      "message": "Na het openen wordt een voorbeeld van de vertaalde inhoud in realtime weergegeven, wat helpt om de nauwkeurigheid van de vertaling te verbeteren"
+   },
+   "translationService": {
+      "message": "Vertaalmachine"
+   },
+   "translationServiceExtra": {
+      "message": "Motor voor vertaling"
+   },
+   "translationSwitch": {
+      "message": "Vertaalschakelaar"
+   },
+   "translationSwitchExtra": {
+      "message": "Na afsluiting werkt het programma niet meer"
+   },
+   "unlock": {
+      "message": "Ontgrendelen"
+   },
+   "unlockAllFeatures": {
+      "message": "Alle functies ontgrendelen"
+   },
+   "updatePassword": {
+      "message": "Wachtwoord bijwerken"
+   },
+   "updateSuccess": {
+      "message": "Update geslaagd"
+   },
+   "usageToday": {
+      "message": "gebruik vandaag"
+   },
+   "yourLanguage": {
+      "message": "Uw taal"
+   },
+   "yourLanguageExtra": {
+      "message": "De taal waarin het bericht dat u ontvangt wordt vertaald, meestal uw moedertaal"
+   }
+}

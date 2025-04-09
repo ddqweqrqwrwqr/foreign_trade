@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "บัญชีผู้ใช้"
+   },
+   "addRule": {
+      "message": "เพิ่มกฎ"
+   },
+   "autoTranslate": {
+      "message": "แปลอัตโนมัติ"
+   },
+   "autoTranslateExtra": {
+      "message": "หลังจากเปิดแล้ว ข้อความที่ได้รับจะถูกแปลโดยอัตโนมัติโดยไม่ต้องคลิกแปลด้วยตนเอง"
+   },
+   "cancel": {
+      "message": "ยกเลิกค่ะ"
+   },
+   "captcha": {
+      "message": "รหัสยืนยัน"
+   },
+   "characters": {
+      "message": "ตัวละคร"
+   },
+   "chromeOnly": {
+      "message": "ปัจจุบันรองรับการใช้งาน Chrome เท่านั้นเบราว์เซอร์อื่นจำเป็นต้องใช้กล่องจดหมายเพื่อเข้าสู่ระบบ"
+   },
+   "clickSend": {
+      "message": "กดส่ง"
+   },
+   "clickSetHotkey": {
+      "message": "คลิกปุ่มลัดการตั้งค่าเพื่อแปลข้อความที่คุณต้องการส่งอย่างรวดเร็ว"
+   },
+   "confirmUpdate": {
+      "message": "ยืนยันการอัพเดต"
+   },
+   "contactSpeakLang": {
+      "message": "ภาษาของผู้ติดต่อ"
+   },
+   "contactSpeakLangExtra": {
+      "message": "ภาษาที่ข้อความที่คุณส่งจะถูกแปล โดยปกติจะเป็นภาษาของอีกฝ่ายหนึ่ง"
+   },
+   "contactSpeakLangTip": {
+      "message": "หากตั้งค่าเป็น auto โปรแกรมจะตรวจจับภาษาของบุคคลอื่นโดยอัตโนมัติ"
+   },
+   "currentVersion": {
+      "message": "รุ่นปัจจุบัน"
+   },
+   "customerServiceEmail": {
+      "message": "อีเมลบริการลูกค้า"
+   },
+   "description": {
+      "message": "เครื่องมือแปลข้อความอัตโนมัติ Whatsapp ที่รองรับมากกว่า 100 ภาษา (ไม่เป็นทางการ)"
+   },
+   "earlyBird": {
+      "message": "ส่วนลด Early Bird แบบจำกัดเวลา!"
+   },
+   "email": {
+      "message": "กล่องจดหมาย"
+   },
+   "enterToSend": {
+      "message": "ปุ่ม Enter เพื่อส่งและแปลข้อความ"
+   },
+   "enterToSendExtra": {
+      "message": "หลังจากเปิดแล้ว ให้กดปุ่ม Enter เพื่อส่งและแปลข้อความ (ปุ่มลัดที่กำหนดเองจะถูกละเว้น การแก้ไขการกำหนดค่านี้ จำเป็นต้องรีเฟรชหน้า whatsapp ก่อนจึงจะมีผล)"
+   },
+   "expirationTime": {
+      "message": "เวลาหมดอายุ"
+   },
+   "fastTranslate": {
+      "message": "ส่งทันที"
+   },
+   "fastTranslateExtra": {
+      "message": "เมื่อเปิดใช้งาน เมื่อใช้ปุ่มลัด ข้อความจะถูกส่งโดยอัตโนมัติขณะแปล"
+   },
+   "firstLogin": {
+      "message": "เข้าสู่ระบบครั้งแรก คุณจะได้รับสมาชิกมืออาชีพ 3 วันทันที"
+   },
+   "forgetPassword": {
+      "message": "ลืมรหัสผ่าน"
+   },
+   "googleLogin": {
+      "message": "เข้าสู่ระบบด้วย Google"
+   },
+   "helpDocumentation": {
+      "message": "เอกสารช่วยเหลือ"
+   },
+   "inputEmail": {
+      "message": "กรุณาใส่กล่องจดหมาย!"
+   },
+   "inputHotkey": {
+      "message": "โปรดป้อนปุ่มลัด"
+   },
+   "inputPassword": {
+      "message": "กรุณาใส่รหัสผ่าน!"
+   },
+   "languageDetectionEngine": {
+      "message": "กลไกการรู้จำภาษา"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "เลือกเครื่องมือที่จะใช้จดจำภาษาของจดหมาย"
+   },
+   "least": {
+      "message": "น้อยที่สุด"
+   },
+   "limitTip": {
+      "message": "❗️ ขออภัย คุณถึงขีดจำกัดการทดลองใช้รายวันแล้ว (30 ครั้ง/วัน) โปรดลองอีกครั้งในวันพรุ่งนี้ (ผู้ใช้ PRO ไม่จำกัด)"
+   },
+   "login": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "loginOut": {
+      "message": "ออกจากการเข้าสู่ระบบ"
+   },
+   "more": {
+      "message": "เพิ่มเติม"
+   },
+   "moreSettings": {
+      "message": "การตั้งค่าเพิ่มเติม"
+   },
+   "name": {
+      "message": "ตัวแปล™ Whatsapp อัตโนมัติ - แปลข้อความที่ได้รับและส่งโดยอัตโนมัติ"
+   },
+   "nativeLanguageInterception": {
+      "message": "บังคับให้แปล"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "หลังจากเปิดแล้ว เมื่อข้อความไม่ได้แปล ให้สกัดกั้นข้อความที่ส่ง (การกำหนดค่านี้ได้รับการแก้ไข จำเป็นต้องรีเฟรชหน้า whatsapp ก่อนจึงจะมีผล)"
+   },
+   "needToRefresh": {
+      "message": "(การแก้ไขการกำหนดค่านี้ต้องรีเฟรชหน้า whatsapp ก่อนจึงจะมีผล)"
+   },
+   "newPassword": {
+      "message": "รหัสผ่านใหม่"
+   },
+   "noAccount": {
+      "message": "ไม่มีบัญชี? "
+   },
+   "noDeeplPreview": {
+      "message": "เอ็นจิ้นนี้ไม่รองรับฟังก์ชั่นการแสดงตัวอย่างในขณะนี้"
+   },
+   "notIsInvalidEmail": {
+      "message": "ไม่ใช่กล่องจดหมายที่ถูกต้อง"
+   },
+   "officialWebsite": {
+      "message": "เว็บไซต์อย่างเป็นทางการ"
+   },
+   "onlineCustomerService": {
+      "message": "บริการลูกค้าออนไลน์"
+   },
+   "or": {
+      "message": "หรือ"
+   },
+   "originalText": {
+      "message": "ต้นฉบับ"
+   },
+   "password": {
+      "message": "รหัสผ่าน"
+   },
+   "pleaseInput": {
+      "message": "กรุณาใส่"
+   },
+   "proLimitTip": {
+      "message": "ขออภัยค่ะ ฟังก์ชันนี้สำหรับผู้ใช้ PRO เท่านั้น"
+   },
+   "refresh": {
+      "message": "รีเฟรช"
+   },
+   "register": {
+      "message": "ลงทะเบียน"
+   },
+   "replacementText": {
+      "message": "แทนที่"
+   },
+   "sendCaptcha": {
+      "message": "รับรหัสยืนยัน"
+   },
+   "sendSuccess": {
+      "message": "ส่งสำเร็จแล้ว"
+   },
+   "setHotkey": {
+      "message": "ตั้งค่าปุ่มลัด"
+   },
+   "settingTip": {
+      "message": "หลังจากการติดตั้งครั้งแรก ต้องรีเฟรชหน้า whatsapp ก่อนการกำหนดค่าจะมีผล"
+   },
+   "settings": {
+      "message": "ตั้งค่า"
+   },
+   "showLangStatus": {
+      "message": "แสดงภาษาต้นฉบับ"
+   },
+   "showLangStatusExtra": {
+      "message": "เมื่อเปิดแล้ว จะแสดงภาษาที่แปลหลังจากการแปล คลิกที่ภาษาเพื่อสลับ"
+   },
+   "translateBilingual": {
+      "message": "จอแสดงผลสองภาษา"
+   },
+   "translateBilingualExtra": {
+      "message": "เมื่อเปิดแล้ว เนื้อหาสองภาษาจะปรากฏขึ้น (การแปลจะแสดงเมื่อเปรียบเทียบกับข้อความต้นฉบับ)"
+   },
+   "translateTerminology": {
+      "message": "อภิธานศัพท์"
+   },
+   "translateTerminologyExtra": {
+      "message": "เมื่อตั้งค่าแล้ว ฟังก์ชันคำศัพท์จะจัดลำดับความสำคัญในการระบุและแทนที่เนื้อหาในอภิธานศัพท์ ซึ่งมักใช้เพื่อแทนที่คำนามและตัวย่อที่เหมาะสม โปรดทราบว่าฟังก์ชันนี้ใช้เพื่อแยกความแตกต่างระหว่างตัวพิมพ์ใหญ่และตัวพิมพ์เล็ก และจะเก็บเครื่องหมายวรรคตอนที่ป้อนทั้งหมดไว้ รวมถึงช่องว่าง"
+   },
+   "translateTextColor": {
+      "message": "สีข้อความที่แปลแล้ว"
+   },
+   "translateTextColorExtra": {
+      "message": "สีของเนื้อหาที่แปลแล้ว"
+   },
+   "translationInterception": {
+      "message": "ข้อความไม่ได้แปล หยุดส่ง กรุณาแปลก่อนส่ง หรือคลิกปุ่มส่งของระบบเพื่อบังคับให้ส่ง"
+   },
+   "translationPreview": {
+      "message": "ตัวอย่างการแปล"
+   },
+   "translationPreviewExtra": {
+      "message": "เมื่อเปิดแล้ว การแสดงตัวอย่างเนื้อหาที่แปลแล้วจะแสดงแบบเรียลไทม์ ซึ่งจะช่วยปรับปรุงความแม่นยำในการแปล"
+   },
+   "translationService": {
+      "message": "เครื่องมือแปลภาษา"
+   },
+   "translationServiceExtra": {
+      "message": "เครื่องมือสำหรับการแปล"
+   },
+   "translationSwitch": {
+      "message": "สวิตช์แปล"
+   },
+   "translationSwitchExtra": {
+      "message": "หลังจากปิดโปรแกรมแล้ว โปรแกรมจะหยุดทำงานอยู่"
+   },
+   "unlock": {
+      "message": "ปลดล็อค"
+   },
+   "unlockAllFeatures": {
+      "message": "ปลดล็อคฟังก์ชั่นทั้งหมด"
+   },
+   "updatePassword": {
+      "message": "อัปเดตรหัสผ่าน"
+   },
+   "updateSuccess": {
+      "message": "อัปเดตสำเร็จแล้ว"
+   },
+   "usageToday": {
+      "message": "จำนวนครั้งที่ใช้ในวันนี้"
+   },
+   "yourLanguage": {
+      "message": "ภาษาของคุณ"
+   },
+   "yourLanguageExtra": {
+      "message": "ภาษาที่ข้อความที่คุณได้รับจะถูกแปลเป็นภาษาแม่ของคุณ"
+   }
+}

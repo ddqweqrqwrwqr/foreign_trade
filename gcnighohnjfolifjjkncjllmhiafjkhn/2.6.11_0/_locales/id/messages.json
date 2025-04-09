@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Akun"
+   },
+   "addRule": {
+      "message": "Tambahkan aturan"
+   },
+   "autoTranslate": {
+      "message": "terjemahan otomatis"
+   },
+   "autoTranslateExtra": {
+      "message": "Setelah dibuka, pesan yang diterima akan diterjemahkan secara otomatis tanpa mengklik Terjemahkan secara manual."
+   },
+   "cancel": {
+      "message": "batal"
+   },
+   "captcha": {
+      "message": "KAPTEN"
+   },
+   "characters": {
+      "message": "karakter"
+   },
+   "chromeOnly": {
+      "message": "Saat ini hanya mendukung penggunaan Chrome, browser lain perlu menggunakan login email"
+   },
+   "clickSend": {
+      "message": "Klik Kirim."
+   },
+   "clickSetHotkey": {
+      "message": "Klik pada pintasan pengaturan, Anda dapat dengan cepat menerjemahkan pesan yang akan di kirim"
+   },
+   "confirmUpdate": {
+      "message": "Konfirmasi pembaruan"
+   },
+   "contactSpeakLang": {
+      "message": "bahasa kontak"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Bahasa di mana pesan yang Anda kirim akan diterjemahkan, biasanya bahasa pihak lain"
+   },
+   "contactSpeakLangTip": {
+      "message": "Jika diatur ke otomatis, program akan secara otomatis mendeteksi bahasa pihak lain"
+   },
+   "currentVersion": {
+      "message": "Versi saat ini"
+   },
+   "customerServiceEmail": {
+      "message": "Email layanan pelanggan"
+   },
+   "description": {
+      "message": "Alat terjemahan otomatis untuk pesan Whatsapp dalam lebih dari 100 bahasa (tidak resmi)"
+   },
+   "earlyBird": {
+      "message": "Diskon early bird untuk waktu yang terbatas!"
+   },
+   "email": {
+      "message": "email"
+   },
+   "enterToSend": {
+      "message": "Masuk untuk mengirim dan menerjemahkan pesan"
+   },
+   "enterToSendExtra": {
+      "message": "Setelah dibuka, menekan tombol Enter akan mengirim dan menerjemahkan pesan (pintasan khusus akan diabaikan, modifikasi konfigurasi ini perlu disegarkan ke halaman whatsapp untuk mulai berlaku)"
+   },
+   "expirationTime": {
+      "message": "waktu kadaluarsa"
+   },
+   "fastTranslate": {
+      "message": "Kirim segera"
+   },
+   "fastTranslateExtra": {
+      "message": "Saat dihidupkan, saat menggunakan pintasan, pesan secara otomatis di kirim saat menerjemahkan"
+   },
+   "firstLogin": {
+      "message": "Pertama kali Anda masuk, Anda akan langsung menerima keanggotaan profesional 3 hari."
+   },
+   "forgetPassword": {
+      "message": "Lupa Kata Sandi"
+   },
+   "googleLogin": {
+      "message": "Masuk dengan Google"
+   },
+   "helpDocumentation": {
+      "message": "Bantu Dokumentasi"
+   },
+   "inputEmail": {
+      "message": "Silakan masukkan alamat email Anda!"
+   },
+   "inputHotkey": {
+      "message": "Silakan masukkan jalan pintas"
+   },
+   "inputPassword": {
+      "message": "Silakan masukkan kata sandi Anda!"
+   },
+   "languageDetectionEngine": {
+      "message": "mesin pengenalan bahasa"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Pilih mesin yang digunakan untuk mengenali bahasa pesan"
+   },
+   "least": {
+      "message": "setidaknya"
+   },
+   "limitTip": {
+      "message": "❗️ Maaf, Anda telah mencapai batas uji coba harian (30 kali / hari), silakan coba lagi besok. (Pengguna PRO tidak terbatas)"
+   },
+   "login": {
+      "message": "login"
+   },
+   "loginOut": {
+      "message": "keluar"
+   },
+   "more": {
+      "message": "lebih"
+   },
+   "moreSettings": {
+      "message": "Lebih banyak pengaturan"
+   },
+   "name": {
+      "message": "Otomatis Whatsapp ™ Penerjemah"
+   },
+   "nativeLanguageInterception": {
+      "message": "terjemahan paksa"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Setelah mengaktifkan, ketika pesan tidak diterjemahkan, cegat pesan yang di kirim (perubahan konfigurasi ini perlu menyegarkan halaman whatsapp untuk mulai berlaku)"
+   },
+   "needToRefresh": {
+      "message": "(Modifikasi konfigurasi ini perlu menyegarkan halaman whatsapp untuk mulai berlaku)"
+   },
+   "newPassword": {
+      "message": "kata sandi baru"
+   },
+   "noAccount": {
+      "message": "Tidak punya akun? "
+   },
+   "noDeeplPreview": {
+      "message": "Mesin ini saat ini tidak mendukung fungsi pratinjau"
+   },
+   "notIsInvalidEmail": {
+      "message": "Bukan alamat email yang valid."
+   },
+   "officialWebsite": {
+      "message": "situs web resmi"
+   },
+   "onlineCustomerService": {
+      "message": "Layanan pelanggan online"
+   },
+   "or": {
+      "message": "atau"
+   },
+   "originalText": {
+      "message": "asli"
+   },
+   "password": {
+      "message": "sandi"
+   },
+   "pleaseInput": {
+      "message": "Silakan masukkan"
+   },
+   "proLimitTip": {
+      "message": "Maaf, fitur ini terbatas hanya untuk pengguna PRO."
+   },
+   "refresh": {
+      "message": "menyegarkan"
+   },
+   "register": {
+      "message": "Daftar"
+   },
+   "replacementText": {
+      "message": "mengganti"
+   },
+   "sendCaptcha": {
+      "message": "Dapatkan kode verifikasi"
+   },
+   "sendSuccess": {
+      "message": "Di kirim dengan sukses"
+   },
+   "setHotkey": {
+      "message": "Setel jalan pintas"
+   },
+   "settingTip": {
+      "message": "Setelah instalasi pertama, Anda perlu menyegarkan halaman whatsapp sebelum konfigurasi berlaku."
+   },
+   "settings": {
+      "message": "pengaturan"
+   },
+   "showLangStatus": {
+      "message": "Tampilkan bahasa asli"
+   },
+   "showLangStatusExtra": {
+      "message": "Setelah dibuka, bahasa yang diterjemahkan akan ditampilkan setelah terjemahan. Klik pada bahasa untuk beralih."
+   },
+   "translateBilingual": {
+      "message": "tampilan bilingual"
+   },
+   "translateBilingualExtra": {
+      "message": "Setelah dibuka, konten bilingual akan ditampilkan (terjemahan ditampilkan dengan aslinya)"
+   },
+   "translateTerminology": {
+      "message": "Glosarium"
+   },
+   "translateTerminologyExtra": {
+      "message": "Setelah disetel, istilah fungsi akan secara istimewa mengenali dan mengganti konten dalam kosakata, yang sering digunakan untuk mengganti kata benda dan singkatan yang tepat. Perhatikan bahwa fungsinya peka huruf besar / kecil dan akan mempertahankan semua tanda baca yang dimasukkan, termasuk spasi."
+   },
+   "translateTextColor": {
+      "message": "Terjemahkan warna teks"
+   },
+   "translateTextColorExtra": {
+      "message": "Warna konten yang diterjemahkan"
+   },
+   "translationInterception": {
+      "message": "Pesan belum diterjemahkan dan berhenti di kirim. Harap terjemahkan sebelum mengirimnya, atau klik tombol kirim sistem untuk memaksanya di kirim."
+   },
+   "translationPreview": {
+      "message": "Pratinjau Terjemahan"
+   },
+   "translationPreviewExtra": {
+      "message": "Setelah dibuka, pratinjau konten yang diterjemahkan akan ditampilkan secara real time, yang membantu meningkatkan akurasi terjemahan"
+   },
+   "translationService": {
+      "message": "Mesin Terjemahan"
+   },
+   "translationServiceExtra": {
+      "message": "Mesin untuk terjemahan"
+   },
+   "translationSwitch": {
+      "message": "Sakelar terjemahan"
+   },
+   "translationSwitchExtra": {
+      "message": "Setelah ditutup, program akan berhenti bekerja"
+   },
+   "unlock": {
+      "message": "Buka kunci"
+   },
+   "unlockAllFeatures": {
+      "message": "Buka kunci semua fitur"
+   },
+   "updatePassword": {
+      "message": "Perbarui kata sandi"
+   },
+   "updateSuccess": {
+      "message": "Pembaruan berhasil"
+   },
+   "usageToday": {
+      "message": "penggunaan hari ini"
+   },
+   "yourLanguage": {
+      "message": "bahasa Anda"
+   },
+   "yourLanguageExtra": {
+      "message": "Bahasa tempat pesan yang Anda terima akan diterjemahkan, biasanya bahasa ibu Anda"
+   }
+}

@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "addRule": {
+      "message": "Lisa reegel"
+   },
+   "autoTranslate": {
+      "message": "automaatne tõlkimine"
+   },
+   "autoTranslateExtra": {
+      "message": "Pärast avamist tõlgitakse saadud sõnum automaatselt ilma käsitsi klõpsamata Tõlgi."
+   },
+   "cancel": {
+      "message": "tühistamine"
+   },
+   "captcha": {
+      "message": "Pärnu"
+   },
+   "characters": {
+      "message": "iseloomu"
+   },
+   "chromeOnly": {
+      "message": "Praegu toetab ainult Chrome'i kasutamist, teised brauserid peavad kasutama e-posti teel sisselogimist"
+   },
+   "clickSend": {
+      "message": "Klõpsake Saada."
+   },
+   "clickSetHotkey": {
+      "message": "Klõpsake otseteel seaded, saate saadetava sõnumi kiiresti tõlkida"
+   },
+   "confirmUpdate": {
+      "message": "Kinnitage värskendus"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktkeel"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Keel, kuhu teie saadetud sõnum tõlgitakse, tavaliselt teise poole keel"
+   },
+   "contactSpeakLangTip": {
+      "message": "Kui see on seatud automaatseks, tuvastab programm teise osapoole keele automaatselt"
+   },
+   "currentVersion": {
+      "message": "Praegune versioon"
+   },
+   "customerServiceEmail": {
+      "message": "Klienditeenindus"
+   },
+   "description": {
+      "message": "Automaatne tõlkevahend Whatsapp sõnumitele enam kui 100 keeles (mitteametlik)"
+   },
+   "earlyBird": {
+      "message": "Varajase linnu allahindlus piiratud aja jooksul!"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "enterToSend": {
+      "message": "Sisestage sõnumite saatmiseks ja tõlkimiseks"
+   },
+   "enterToSendExtra": {
+      "message": "Pärast avamist saadetakse ja tõlgitakse sõnum nuppu Enter vajutades (kohandatud otseteed eiratakse, seda konfiguratsioonimuudatust tuleb jõustumiseks värskendada whatsappi lehele)"
+   },
+   "expirationTime": {
+      "message": "aegumisaeg"
+   },
+   "fastTranslate": {
+      "message": "Saatke kohe"
+   },
+   "fastTranslateExtra": {
+      "message": "Kui see on sisse lülitatud, saadetakse otsetee kasutamisel sõnumid tõlkimise ajal automaatselt"
+   },
+   "firstLogin": {
+      "message": "Esimest korda sisse logides saate kohe 3-päevase professionaalse liikmelisuse."
+   },
+   "forgetPassword": {
+      "message": "Parool unustas"
+   },
+   "googleLogin": {
+      "message": "Logi sisse Google'iga"
+   },
+   "helpDocumentation": {
+      "message": "Abidokumentatsioon"
+   },
+   "inputEmail": {
+      "message": "Palun sisestage oma e-posti aadress!"
+   },
+   "inputHotkey": {
+      "message": "Palun sisestage otseteed"
+   },
+   "inputPassword": {
+      "message": "Palun sisestage oma parool!"
+   },
+   "languageDetectionEngine": {
+      "message": "keeletuvastusmootor"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Valige sõnumi keele tuvastamiseks kasutatav mootor"
+   },
+   "least": {
+      "message": "Vähemalt"
+   },
+   "limitTip": {
+      "message": "❗️ Vabandust, oled jõudnud päevase proovipiiranguni (30 korda päevas), palun proovige uuesti homme. (PRO kasutajad on piiramatud)"
+   },
+   "login": {
+      "message": "sisselogimine"
+   },
+   "loginOut": {
+      "message": "Logi välja"
+   },
+   "more": {
+      "message": "rohkem"
+   },
+   "moreSettings": {
+      "message": "Rohkem seadeid"
+   },
+   "name": {
+      "message": "Automaatne Whatsapp ™ Tõlkija"
+   },
+   "nativeLanguageInterception": {
+      "message": "sunnitud tõlkimine"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Pärast lubamist, kui sõnumit pole tõlgitud, võtke saadetud sõnum kinni (see konfiguratsioonimuudatus peab jõustumiseks värskendama whatsappi lehte)"
+   },
+   "needToRefresh": {
+      "message": "(See konfiguratsiooni muudatus peab värskendama whatsappi lehe jõustumiseks)"
+   },
+   "newPassword": {
+      "message": "uus parool"
+   },
+   "noAccount": {
+      "message": "Kas teil pole kontot? "
+   },
+   "noDeeplPreview": {
+      "message": "See mootor ei toeta praegu eelvaate funktsiooni"
+   },
+   "notIsInvalidEmail": {
+      "message": "Ei ole kehtiv e-posti aadress."
+   },
+   "officialWebsite": {
+      "message": "ametlik veebileht"
+   },
+   "onlineCustomerService": {
+      "message": "Online klienditeenindus"
+   },
+   "or": {
+      "message": "või"
+   },
+   "originalText": {
+      "message": "originaal"
+   },
+   "password": {
+      "message": "parool"
+   },
+   "pleaseInput": {
+      "message": "Palun sisestage"
+   },
+   "proLimitTip": {
+      "message": "Vabandust, see funktsioon on piiratud ainult PRO kasutajatega."
+   },
+   "refresh": {
+      "message": "värskendada"
+   },
+   "register": {
+      "message": "Registreerumine"
+   },
+   "replacementText": {
+      "message": "asendada"
+   },
+   "sendCaptcha": {
+      "message": "Hankige kinnituskood"
+   },
+   "sendSuccess": {
+      "message": "Saadetud edukalt"
+   },
+   "setHotkey": {
+      "message": "Määra otseteed"
+   },
+   "settingTip": {
+      "message": "Pärast esimest installimist peate enne konfiguratsiooni jõustumist värskendama whatsappi lehte."
+   },
+   "settings": {
+      "message": "seaded"
+   },
+   "showLangStatus": {
+      "message": "Näita originaalkeelt"
+   },
+   "showLangStatusExtra": {
+      "message": "Pärast avamist kuvatakse tõlgitud keel pärast tõlget. Vahetamiseks klõpsake keelel."
+   },
+   "translateBilingual": {
+      "message": "Kakskeelne kuvamine"
+   },
+   "translateBilingualExtra": {
+      "message": "Pärast avamist kuvatakse kakskeelne sisu (tõlge kuvatakse originaaliga võrreldes)"
+   },
+   "translateTerminology": {
+      "message": "Sõnastik"
+   },
+   "translateTerminologyExtra": {
+      "message": "Kui see on määratud, tunneb termin funktsioon eelistatavalt ära ja asendab sõnavara sisu, mida kasutatakse sageli õigete nimisõnade ja lühendite asendamiseks. Pange tähele, et funktsioon on tähetundlik ja säilitab kõik sisestatud kirjavahemärgid, sealhulgas tühikud."
+   },
+   "translateTextColor": {
+      "message": "Tõlkige tekstivärv"
+   },
+   "translateTextColorExtra": {
+      "message": "Tõlgitud sisu värv"
+   },
+   "translationInterception": {
+      "message": "Sõnumit ei ole tõlgitud ja saatmine on lõpetatud. Palun tõlkige see enne saatmist või klõpsake süsteemi saatmise nuppu, et sundida seda saatma."
+   },
+   "translationPreview": {
+      "message": "Tõlke eelvaade"
+   },
+   "translationPreviewExtra": {
+      "message": "Pärast avamist kuvatakse tõlgitud sisu eelvaade reaalajas, mis aitab parandada tõlke täpsust"
+   },
+   "translationService": {
+      "message": "Tõlkemootor"
+   },
+   "translationServiceExtra": {
+      "message": "Mootor tõlkimiseks"
+   },
+   "translationSwitch": {
+      "message": "Tõlkelüliti"
+   },
+   "translationSwitchExtra": {
+      "message": "Pärast sulgemist lõpetab programmi töö"
+   },
+   "unlock": {
+      "message": "Avage"
+   },
+   "unlockAllFeatures": {
+      "message": "Avage kõik funktsioonid"
+   },
+   "updatePassword": {
+      "message": "Uuendage parooli"
+   },
+   "updateSuccess": {
+      "message": "Uuendus edukas"
+   },
+   "usageToday": {
+      "message": "kasutamine täna"
+   },
+   "yourLanguage": {
+      "message": "Teie keel"
+   },
+   "yourLanguageExtra": {
+      "message": "Keel, kuhu saadud sõnum tõlgitakse, tavaliselt teie emakeel"
+   }
+}

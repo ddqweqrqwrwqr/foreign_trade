@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "অ্যাকাউন্ট"
+   },
+   "addRule": {
+      "message": "নিয়ম যোগ করুন"
+   },
+   "autoTranslate": {
+      "message": "স্বয়ংক্রিয় অনুবাদ"
+   },
+   "autoTranslateExtra": {
+      "message": "খোলার পরে, প্রাপ্ত বার্তাটি ম্যানুয়ালি অনুবাদ ক্লিক না করে স্বয়ংক্রিয়ভাবে অনুবাদ করা হবে।"
+   },
+   "cancel": {
+      "message": "বাতিল"
+   },
+   "captcha": {
+      "message": "ক্যাপচা"
+   },
+   "characters": {
+      "message": "চরিত্র"
+   },
+   "chromeOnly": {
+      "message": "বর্তমানে কেবল Chrome ব্যবহার সমর্থন করে, অন্যান্য ব্রাউজারগুলিকে ইমেল লগইন ব্যবহার করতে হবে"
+   },
+   "clickSend": {
+      "message": "পাঠান ক্লিক করুন।"
+   },
+   "clickSetHotkey": {
+      "message": "সেটিংস শর্টকাট ক্লিক করুন, আপনি দ্রুত পাঠানো বার্তা অনুবাদ করতে পারেন"
+   },
+   "confirmUpdate": {
+      "message": "আপডেট নিশ্চিত করুন"
+   },
+   "contactSpeakLang": {
+      "message": "যোগাযোগের ভাষা"
+   },
+   "contactSpeakLangExtra": {
+      "message": "যে ভাষায় আপনি যে বার্তাটি প্রেরণ করেন তা অনুবাদ করা হবে, সাধারণত অন্য পক্ষের ভাষা"
+   },
+   "contactSpeakLangTip": {
+      "message": "যদি অটোতে সেট করা হয় তবে প্রোগ্রামটি স্বয়ংক্রিয়ভাবে অন্য পক্ষের ভাষা সনাক্ত করবে"
+   },
+   "currentVersion": {
+      "message": "বর্তমান সংস্করণ"
+   },
+   "customerServiceEmail": {
+      "message": "গ্রাহক সেবা ইমেল"
+   },
+   "description": {
+      "message": "100 টিরও বেশি ভাষায় Whatsapp বার্তাগুলির জন্য একটি স্বয়ংক্রিয় অনুবাদ সরঞ্জাম (অনানুষ্ঠানিক)"
+   },
+   "earlyBird": {
+      "message": "সীমিত সময়ের জন্য প্রাথমিক পাখি ছাড়!"
+   },
+   "email": {
+      "message": "ইমেল"
+   },
+   "enterToSend": {
+      "message": "বার্তা পাঠাতে এবং অনুবাদ করতে প্রবেশ করুন"
+   },
+   "enterToSendExtra": {
+      "message": "খোলার পরে, এন্টার কী টিপলে বার্তাটি প্রেরণ এবং অনুবাদ করা হবে (কাস্টম শর্টকাট উপেক্ষা করা হবে, এই কনফিগারেশন পরিবর্তনটি কার্যকর হওয়ার জন্য হোয়াটসঅ্যাপ পৃষ্ঠায় রিফ্রেশ করা দরকার)"
+   },
+   "expirationTime": {
+      "message": "মেয়াদ শেষ সময়"
+   },
+   "fastTranslate": {
+      "message": "তাড়াতাড়ি পাঠান"
+   },
+   "fastTranslateExtra": {
+      "message": "চালু থাকলে, শর্টকাট ব্যবহার করার সময়, অনুবাদ করার সময় বার্তাগুলি স্বয়ংক্রিয়ভাবে প্রেরণ করা হয়"
+   },
+   "firstLogin": {
+      "message": "আপনি প্রথমবার লগ ইন করার পরে, আপনি তাত্ক্ষণিকভাবে একটি 3 দিনের পেশাদার সদস্যপদ পাবেন।"
+   },
+   "forgetPassword": {
+      "message": "ভুলে গেছেন পাসওয়ার্ড"
+   },
+   "googleLogin": {
+      "message": "গুগলের সাথে সাইন ইন করুন"
+   },
+   "helpDocumentation": {
+      "message": "সাহায্য ডকুমেন্টেশন"
+   },
+   "inputEmail": {
+      "message": "আপনার ইমেল ঠিকানা প্রবেশ করুন!"
+   },
+   "inputHotkey": {
+      "message": "শর্টকাট লিখুন"
+   },
+   "inputPassword": {
+      "message": "আপনার পাসওয়ার্ড লিখুন!"
+   },
+   "languageDetectionEngine": {
+      "message": "ভাষা স্বীকৃতি ইঞ্জিন"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "বার্তা ভাষা চিনতে ব্যবহৃত ইঞ্জিন নির্বাচন করুন"
+   },
+   "least": {
+      "message": "কমপক্ষে"
+   },
+   "limitTip": {
+      "message": "❗️ দুঃখিত, আপনি দৈনিক পরীক্ষার সীমাতে পৌঁছেছেন (30 বার / দিন), দয়া করে আগামীকাল আবার চেষ্টা করুন। (PRO ব্যবহারকারীরা সীমাহীন)"
+   },
+   "login": {
+      "message": "প্রবেশ"
+   },
+   "loginOut": {
+      "message": "লগ আউট"
+   },
+   "more": {
+      "message": "আরো"
+   },
+   "moreSettings": {
+      "message": "আরো সেটিংস"
+   },
+   "name": {
+      "message": "স্বয়ংক্রিয় Whatsapp ™ অনুবাদক"
+   },
+   "nativeLanguageInterception": {
+      "message": "জোর করে অনুবাদ"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "সক্ষম করার পরে, যখন বার্তাটি অনুবাদ না করা হয়, প্রেরিত বার্তাটিকে বাধা দিন (এই কনফিগারেশন পরিবর্তনটি কার্যকর হওয়ার জন্য হোয়াটসঅ্যাপ পৃষ্ঠাটি রিফ্রেশ করতে হবে)"
+   },
+   "needToRefresh": {
+      "message": "(এই কনফিগারেশন পরিবর্তন কার্যকর করতে WhatsApp পৃষ্ঠা রিফ্রেশ প্রয়োজন)"
+   },
+   "newPassword": {
+      "message": "নতুন পাসওয়ার্ড"
+   },
+   "noAccount": {
+      "message": "কোন অ্যাকাউন্ট নেই? "
+   },
+   "noDeeplPreview": {
+      "message": "এই ইঞ্জিন বর্তমানে পূর্বরূপ ফাংশন সমর্থন করে না"
+   },
+   "notIsInvalidEmail": {
+      "message": "বৈধ ইমেল ঠিকানা নয়।"
+   },
+   "officialWebsite": {
+      "message": "অফিসিয়াল ওয়েবসাইট"
+   },
+   "onlineCustomerService": {
+      "message": "অনলাইন গ্রাহক সেবা"
+   },
+   "or": {
+      "message": "বা"
+   },
+   "originalText": {
+      "message": "মূল"
+   },
+   "password": {
+      "message": "পাসওয়ার্ড"
+   },
+   "pleaseInput": {
+      "message": "দয়া করে প্রবেশ করুন"
+   },
+   "proLimitTip": {
+      "message": "দুঃখিত, এই বৈশিষ্ট্যটি কেবলমাত্র প্রো ব্যবহারকারীদের মধ্যে সীমাবদ্ধ।"
+   },
+   "refresh": {
+      "message": "রিফ্রেশ"
+   },
+   "register": {
+      "message": "নিবন্ধন"
+   },
+   "replacementText": {
+      "message": "প্রতিস্থাপন"
+   },
+   "sendCaptcha": {
+      "message": "যাচাই কোড পান"
+   },
+   "sendSuccess": {
+      "message": "সফলভাবে প্রেরণ"
+   },
+   "setHotkey": {
+      "message": "শর্টকাট সেট করুন"
+   },
+   "settingTip": {
+      "message": "প্রথম ইনস্টলেশনের পরে, কনফিগারেশন কার্যকর হওয়ার আগে আপনাকে হোয়াটসঅ্যাপ পৃষ্ঠাটি রিফ্রেশ করতে হবে।"
+   },
+   "settings": {
+      "message": "সেটিংস"
+   },
+   "showLangStatus": {
+      "message": "মূল ভাষা দেখান"
+   },
+   "showLangStatusExtra": {
+      "message": "খোলার পরে, থেকে অনুবাদ করা ভাষা অনুবাদ পরে প্রদর্শিত হবে। স্যুইচ করতে ভাষা ক্লিক করুন।"
+   },
+   "translateBilingual": {
+      "message": "দ্বিভাষিক প্রদর্শন"
+   },
+   "translateBilingualExtra": {
+      "message": "খোলার পরে, দ্বিভাষিক সামগ্রী প্রদর্শিত হবে (অনুবাদটি মূলটির বিপরীতে প্রদর্শিত হবে)"
+   },
+   "translateTerminology": {
+      "message": "শব্দকোষ"
+   },
+   "translateTerminologyExtra": {
+      "message": "একবার সেট হয়ে গেলে, 'ফাংশন' শব্দটি শব্দভাণ্ডারের বিষয়বস্তুটিকে অগ্রাধিকার হিসাবে চিনতে এবং প্রতিস্থাপন করবে, যা প্রায়শই 'যথাযথ বিশেষ্য এবং সংক্ষেপণগুলি' প্রতিস্থাপনের জন্য ব্যবহৃত হয়। নোট করুন যে ফাংশনটি কেস-সংবেদনশীল এবং স্পেস সহ সমস্ত প্রবেশকৃত বিরামচিহ্ন ধরে রাখবে।"
+   },
+   "translateTextColor": {
+      "message": "অনুবাদ পাঠ্য রঙ"
+   },
+   "translateTextColorExtra": {
+      "message": "অনুবাদ করা বিষয়বস্তুর রঙ"
+   },
+   "translationInterception": {
+      "message": "বার্তাটি অনুবাদ করা হয়নি এবং প্রেরণ বন্ধ করা হয়েছে। দয়া করে এটি প্রেরণের আগে এটি অনুবাদ করুন, বা এটি প্রেরণ করতে বাধ্য করার জন্য সিস্টেম প্রেরণ বোতামটি ক্লিক করুন।"
+   },
+   "translationPreview": {
+      "message": "অনুবাদ পূর্বরূপ"
+   },
+   "translationPreviewExtra": {
+      "message": "খোলার পরে, অনুবাদ করা সামগ্রীর একটি পূর্বরূপ রিয়েল টাইমে প্রদর্শিত হবে, যা অনুবাদ যথার্থতা উন্নত করতে সহায়তা করে"
+   },
+   "translationService": {
+      "message": "অনুবাদ ইঞ্জিন"
+   },
+   "translationServiceExtra": {
+      "message": "অনুবাদ জন্য ইঞ্জিন"
+   },
+   "translationSwitch": {
+      "message": "অনুবাদ সুইচ"
+   },
+   "translationSwitchExtra": {
+      "message": "বন্ধ হওয়ার পরে, প্রোগ্রামটি কাজ বন্ধ করবে"
+   },
+   "unlock": {
+      "message": "আনলক করুন"
+   },
+   "unlockAllFeatures": {
+      "message": "সমস্ত বৈশিষ্ট্য আনলক করুন"
+   },
+   "updatePassword": {
+      "message": "পাসওয়ার্ড আপডেট করুন"
+   },
+   "updateSuccess": {
+      "message": "আপডেট সফল"
+   },
+   "usageToday": {
+      "message": "আজ ব্যবহার"
+   },
+   "yourLanguage": {
+      "message": "আপনার ভাষা"
+   },
+   "yourLanguageExtra": {
+      "message": "যে ভাষায় আপনি যে বার্তাটি পেয়েছেন তা অনুবাদ করা হবে, সাধারণত আপনার মাতৃ ভাষা"
+   }
+}

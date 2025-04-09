@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "帳戶"
+   },
+   "addRule": {
+      "message": "添加規則"
+   },
+   "autoTranslate": {
+      "message": "自動翻譯"
+   },
+   "autoTranslateExtra": {
+      "message": "開啓後，會自動翻譯接收的消息，無需手動點擊翻譯"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "captcha": {
+      "message": "驗證碼"
+   },
+   "characters": {
+      "message": "個字符"
+   },
+   "chromeOnly": {
+      "message": "當前僅支持 Chrome 使用,其它瀏覽器需要使用郵箱登錄"
+   },
+   "clickSend": {
+      "message": "點擊發送"
+   },
+   "clickSetHotkey": {
+      "message": "點擊設置快捷鍵,可以快速翻譯要發送的消息"
+   },
+   "confirmUpdate": {
+      "message": "確認更新"
+   },
+   "contactSpeakLang": {
+      "message": "聯繫人語言"
+   },
+   "contactSpeakLangExtra": {
+      "message": "您發送的消息將要翻譯成的語言，通常爲對方的語言"
+   },
+   "contactSpeakLangTip": {
+      "message": "如果設置成 auto, 程序將自動檢測對方的語言"
+   },
+   "currentVersion": {
+      "message": "當前版本"
+   },
+   "customerServiceEmail": {
+      "message": "客服郵箱"
+   },
+   "description": {
+      "message": "一款支持超過 100 種語言的 Whatsapp 消息自動翻譯工具(非官方)"
+   },
+   "earlyBird": {
+      "message": "限時早鳥折扣！"
+   },
+   "email": {
+      "message": "郵箱"
+   },
+   "enterToSend": {
+      "message": "Enter 鍵發送並翻譯消息"
+   },
+   "enterToSendExtra": {
+      "message": "開啓後，按下 Enter 鍵會發送並翻譯消息（會忽略自定義的快捷鍵，此配置修改，需要刷新 whatsapp 頁面之後才能生效）"
+   },
+   "expirationTime": {
+      "message": "到期時間"
+   },
+   "fastTranslate": {
+      "message": "立即發送"
+   },
+   "fastTranslateExtra": {
+      "message": "開啓後, 當使用快捷鍵時,會在翻譯的同時自動發送消息"
+   },
+   "firstLogin": {
+      "message": "首次登錄, 將立刻獲得3天的專業會員."
+   },
+   "forgetPassword": {
+      "message": "忘記密碼"
+   },
+   "googleLogin": {
+      "message": "使用谷歌登錄"
+   },
+   "helpDocumentation": {
+      "message": "幫助文檔"
+   },
+   "inputEmail": {
+      "message": "請輸入郵箱!"
+   },
+   "inputHotkey": {
+      "message": "請輸入快捷鍵"
+   },
+   "inputPassword": {
+      "message": "請輸入密碼!"
+   },
+   "languageDetectionEngine": {
+      "message": "語言識別引擎"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "選擇用於識別消息語言的引擎"
+   },
+   "least": {
+      "message": "最少"
+   },
+   "limitTip": {
+      "message": "❗️ 對不起，您已達到每日試用上限(30次/day)，請明天再試。(PRO 用戶無限制)"
+   },
+   "login": {
+      "message": "登錄"
+   },
+   "loginOut": {
+      "message": "退出登錄"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "moreSettings": {
+      "message": "更多設置"
+   },
+   "name": {
+      "message": "自動 Whatsapp™ 翻譯器 - 自動翻譯接收與發送的消息"
+   },
+   "nativeLanguageInterception": {
+      "message": "強制翻譯"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "開啓後，當消息沒有翻譯時，攔截髮送的消息(此配置修改，需要刷新 whatsapp 頁面之後才能生效)"
+   },
+   "needToRefresh": {
+      "message": "(此配置修改，需要刷新 whatsapp 頁面之後才能生效)"
+   },
+   "newPassword": {
+      "message": "新密碼"
+   },
+   "noAccount": {
+      "message": "沒有帳戶? "
+   },
+   "noDeeplPreview": {
+      "message": "此引擎暫不支持預覽功能"
+   },
+   "notIsInvalidEmail": {
+      "message": "不是一個有效的郵箱"
+   },
+   "officialWebsite": {
+      "message": "官網"
+   },
+   "onlineCustomerService": {
+      "message": "在線客服"
+   },
+   "or": {
+      "message": "或"
+   },
+   "originalText": {
+      "message": "原文"
+   },
+   "password": {
+      "message": "密碼"
+   },
+   "pleaseInput": {
+      "message": "請輸入"
+   },
+   "proLimitTip": {
+      "message": "抱歉，此功能，僅限 PRO 用戶"
+   },
+   "refresh": {
+      "message": "刷新"
+   },
+   "register": {
+      "message": "註冊"
+   },
+   "replacementText": {
+      "message": "替換"
+   },
+   "sendCaptcha": {
+      "message": "獲取驗證碼"
+   },
+   "sendSuccess": {
+      "message": "發送成功"
+   },
+   "setHotkey": {
+      "message": "設置快捷鍵"
+   },
+   "settingTip": {
+      "message": "第一次安裝後,需刷新 whatsapp 頁面之後配置纔會生效"
+   },
+   "settings": {
+      "message": "設置"
+   },
+   "showLangStatus": {
+      "message": "顯示原文語言"
+   },
+   "showLangStatusExtra": {
+      "message": "開啓後，會在譯文後展示翻譯自何種語言，點擊該語言可以切換"
+   },
+   "translateBilingual": {
+      "message": "雙語展示"
+   },
+   "translateBilingualExtra": {
+      "message": "開啓後，會展示雙語內容(譯文與原文對照展示)"
+   },
+   "translateTerminology": {
+      "message": "術語表"
+   },
+   "translateTerminologyExtra": {
+      "message": "設定之後，術語功能將優先識別並替換詞彙表中的內容，這通常用於替換專有名詞和縮略語。請注意，該功能是區分大小寫的，並且將保留所有輸入的標點符號，包括空格。"
+   },
+   "translateTextColor": {
+      "message": "翻譯文本顏色"
+   },
+   "translateTextColorExtra": {
+      "message": "翻譯後內容的顏色"
+   },
+   "translationInterception": {
+      "message": "消息未經過翻譯，停止發送。請翻譯後再發送，或者點擊系統發送按鈕強制發送。"
+   },
+   "translationPreview": {
+      "message": "翻譯預覽"
+   },
+   "translationPreviewExtra": {
+      "message": "開啓後,會實時顯示翻譯後內容的預覽,有助於提高翻譯準確率"
+   },
+   "translationService": {
+      "message": "翻譯引擎"
+   },
+   "translationServiceExtra": {
+      "message": "用於進行翻譯的引擎"
+   },
+   "translationSwitch": {
+      "message": "翻譯開關"
+   },
+   "translationSwitchExtra": {
+      "message": "關閉後, 程序將停止工作"
+   },
+   "unlock": {
+      "message": "解鎖"
+   },
+   "unlockAllFeatures": {
+      "message": "解鎖所有功能"
+   },
+   "updatePassword": {
+      "message": "更新密碼"
+   },
+   "updateSuccess": {
+      "message": "更新成功"
+   },
+   "usageToday": {
+      "message": "今日使用次數"
+   },
+   "yourLanguage": {
+      "message": "您的語言"
+   },
+   "yourLanguageExtra": {
+      "message": "您接收到的消息將要翻譯成的語言，通常爲您的母語"
+   }
+}

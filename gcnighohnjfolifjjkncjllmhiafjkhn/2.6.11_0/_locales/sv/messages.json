@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "addRule": {
+      "message": "Lägg till regel"
+   },
+   "autoTranslate": {
+      "message": "automatisk översättning"
+   },
+   "autoTranslateExtra": {
+      "message": "Efter öppnandet översätts det mottagna meddelandet automatiskt utan att manuellt klicka på Översätt."
+   },
+   "cancel": {
+      "message": "avboka"
+   },
+   "captcha": {
+      "message": "KAPTCHA"
+   },
+   "characters": {
+      "message": "karaktär"
+   },
+   "chromeOnly": {
+      "message": "För närvarande stöder endast Chrome-användning, andra webbläsare behöver använda e-postinloggning"
+   },
+   "clickSend": {
+      "message": "Klicka på Skicka."
+   },
+   "clickSetHotkey": {
+      "message": "Klicka på inställningsgenvägen, du kan snabbt översätta meddelandet som ska skickas"
+   },
+   "confirmUpdate": {
+      "message": "Bekräfta uppdatering"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktspråk"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Språket till vilket meddelandet du skickar kommer att översättas, vanligtvis den andra partens språk"
+   },
+   "contactSpeakLangTip": {
+      "message": "Om den är inställd på automatisk kommer programmet automatiskt att upptäcka den andra partens språk"
+   },
+   "currentVersion": {
+      "message": "Nuvarande version"
+   },
+   "customerServiceEmail": {
+      "message": "Kundtjänstmail"
+   },
+   "description": {
+      "message": "Ett automatiskt översättningsverktyg för Whatsapp -meddelanden på mer än 100 språk (inofficiellt)"
+   },
+   "earlyBird": {
+      "message": "Early bird rabatt under en begränsad tid!"
+   },
+   "email": {
+      "message": "e-post"
+   },
+   "enterToSend": {
+      "message": "Gå in för att skicka och översätta meddelanden"
+   },
+   "enterToSendExtra": {
+      "message": "När du har öppnat skickar och översätter meddelandet genom att trycka på Enter-tangenten (den anpassade genvägen ignoreras, denna konfigurationsändring måste uppdateras till whatsapp-sidan för att träda i kraft)"
+   },
+   "expirationTime": {
+      "message": "utgångstid"
+   },
+   "fastTranslate": {
+      "message": "Skicka omedelbart"
+   },
+   "fastTranslateExtra": {
+      "message": "När den är påslagen, när du använder genväg, skickas meddelanden automatiskt när du översätter"
+   },
+   "firstLogin": {
+      "message": "Första gången du loggar in får du omedelbart ett 3-dagars professionellt medlemskap."
+   },
+   "forgetPassword": {
+      "message": "Glömt lösenord"
+   },
+   "googleLogin": {
+      "message": "Logga in med Google"
+   },
+   "helpDocumentation": {
+      "message": "Hjälp Dokumentation"
+   },
+   "inputEmail": {
+      "message": "Vänligen ange din e-postadress!"
+   },
+   "inputHotkey": {
+      "message": "Vänligen ange genvägar"
+   },
+   "inputPassword": {
+      "message": "Vänligen ange ditt lösenord!"
+   },
+   "languageDetectionEngine": {
+      "message": "språkigenkänningsmotor"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Välj motorn som används för att känna igen meddelandespråket"
+   },
+   "least": {
+      "message": "minst"
+   },
+   "limitTip": {
+      "message": "❗️ Tyvärr, du har nått den dagliga testgränsen (30 gånger / dag), försök igen imorgon. (PRO-användare är obegränsade)"
+   },
+   "login": {
+      "message": "inloggning"
+   },
+   "loginOut": {
+      "message": "logga ut"
+   },
+   "more": {
+      "message": "fler"
+   },
+   "moreSettings": {
+      "message": "Fler inställningar"
+   },
+   "name": {
+      "message": "Automatisk Whatsapp ™ Översättare"
+   },
+   "nativeLanguageInterception": {
+      "message": "tvångsöversättning"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "När du har aktiverat, när meddelandet inte översätts, fånga upp det skickade meddelandet (den här konfigurationsändringen måste uppdatera whatsapp-sidan för att träda i kraft)"
+   },
+   "needToRefresh": {
+      "message": "(Denna konfigurationsändring måste uppdatera whatsapp-sidan för att träda i kraft)"
+   },
+   "newPassword": {
+      "message": "nytt lösenord"
+   },
+   "noAccount": {
+      "message": "Har du inget konto? "
+   },
+   "noDeeplPreview": {
+      "message": "Motorn stöder för närvarande inte förhandsgranskningsfunktionen"
+   },
+   "notIsInvalidEmail": {
+      "message": "Ej en giltig e-postadress."
+   },
+   "officialWebsite": {
+      "message": "officiell hemsida"
+   },
+   "onlineCustomerService": {
+      "message": "Kundtjänst på nätet"
+   },
+   "or": {
+      "message": "eller"
+   },
+   "originalText": {
+      "message": "ursprungliga"
+   },
+   "password": {
+      "message": "lösenord"
+   },
+   "pleaseInput": {
+      "message": "Vänligen ange"
+   },
+   "proLimitTip": {
+      "message": "Tyvärr är den här funktionen endast begränsad till PRO-användare."
+   },
+   "refresh": {
+      "message": "uppdatera"
+   },
+   "register": {
+      "message": "Registrera"
+   },
+   "replacementText": {
+      "message": "ersätta"
+   },
+   "sendCaptcha": {
+      "message": "Hämta verifieringskod"
+   },
+   "sendSuccess": {
+      "message": "Skickas framgångsrikt"
+   },
+   "setHotkey": {
+      "message": "Sätt genvägar"
+   },
+   "settingTip": {
+      "message": "Efter den första installationen måste du uppdatera whatsapp-sidan innan konfigurationen träder i kraft."
+   },
+   "settings": {
+      "message": "inställningar"
+   },
+   "showLangStatus": {
+      "message": "Visa originalspråk"
+   },
+   "showLangStatusExtra": {
+      "message": "Efter öppnandet visas det språk som översatts från efter översättningen. Klicka på språket för att byta."
+   },
+   "translateBilingual": {
+      "message": "tvåspråkig visning"
+   },
+   "translateBilingualExtra": {
+      "message": "Efter öppnandet visas tvåspråkigt innehåll (översättningen visas mot originalet)"
+   },
+   "translateTerminology": {
+      "message": "Ordlista"
+   },
+   "translateTerminologyExtra": {
+      "message": "När den väl är inställd kommer termfunktionen företrädesvis att känna igen och ersätta innehållet i ordförrådet, som ofta används för att ersätta egennamn och förkortningar. Observera att funktionen är skiftlägeskänslig och behåller alla inmatade skiljetecken, inklusive mellanslag."
+   },
+   "translateTextColor": {
+      "message": "Översätt textfärg"
+   },
+   "translateTextColorExtra": {
+      "message": "Färgen på det översatta innehållet"
+   },
+   "translationInterception": {
+      "message": "Meddelandet har inte översatts och slutat skickas. Översätt det innan du skickar det, eller klicka på systemknappen för att tvinga det att skickas."
+   },
+   "translationPreview": {
+      "message": "Förhandsgranskning av översättning"
+   },
+   "translationPreviewExtra": {
+      "message": "Efter öppnandet visas en förhandsgranskning av det översatta innehållet i realtid, vilket bidrar till att förbättra översättningsnoggrannheten"
+   },
+   "translationService": {
+      "message": "Översättningsmotor"
+   },
+   "translationServiceExtra": {
+      "message": "Motor för översättning"
+   },
+   "translationSwitch": {
+      "message": "Översättningsbrytare"
+   },
+   "translationSwitchExtra": {
+      "message": "Efter stängning kommer programmet att sluta fungera"
+   },
+   "unlock": {
+      "message": "Lås upp"
+   },
+   "unlockAllFeatures": {
+      "message": "Lås upp alla funktioner"
+   },
+   "updatePassword": {
+      "message": "Uppdatera lösenord"
+   },
+   "updateSuccess": {
+      "message": "Uppdatering lyckad"
+   },
+   "usageToday": {
+      "message": "användning idag"
+   },
+   "yourLanguage": {
+      "message": "Ditt språk"
+   },
+   "yourLanguageExtra": {
+      "message": "Språket som meddelandet du får kommer att översättas till, vanligtvis ditt modersmål"
+   }
+}

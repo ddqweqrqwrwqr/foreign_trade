@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "帐户"
+   },
+   "addRule": {
+      "message": "添加规则"
+   },
+   "autoTranslate": {
+      "message": "自动翻译"
+   },
+   "autoTranslateExtra": {
+      "message": "开启后，会自动翻译接收的消息，无需手动点击翻译"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "captcha": {
+      "message": "验证码"
+   },
+   "characters": {
+      "message": "个字符"
+   },
+   "chromeOnly": {
+      "message": "当前仅支持 Chrome 使用,其它浏览器需要使用邮箱登录"
+   },
+   "clickSend": {
+      "message": "点击发送"
+   },
+   "clickSetHotkey": {
+      "message": "点击设置快捷键,可以快速翻译要发送的消息"
+   },
+   "confirmUpdate": {
+      "message": "确认更新"
+   },
+   "contactSpeakLang": {
+      "message": "联系人语言"
+   },
+   "contactSpeakLangExtra": {
+      "message": "您发送的消息将要翻译成的语言，通常为对方的语言"
+   },
+   "contactSpeakLangTip": {
+      "message": "如果设置成 auto, 程序将自动检测对方的语言"
+   },
+   "currentVersion": {
+      "message": "当前版本"
+   },
+   "customerServiceEmail": {
+      "message": "客服邮箱"
+   },
+   "description": {
+      "message": "一款支持超过 100 种语言的 Whatsapp 消息自动翻译工具(非官方)"
+   },
+   "earlyBird": {
+      "message": "限时早鸟折扣！"
+   },
+   "email": {
+      "message": "邮箱"
+   },
+   "enterToSend": {
+      "message": "Enter 键发送并翻译消息"
+   },
+   "enterToSendExtra": {
+      "message": "开启后，按下 Enter 键会发送并翻译消息（会忽略自定义的快捷键，此配置修改，需要刷新 whatsapp 页面之后才能生效）"
+   },
+   "expirationTime": {
+      "message": "到期时间"
+   },
+   "fastTranslate": {
+      "message": "立即发送"
+   },
+   "fastTranslateExtra": {
+      "message": "开启后, 当使用快捷键时,会在翻译的同时自动发送消息"
+   },
+   "firstLogin": {
+      "message": "首次登录, 将立刻获得3天的专业会员."
+   },
+   "forgetPassword": {
+      "message": "忘记密码"
+   },
+   "googleLogin": {
+      "message": "使用谷歌登录"
+   },
+   "helpDocumentation": {
+      "message": "帮助文档"
+   },
+   "inputEmail": {
+      "message": "请输入邮箱!"
+   },
+   "inputHotkey": {
+      "message": "请输入快捷键"
+   },
+   "inputPassword": {
+      "message": "请输入密码!"
+   },
+   "languageDetectionEngine": {
+      "message": "语言识别引擎"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "选择用于识别消息语言的引擎"
+   },
+   "least": {
+      "message": "最少"
+   },
+   "limitTip": {
+      "message": "❗️ 对不起，您已达到每日试用上限(30次/day)，请明天再试。(PRO 用户无限制)"
+   },
+   "login": {
+      "message": "登录"
+   },
+   "loginOut": {
+      "message": "退出登录"
+   },
+   "more": {
+      "message": "更多"
+   },
+   "moreSettings": {
+      "message": "更多设置"
+   },
+   "name": {
+      "message": "自动 Whatsapp™ 翻译器 - 自动翻译接收与发送的消息"
+   },
+   "nativeLanguageInterception": {
+      "message": "强制翻译"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "开启后，当消息没有翻译时，拦截发送的消息(此配置修改，需要刷新 whatsapp 页面之后才能生效)"
+   },
+   "needToRefresh": {
+      "message": "(此配置修改，需要刷新 whatsapp 页面之后才能生效)"
+   },
+   "newPassword": {
+      "message": "新密码"
+   },
+   "noAccount": {
+      "message": "没有帐户? "
+   },
+   "noDeeplPreview": {
+      "message": "此引擎暂不支持预览功能"
+   },
+   "notIsInvalidEmail": {
+      "message": "不是一个有效的邮箱"
+   },
+   "officialWebsite": {
+      "message": "官网"
+   },
+   "onlineCustomerService": {
+      "message": "在线客服"
+   },
+   "or": {
+      "message": "或"
+   },
+   "originalText": {
+      "message": "原文"
+   },
+   "password": {
+      "message": "密码"
+   },
+   "pleaseInput": {
+      "message": "请输入"
+   },
+   "proLimitTip": {
+      "message": "抱歉，此功能，仅限 PRO 用户"
+   },
+   "refresh": {
+      "message": "刷新"
+   },
+   "register": {
+      "message": "注册"
+   },
+   "replacementText": {
+      "message": "替换"
+   },
+   "sendCaptcha": {
+      "message": "获取验证码"
+   },
+   "sendSuccess": {
+      "message": "发送成功"
+   },
+   "setHotkey": {
+      "message": "设置快捷键"
+   },
+   "settingTip": {
+      "message": "第一次安装后,需刷新 whatsapp 页面之后配置才会生效"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "showLangStatus": {
+      "message": "显示原文语言"
+   },
+   "showLangStatusExtra": {
+      "message": "开启后，会在译文后展示翻译自何种语言，点击该语言可以切换"
+   },
+   "translateBilingual": {
+      "message": "双语展示"
+   },
+   "translateBilingualExtra": {
+      "message": "开启后，会展示双语内容(译文与原文对照展示)"
+   },
+   "translateTerminology": {
+      "message": "术语表"
+   },
+   "translateTerminologyExtra": {
+      "message": "设定之后，术语功能将优先识别并替换词汇表中的内容，这通常用于替换专有名词和缩略语。请注意，该功能是区分大小写的，并且将保留所有输入的标点符号，包括空格。"
+   },
+   "translateTextColor": {
+      "message": "翻译文本颜色"
+   },
+   "translateTextColorExtra": {
+      "message": "翻译后内容的颜色"
+   },
+   "translationInterception": {
+      "message": "消息未经过翻译，停止发送。请翻译后再发送，或者点击系统发送按钮强制发送。"
+   },
+   "translationPreview": {
+      "message": "翻译预览"
+   },
+   "translationPreviewExtra": {
+      "message": "开启后,会实时显示翻译后内容的预览,有助于提高翻译准确率"
+   },
+   "translationService": {
+      "message": "翻译引擎"
+   },
+   "translationServiceExtra": {
+      "message": "用于进行翻译的引擎"
+   },
+   "translationSwitch": {
+      "message": "翻译开关"
+   },
+   "translationSwitchExtra": {
+      "message": "关闭后, 程序将停止工作"
+   },
+   "unlock": {
+      "message": "解锁"
+   },
+   "unlockAllFeatures": {
+      "message": "解锁所有功能"
+   },
+   "updatePassword": {
+      "message": "更新密码"
+   },
+   "updateSuccess": {
+      "message": "更新成功"
+   },
+   "usageToday": {
+      "message": "今日使用次数"
+   },
+   "yourLanguage": {
+      "message": "您的语言"
+   },
+   "yourLanguageExtra": {
+      "message": "您接收到的消息将要翻译成的语言，通常为您的母语"
+   }
+}

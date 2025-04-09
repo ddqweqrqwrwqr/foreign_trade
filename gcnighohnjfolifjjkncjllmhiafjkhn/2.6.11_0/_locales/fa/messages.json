@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "حساب"
+   },
+   "addRule": {
+      "message": "قانون را اضافه کنید"
+   },
+   "autoTranslate": {
+      "message": "ترجمه خودکار"
+   },
+   "autoTranslateExtra": {
+      "message": "پس از باز کردن ، پیام دریافتی به طور خودکار بدون کلیک دستی روی Translate ترجمه می شود."
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "captcha": {
+      "message": "کاپچا"
+   },
+   "characters": {
+      "message": "شخصیت"
+   },
+   "chromeOnly": {
+      "message": "در حال حاضر فقط از استفاده از Chrome پشتیبانی می کند ، سایر مرورگرها باید از ورود به ایمیل استفاده کنند"
+   },
+   "clickSend": {
+      "message": "روی ارسال کلیک کنید."
+   },
+   "clickSetHotkey": {
+      "message": "روی میانبر تنظیمات کلیک کنید ، می توانید به سرعت پیام ارسال شده را ترجمه کنید"
+   },
+   "confirmUpdate": {
+      "message": "به روز رسانی را تایید کنید"
+   },
+   "contactSpeakLang": {
+      "message": "زبان تماس"
+   },
+   "contactSpeakLangExtra": {
+      "message": "زبانی که پیامی که ارسال می کنید به آن ترجمه می شود ، معمولاً به زبان طرف مقابل"
+   },
+   "contactSpeakLangTip": {
+      "message": "اگر روی خودکار تنظیم شود ، برنامه به طور خودکار زبان طرف مقابل را تشخیص می دهد"
+   },
+   "currentVersion": {
+      "message": "نسخه فعلی"
+   },
+   "customerServiceEmail": {
+      "message": "ایمیل خدمات مشتری"
+   },
+   "description": {
+      "message": "ابزار ترجمه خودکار برای Whatsapp پیام ها به بیش از 100 زبان (غیر رسمی)"
+   },
+   "earlyBird": {
+      "message": "تخفیف زود هنگام برای مدت محدود!"
+   },
+   "email": {
+      "message": "ایمیل"
+   },
+   "enterToSend": {
+      "message": "برای ارسال و ترجمه پیام وارد شوید"
+   },
+   "enterToSendExtra": {
+      "message": "پس از باز کردن ، با فشار دادن کلید Enter پیام ارسال و ترجمه می شود (میانبر سفارشی نادیده گرفته می شود ، این تغییر پیکربندی باید در صفحه واتساپ بازخوانی شود تا اعمال شود)"
+   },
+   "expirationTime": {
+      "message": "زمان انقضا"
+   },
+   "fastTranslate": {
+      "message": "فورا ارسال کنید"
+   },
+   "fastTranslateExtra": {
+      "message": "هنگامی که روشن است ، هنگام استفاده از میانبر ، پیام ها به طور خودکار هنگام ترجمه ارسال می شوند"
+   },
+   "firstLogin": {
+      "message": "اولین باری که وارد سیستم می شوید ، بلافاصله یک عضویت حرفه ای 3 روزه دریافت خواهید کرد."
+   },
+   "forgetPassword": {
+      "message": "رمز عبور را فراموش کرده اید"
+   },
+   "googleLogin": {
+      "message": "با گوگل وارد شوید"
+   },
+   "helpDocumentation": {
+      "message": "مستندات راهنما"
+   },
+   "inputEmail": {
+      "message": "لطفا آدرس ایمیل خود را وارد کنید!"
+   },
+   "inputHotkey": {
+      "message": "لطفا میانبرها را وارد کنید"
+   },
+   "inputPassword": {
+      "message": "لطفا رمز عبور خود را وارد کنید!"
+   },
+   "languageDetectionEngine": {
+      "message": "موتور تشخیص زبان"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "موتور مورد استفاده برای تشخیص زبان پیام را انتخاب کنید"
+   },
+   "least": {
+      "message": "کمترین"
+   },
+   "limitTip": {
+      "message": "❗️ متأسفیم ، شما به محدودیت آزمایشی روزانه (30 بار در روز) رسیده اید ، لطفاً فردا دوباره امتحان کنید. (کاربران PRO نامحدود هستند)"
+   },
+   "login": {
+      "message": "ورود"
+   },
+   "loginOut": {
+      "message": "خروج از سیستم"
+   },
+   "more": {
+      "message": "بیشتر"
+   },
+   "moreSettings": {
+      "message": "تنظیمات بیشتر"
+   },
+   "name": {
+      "message": "خودکار Whatsapp ™ مترجم - ترجمه خودکار پیام های دریافتی و ارسالی"
+   },
+   "nativeLanguageInterception": {
+      "message": "ترجمه اجباری"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "پس از فعال کردن ، هنگامی که پیام ترجمه نمی شود ، پیام ارسال شده را رهگیری کنید (این تغییر پیکربندی باید صفحه واتساپ را بازخوانی کند تا اعمال شود)"
+   },
+   "needToRefresh": {
+      "message": "(این اصلاح پیکربندی باید صفحه واتساپ را بازخوانی کند تا اعمال شود)"
+   },
+   "newPassword": {
+      "message": "رمز عبور جدید"
+   },
+   "noAccount": {
+      "message": "اکانت ندارید ؟ "
+   },
+   "noDeeplPreview": {
+      "message": "این موتور در حال حاضر از عملکرد پیش نمایش پشتیبانی نمی کند"
+   },
+   "notIsInvalidEmail": {
+      "message": "آدرس ایمیل معتبری نیست."
+   },
+   "officialWebsite": {
+      "message": "وب سایت رسمی"
+   },
+   "onlineCustomerService": {
+      "message": "خدمات مشتری آنلاین"
+   },
+   "or": {
+      "message": "یا"
+   },
+   "originalText": {
+      "message": "اصلی"
+   },
+   "password": {
+      "message": "رمز عبور"
+   },
+   "pleaseInput": {
+      "message": "لطفا وارد شوید"
+   },
+   "proLimitTip": {
+      "message": "متأسفیم ، این ویژگی فقط به کاربران PRO محدود می شود."
+   },
+   "refresh": {
+      "message": "تازه کردن"
+   },
+   "register": {
+      "message": "ثبت نام"
+   },
+   "replacementText": {
+      "message": "جایگزین کردن"
+   },
+   "sendCaptcha": {
+      "message": "دریافت کد تایید"
+   },
+   "sendSuccess": {
+      "message": "با موفقیت ارسال شد"
+   },
+   "setHotkey": {
+      "message": "میانبرها را تنظیم کنید"
+   },
+   "settingTip": {
+      "message": "پس از اولین نصب ، قبل از اعمال پیکربندی ، باید صفحه واتساپ را بازخوانی کنید."
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "showLangStatus": {
+      "message": "نمایش زبان اصلی"
+   },
+   "showLangStatusExtra": {
+      "message": "پس از باز کردن ، زبان ترجمه شده از آن پس از ترجمه نمایش داده می شود. برای تغییر روی زبان کلیک کنید."
+   },
+   "translateBilingual": {
+      "message": "نمایشگر دو زبانه"
+   },
+   "translateBilingualExtra": {
+      "message": "پس از باز کردن ، محتوای دو زبانه نمایش داده می شود (ترجمه در مقابل نسخه اصلی نمایش داده می شود)"
+   },
+   "translateTerminology": {
+      "message": "واژه نامه"
+   },
+   "translateTerminologyExtra": {
+      "message": "پس از تنظیم ، اصطلاح تابع ترجیحاً محتوای موجود در واژگان را که اغلب برای جایگزینی اسم ها و اختصارات خاص استفاده می شود ، تشخیص داده و جایگزین می کند. توجه داشته باشید که این تابع به حروف بزرگ و کوچک حساس است و تمام علائم نگارشی وارد شده از جمله فاصله ها را حفظ می کند."
+   },
+   "translateTextColor": {
+      "message": "ترجمه رنگ متن"
+   },
+   "translateTextColorExtra": {
+      "message": "رنگ مطالب ترجمه شده"
+   },
+   "translationInterception": {
+      "message": "پیام ترجمه نشده و ارسال متوقف شده است. لطفاً قبل از ارسال آن را ترجمه کنید یا روی دکمه ارسال سیستم کلیک کنید تا مجبور به ارسال شود."
+   },
+   "translationPreview": {
+      "message": "پیش نمایش ترجمه"
+   },
+   "translationPreviewExtra": {
+      "message": "پس از باز کردن ، پیش نمایشی از محتوای ترجمه شده در زمان واقعی نمایش داده می شود که به بهبود دقت ترجمه کمک می کند"
+   },
+   "translationService": {
+      "message": "موتور ترجمه"
+   },
+   "translationServiceExtra": {
+      "message": "موتور برای ترجمه"
+   },
+   "translationSwitch": {
+      "message": "سوئیچ ترجمه"
+   },
+   "translationSwitchExtra": {
+      "message": "پس از بسته شدن ، برنامه از کار می افتد"
+   },
+   "unlock": {
+      "message": "باز کردن قفل"
+   },
+   "unlockAllFeatures": {
+      "message": "قفل تمام ویژگی ها را باز کنید"
+   },
+   "updatePassword": {
+      "message": "به روز رسانی رمز عبور"
+   },
+   "updateSuccess": {
+      "message": "به روز رسانی با موفقیت انجام شد"
+   },
+   "usageToday": {
+      "message": "استفاده امروز"
+   },
+   "yourLanguage": {
+      "message": "زبان شما"
+   },
+   "yourLanguageExtra": {
+      "message": "زبانی که پیامی که دریافت می کنید به آن ترجمه می شود ، معمولاً زبان مادری شما"
+   }
+}

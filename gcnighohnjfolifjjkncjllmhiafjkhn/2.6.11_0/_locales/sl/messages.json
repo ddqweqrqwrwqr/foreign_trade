@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Račun"
+   },
+   "addRule": {
+      "message": "Dodajte pravilo"
+   },
+   "autoTranslate": {
+      "message": "samodejni prevod"
+   },
+   "autoTranslateExtra": {
+      "message": "Po odprtju bo prejeto sporočilo samodejno prevedeno brez ročnega klika Prevesti."
+   },
+   "cancel": {
+      "message": "preklic"
+   },
+   "captcha": {
+      "message": "Članek"
+   },
+   "characters": {
+      "message": "karakter"
+   },
+   "chromeOnly": {
+      "message": "Trenutno podpira samo uporabo Chroma, drugi brskalniki morajo uporabljati prijavo po e-pošti"
+   },
+   "clickSend": {
+      "message": "Kliknite Pošlji."
+   },
+   "clickSetHotkey": {
+      "message": "Kliknite bližnjico z nastavitvami, lahko hitro prevedete sporočilo, ki ga želite poslati"
+   },
+   "confirmUpdate": {
+      "message": "Potrdite posodobitev"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktni jezik"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Jezik, v katerega bo sporočilo, ki ga pošljete, preveden, običajno jezik druge strani"
+   },
+   "contactSpeakLangTip": {
+      "message": "Če je nastavljen na samodejno, bo program samodejno zaznal jezik druge osebe"
+   },
+   "currentVersion": {
+      "message": "Trenutna različica"
+   },
+   "customerServiceEmail": {
+      "message": "E-pošta za pomoč strankam"
+   },
+   "description": {
+      "message": "Samodejno orodje za prevajanje Whatsapp sporočil v več kot 100 jezikih (neuradni)"
+   },
+   "earlyBird": {
+      "message": "Early Bird popust za omejen čas!"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "enterToSend": {
+      "message": "Vnesite za pošiljanje in prevajanje sporočil"
+   },
+   "enterToSendExtra": {
+      "message": "Po odprtju se s pritiskom na tipko Enter pošlje in prevede sporočilo (bližnjica po meri bo prezrta, to spremembo konfiguracije je treba osvežiti na stran whatsapp, da začne veljati)"
+   },
+   "expirationTime": {
+      "message": "rok uporabnosti"
+   },
+   "fastTranslate": {
+      "message": "Pošljite takoj"
+   },
+   "fastTranslateExtra": {
+      "message": "Ko je bližnjica vklopljena, se sporočila med prevajanjem samodejno pošljejo"
+   },
+   "firstLogin": {
+      "message": "Ko se prvič prijavite, boste takoj prejeli 3-dnevno strokovno članstvo."
+   },
+   "forgetPassword": {
+      "message": "Pozabil Geslo"
+   },
+   "googleLogin": {
+      "message": "Prijavite se z Googlom"
+   },
+   "helpDocumentation": {
+      "message": "Dokumentacija za pomoč"
+   },
+   "inputEmail": {
+      "message": "Prosimo, vnesite svoj e-poštni naslov!"
+   },
+   "inputHotkey": {
+      "message": "Prosimo, vnesite bližnjice"
+   },
+   "inputPassword": {
+      "message": "Prosimo, vnesite svoje geslo!"
+   },
+   "languageDetectionEngine": {
+      "message": "mehanizem za prepoznavanje jezikov"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Izberite motor, ki se uporablja za prepoznavanje jezika sporočila"
+   },
+   "least": {
+      "message": "najmanj"
+   },
+   "limitTip": {
+      "message": "❗️ Oprostite, dosegli ste omejitev dnevnega preskusa (30-krat/dan), poskusite znova jutri. (Uporabniki PRO so neomejeni)"
+   },
+   "login": {
+      "message": "Prijava"
+   },
+   "loginOut": {
+      "message": "odjava"
+   },
+   "more": {
+      "message": "več"
+   },
+   "moreSettings": {
+      "message": "Več nastavitev"
+   },
+   "name": {
+      "message": "Samodejni Whatsapp ™ Prevajalec"
+   },
+   "nativeLanguageInterception": {
+      "message": "prisilni prevod"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Po omogočitvi, ko sporočilo ni prevedeno, prestrežite poslano sporočilo (ta sprememba konfiguracije mora osvežiti stran whatsapp, da začne veljati)"
+   },
+   "needToRefresh": {
+      "message": "(Ta sprememba konfiguracije mora osvežiti stran whatsapp, da začne veljati)"
+   },
+   "newPassword": {
+      "message": "novo geslo"
+   },
+   "noAccount": {
+      "message": "Nimate računa? "
+   },
+   "noDeeplPreview": {
+      "message": "Ta motor trenutno ne podpira funkcije predogleda"
+   },
+   "notIsInvalidEmail": {
+      "message": "Ni veljavnega e-poštnega naslova."
+   },
+   "officialWebsite": {
+      "message": "Uradna spletna stran"
+   },
+   "onlineCustomerService": {
+      "message": "Spletna storitev za stranke"
+   },
+   "or": {
+      "message": "ali"
+   },
+   "originalText": {
+      "message": "originalno"
+   },
+   "password": {
+      "message": "geslo"
+   },
+   "pleaseInput": {
+      "message": "Prosimo, vstopite"
+   },
+   "proLimitTip": {
+      "message": "Oprostite, ta funkcija je omejena samo na uporabnike PRO."
+   },
+   "refresh": {
+      "message": "osvežitev"
+   },
+   "register": {
+      "message": "Registracija"
+   },
+   "replacementText": {
+      "message": "zamenjati"
+   },
+   "sendCaptcha": {
+      "message": "Pridobite kodo za preverjanje"
+   },
+   "sendSuccess": {
+      "message": "Uspešno poslano"
+   },
+   "setHotkey": {
+      "message": "Nastavite bližnjice"
+   },
+   "settingTip": {
+      "message": "Po prvi namestitvi morate osvežiti stran whatsapp, preden bo konfiguracija začela veljati."
+   },
+   "settings": {
+      "message": "Nastavitve"
+   },
+   "showLangStatus": {
+      "message": "Prikaži izvirni jezik"
+   },
+   "showLangStatusExtra": {
+      "message": "Po odprtju bo jezik, preveden iz, prikazan po prevodu. Kliknite jezik za preklop."
+   },
+   "translateBilingual": {
+      "message": "Dvojezični prikaz"
+   },
+   "translateBilingualExtra": {
+      "message": "Po odprtju bo prikazana dvojezična vsebina (prevod je prikazan glede na izvirnik)"
+   },
+   "translateTerminology": {
+      "message": "Slovar"
+   },
+   "translateTerminologyExtra": {
+      "message": "Po nastavitvi bo funkcija izraza prednostno prepoznala in nadomestila vsebino v besednjaku, ki se pogosto uporablja za nadomestitev ustreznih samostalnikov in kratic. Upoštevajte, da je funkcija občutljiva na črke in bo ohranila vsa vnesena ločila, vključno s presledki."
+   },
+   "translateTextColor": {
+      "message": "Barva besedila"
+   },
+   "translateTextColorExtra": {
+      "message": "Barva prevedene vsebine"
+   },
+   "translationInterception": {
+      "message": "Sporočilo ni bilo prevedeno in je prenehalo pošiljati. Pred pošiljanjem ga prevedite ali kliknite sistemski gumb za pošiljanje, da ga prisilite."
+   },
+   "translationPreview": {
+      "message": "Predogled prevoda"
+   },
+   "translationPreviewExtra": {
+      "message": "Po odprtju bo v realnem času prikazan predogled prevedene vsebine, kar pomaga izboljšati natančnost prevoda"
+   },
+   "translationService": {
+      "message": "Prevajalski mehanizem"
+   },
+   "translationServiceExtra": {
+      "message": "Motor za prevajanje"
+   },
+   "translationSwitch": {
+      "message": "Prevajalsko stikalo"
+   },
+   "translationSwitchExtra": {
+      "message": "Po zaključku bo program prenehal delovati"
+   },
+   "unlock": {
+      "message": "Odklepanje"
+   },
+   "unlockAllFeatures": {
+      "message": "Odklenite vse funkcije"
+   },
+   "updatePassword": {
+      "message": "Posodobitev gesla"
+   },
+   "updateSuccess": {
+      "message": "Posodobitev uspešna"
+   },
+   "usageToday": {
+      "message": "Uporaba danes"
+   },
+   "yourLanguage": {
+      "message": "Vaš jezik"
+   },
+   "yourLanguageExtra": {
+      "message": "Jezik, v katerega boste prejeli sporočilo, običajno vaš materni jezik"
+   }
+}

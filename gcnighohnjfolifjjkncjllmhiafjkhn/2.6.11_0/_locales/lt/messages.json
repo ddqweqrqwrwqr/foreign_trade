@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Sąskaita"
+   },
+   "addRule": {
+      "message": "Pridėti taisyklę"
+   },
+   "autoTranslate": {
+      "message": "Automatinis vertimas"
+   },
+   "autoTranslateExtra": {
+      "message": "Atidarius, gautas pranešimas bus automatiškai išverstas rankiniu būdu nespustelėjus Versti."
+   },
+   "cancel": {
+      "message": "atšaukti"
+   },
+   "captcha": {
+      "message": "DARBA"
+   },
+   "characters": {
+      "message": "charakteris"
+   },
+   "chromeOnly": {
+      "message": "Šiuo metu palaiko tik Chrome naudojimą, kitos naršyklės turi naudoti el. Pašto prisijungimą"
+   },
+   "clickSend": {
+      "message": "Spustelėkite Siųsti."
+   },
+   "clickSetHotkey": {
+      "message": "Spustelėkite nustatymų spartųjį klavišą, galite greitai išversti siunčiamą pranešimą"
+   },
+   "confirmUpdate": {
+      "message": "Patvirtinti atnaujinimą"
+   },
+   "contactSpeakLang": {
+      "message": "kontaktų kalba"
+   },
+   "contactSpeakLangExtra": {
+      "message": "Kalba, į kurią bus išverstas jūsų siunčiamas pranešimas, paprastai kitos šalies kalba"
+   },
+   "contactSpeakLangTip": {
+      "message": "Jei nustatyta automatinė, programa automatiškai aptiks kitos šalies kalbą"
+   },
+   "currentVersion": {
+      "message": "Dabartinė versija"
+   },
+   "customerServiceEmail": {
+      "message": "Klientų aptarnavimo el. paštas"
+   },
+   "description": {
+      "message": "Automatinis Whatsapp pranešimų vertimo įrankis daugiau nei 100 kalbų (neoficialus)"
+   },
+   "earlyBird": {
+      "message": "Ankstyvojo paukščio nuolaida ribotą laiką!"
+   },
+   "email": {
+      "message": "E-paštas"
+   },
+   "enterToSend": {
+      "message": "Įeiti siųsti ir išversti žinutes"
+   },
+   "enterToSendExtra": {
+      "message": "Atidarius, paspaudus klavišą Enter, pranešimas bus išsiųstas ir išverstas (nebus ignoruojamas pasirinktinis spartusis klavišas, kad ši konfigūracijos modifikacija būtų atnaujinta į WhatsApp puslapį, kad ji įsigaliotų)"
+   },
+   "expirationTime": {
+      "message": "galiojimo laikas"
+   },
+   "fastTranslate": {
+      "message": "Siųsti nedelsiant"
+   },
+   "fastTranslateExtra": {
+      "message": "Įjungus, naudojant nuorodą, pranešimai automatiškai siunčiami verčiant"
+   },
+   "firstLogin": {
+      "message": "Pirmą kartą prisijungę iškart gausite 3 dienų profesionalią narystę."
+   },
+   "forgetPassword": {
+      "message": "Pamiršote slaptažodį"
+   },
+   "googleLogin": {
+      "message": "Prisijunkite su Google"
+   },
+   "helpDocumentation": {
+      "message": "Pagalbos dokumentai"
+   },
+   "inputEmail": {
+      "message": "Įveskite savo el. pašto adresą!"
+   },
+   "inputHotkey": {
+      "message": "Įveskite sparčiuosius klavišus"
+   },
+   "inputPassword": {
+      "message": "Įveskite slaptažodį!"
+   },
+   "languageDetectionEngine": {
+      "message": "kalbos atpažinimo variklis"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Pasirinkite variklį, naudojamą pranešimo kalbai atpažinti"
+   },
+   "least": {
+      "message": "mažiausiai"
+   },
+   "limitTip": {
+      "message": "❗️ Atsiprašome, pasiekėte dienos bandymo limitą (30 kartų per dieną), bandykite dar kartą rytoj. (PRO vartotojai yra neribotas)"
+   },
+   "login": {
+      "message": "Prisijungimas"
+   },
+   "loginOut": {
+      "message": "Prisijungti"
+   },
+   "more": {
+      "message": "daugiau"
+   },
+   "moreSettings": {
+      "message": "Daugiau nustatymų"
+   },
+   "name": {
+      "message": "Automatinis Whatsapp ™ Vertėjas"
+   },
+   "nativeLanguageInterception": {
+      "message": "Priverstinis vertimas"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Įjungę, kai pranešimas neišverstas, perimkite išsiųstą pranešimą (šiam konfigūracijos pakeitimui reikia atnaujinti WhatsApp puslapį, kad jis įsigaliotų)"
+   },
+   "needToRefresh": {
+      "message": "(Šis konfigūracijos pakeitimas turi atnaujinti WhatsApp puslapį, kad įsigaliotų)"
+   },
+   "newPassword": {
+      "message": "naujas slaptažodis"
+   },
+   "noAccount": {
+      "message": "Neturite sąskaitos? "
+   },
+   "noDeeplPreview": {
+      "message": "Šis variklis šiuo metu nepalaiko peržiūros funkcijos"
+   },
+   "notIsInvalidEmail": {
+      "message": "Netinkamas el. pašto adresas."
+   },
+   "officialWebsite": {
+      "message": "Oficiali svetainė"
+   },
+   "onlineCustomerService": {
+      "message": "Internetinis klientų aptarnavimas"
+   },
+   "or": {
+      "message": "arba"
+   },
+   "originalText": {
+      "message": "originalus"
+   },
+   "password": {
+      "message": "Slaptažodis"
+   },
+   "pleaseInput": {
+      "message": "Prašome įeiti"
+   },
+   "proLimitTip": {
+      "message": "Deja, ši funkcija taikoma tik PRO vartotojams."
+   },
+   "refresh": {
+      "message": "atnaujinti"
+   },
+   "register": {
+      "message": "Registracija"
+   },
+   "replacementText": {
+      "message": "pakeisti"
+   },
+   "sendCaptcha": {
+      "message": "Gaukite patvirtinimo kodą"
+   },
+   "sendSuccess": {
+      "message": "Sėkmingai išsiųstas"
+   },
+   "setHotkey": {
+      "message": "Nustatyti sparčiuosius klavišus"
+   },
+   "settingTip": {
+      "message": "Po pirmojo diegimo turite atnaujinti WhatsApp puslapį, kol įsigalios konfigūracija."
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "showLangStatus": {
+      "message": "Rodyti originalų kalbą"
+   },
+   "showLangStatusExtra": {
+      "message": "Po atidarymo, išversta kalba bus rodoma po vertimo. Spustelėkite kalbą perjungti."
+   },
+   "translateBilingual": {
+      "message": "Dvikalbis ekranas"
+   },
+   "translateBilingualExtra": {
+      "message": "Atidarius bus rodomas dvikalbis turinys (vertimas rodomas prieš originalą)"
+   },
+   "translateTerminology": {
+      "message": "Žodynas"
+   },
+   "translateTerminologyExtra": {
+      "message": "Nustačius terminą funkcija pirmiausia atpažins ir pakeis turinį žodyne, kuris dažnai naudojamas tinkamiems daiktavardžiams ir santrumpoms pakeisti. Atkreipkite dėmesį, kad funkcija yra jautrus raidėms ir išlaikys visas įvestas skyrybos ženklus, įskaitant tarpus."
+   },
+   "translateTextColor": {
+      "message": "Versti teksto spalvą"
+   },
+   "translateTextColorExtra": {
+      "message": "Išversto turinio spalva"
+   },
+   "translationInterception": {
+      "message": "Pranešimas nebuvo išverstas ir nustojo siųsti. Prašome jį išversti prieš siunčiant, arba spustelėkite sistemos siųsti mygtuką priversti jį siųsti."
+   },
+   "translationPreview": {
+      "message": "Peržiūra"
+   },
+   "translationPreviewExtra": {
+      "message": "Atidarius, išversto turinio peržiūra bus rodoma realiuoju laiku, o tai padeda pagerinti vertimo tikslumą"
+   },
+   "translationService": {
+      "message": "Vertimo variklis"
+   },
+   "translationServiceExtra": {
+      "message": "Variklis vertimui"
+   },
+   "translationSwitch": {
+      "message": "Vertimo jungiklis"
+   },
+   "translationSwitchExtra": {
+      "message": "Po uždarymo programa nustos veikti"
+   },
+   "unlock": {
+      "message": "Atrakinti"
+   },
+   "unlockAllFeatures": {
+      "message": "Atrakinkite visas funkcijas"
+   },
+   "updatePassword": {
+      "message": "Atnaujinti slaptažodį"
+   },
+   "updateSuccess": {
+      "message": "Atnaujinti sėkmingai"
+   },
+   "usageToday": {
+      "message": "Naudojimas šiandien"
+   },
+   "yourLanguage": {
+      "message": "Jūsų kalba"
+   },
+   "yourLanguageExtra": {
+      "message": "Kalba, į kurią bus išverstas gautas pranešimas, paprastai jūsų gimtoji kalba"
+   }
+}

@@ -1,0 +1,254 @@
+{
+   "account": {
+      "message": "Compte"
+   },
+   "addRule": {
+      "message": "Afegir regla"
+   },
+   "autoTranslate": {
+      "message": "Traducció automàtica"
+   },
+   "autoTranslateExtra": {
+      "message": "Després d'obrir, el missatge rebut es traduirà automàticament sense clicar manualment Translate."
+   },
+   "cancel": {
+      "message": "cancel·lació"
+   },
+   "captcha": {
+      "message": "Adreça electrònica"
+   },
+   "characters": {
+      "message": "Personatge"
+   },
+   "chromeOnly": {
+      "message": "Actualment només admet l'ús de Chrome, altres navegadors han d'utilitzar l'inici de sessió per correu electrònic"
+   },
+   "clickSend": {
+      "message": "Cliqueu Enviar."
+   },
+   "clickSetHotkey": {
+      "message": "Feu clic a la drecera de configuració, podeu traduir ràpidament el missatge a enviar"
+   },
+   "confirmUpdate": {
+      "message": "Confirmar l'actualització"
+   },
+   "contactSpeakLang": {
+      "message": "llenguatge de contacte"
+   },
+   "contactSpeakLangExtra": {
+      "message": "L'idioma en què es traduirà el missatge que envieu, normalment l'idioma de l'altra part"
+   },
+   "contactSpeakLangTip": {
+      "message": "Si s'estableix a Auto, el programa detectarà automàticament el llenguatge de l'altra part"
+   },
+   "currentVersion": {
+      "message": "Versió actual"
+   },
+   "customerServiceEmail": {
+      "message": "Correu electrònic d'atenció al client"
+   },
+   "description": {
+      "message": "Una eina de traducció automàtica per a missatges Whatsapp en més de 100 idiomes (no oficial)"
+   },
+   "earlyBird": {
+      "message": "Descompte d'ocells anticipats per un temps limitat!"
+   },
+   "email": {
+      "message": "Correu electrònic"
+   },
+   "enterToSend": {
+      "message": "Entra per enviar i traduir missatges"
+   },
+   "enterToSendExtra": {
+      "message": "Després d'obrir, prement la tecla Enter enviarà i traduirà el missatge (la drecera personalitzada s'ignorarà, aquesta modificació de configuració ha de ser refrescada a la pàgina WhatsApp per tenir efecte)"
+   },
+   "expirationTime": {
+      "message": "temps de caducitat"
+   },
+   "fastTranslate": {
+      "message": "Enviar immediatament"
+   },
+   "fastTranslateExtra": {
+      "message": "Quan està activat, quan utilitzeu drecera, els missatges s'envien automàticament mentre es tradueix"
+   },
+   "firstLogin": {
+      "message": "La primera vegada que inicieu sessió, rebreu immediatament un membre professional de 3 dies."
+   },
+   "forgetPassword": {
+      "message": "S'ha oblidat la contrasenya"
+   },
+   "googleLogin": {
+      "message": "Inicia sessió amb Google"
+   },
+   "helpDocumentation": {
+      "message": "Documentació d'ajuda"
+   },
+   "inputEmail": {
+      "message": "Introdueix la teva adreça de correu electrònic!"
+   },
+   "inputHotkey": {
+      "message": "Introduïu dreceres"
+   },
+   "inputPassword": {
+      "message": "Introdueix la teva contrasenya!"
+   },
+   "languageDetectionEngine": {
+      "message": "motor de reconeixement lingüístic"
+   },
+   "languageDetectionEngineExtra": {
+      "message": "Seleccioneu el motor utilitzat per reconèixer el llenguatge del missatge"
+   },
+   "least": {
+      "message": "mínim"
+   },
+   "limitTip": {
+      "message": "❗️ Ho sentim, heu arribat al límit de prova diària (30 vegades / dia), torneu-ho a provar demà.(Els usuaris PRO són il·limitats)"
+   },
+   "login": {
+      "message": "Adreça electrònica"
+   },
+   "loginOut": {
+      "message": "Sortida"
+   },
+   "more": {
+      "message": "més"
+   },
+   "moreSettings": {
+      "message": "Configuració més"
+   },
+   "name": {
+      "message": "Automàtic Whatsapp ™ Traductor"
+   },
+   "nativeLanguageInterception": {
+      "message": "Traducció forçada"
+   },
+   "nativeLanguageInterceptionExtra": {
+      "message": "Després d'habilitar, quan el missatge no es tradueix, intercepteu el missatge enviat (aquest canvi de configuració ha de refrescar la pàgina WhatsApp per tenir efecte)"
+   },
+   "needToRefresh": {
+      "message": "(Aquesta modificació de configuració ha de refrescar la pàgina de WhatsApp per tenir efecte)"
+   },
+   "newPassword": {
+      "message": "nova contrasenya"
+   },
+   "noAccount": {
+      "message": "No tens un compte? "
+   },
+   "noDeeplPreview": {
+      "message": "Aquest motor no admet actualment la funció de previsualització"
+   },
+   "notIsInvalidEmail": {
+      "message": "No hi ha una adreça de correu electrònic vàlida."
+   },
+   "officialWebsite": {
+      "message": "Pàgina web oficial"
+   },
+   "onlineCustomerService": {
+      "message": "Atenció al client en línia"
+   },
+   "or": {
+      "message": "o"
+   },
+   "originalText": {
+      "message": "original"
+   },
+   "password": {
+      "message": "contrasenya"
+   },
+   "pleaseInput": {
+      "message": "Si us plau, entra"
+   },
+   "proLimitTip": {
+      "message": "Ho sentim, aquesta funció només està limitada als usuaris PRO."
+   },
+   "refresh": {
+      "message": "refrescar"
+   },
+   "register": {
+      "message": "Registreu-vos"
+   },
+   "replacementText": {
+      "message": "substituir"
+   },
+   "sendCaptcha": {
+      "message": "Aconsegueix el codi de verificació"
+   },
+   "sendSuccess": {
+      "message": "Enviat amb èxit"
+   },
+   "setHotkey": {
+      "message": "Establir dreceres"
+   },
+   "settingTip": {
+      "message": "Després de la primera instal·lació, heu d'actualitzar la pàgina de WhatsApp abans que la configuració tingui efecte."
+   },
+   "settings": {
+      "message": "Preguntes Freqüents - FAQ"
+   },
+   "showLangStatus": {
+      "message": "Mostra el llenguatge original"
+   },
+   "showLangStatusExtra": {
+      "message": "Després d'obrir, es mostrarà l'idioma traduït després de la traducció.Feu clic a l'idioma per canviar."
+   },
+   "translateBilingual": {
+      "message": "Exhibició bilingüe"
+   },
+   "translateBilingualExtra": {
+      "message": "Després d'obrir, es mostrarà contingut bilingüe (la traducció es mostra enfront de l'original)"
+   },
+   "translateTerminology": {
+      "message": "Glossary"
+   },
+   "translateTerminologyExtra": {
+      "message": "Un cop establert, la funció del terme reconeixerà preferentment i substituirà el contingut del vocabulari, que sovint s'utilitza per substituir substantius i abreviatures adequades.Tingueu en compte que la funció és sensible a casos i conservarà totes les puntuació introduïdes, inclosos els espais."
+   },
+   "translateTextColor": {
+      "message": "Traduir el color del text"
+   },
+   "translateTextColorExtra": {
+      "message": "El color del contingut traduït"
+   },
+   "translationInterception": {
+      "message": "El missatge no s'ha traduït i ha deixat d'enviar.Si us plau, traduïu-lo abans d'enviar-lo, o feu clic al botó d'enviament del sistema per obligar-lo a ser enviat."
+   },
+   "translationPreview": {
+      "message": "Previsualització de la traducció"
+   },
+   "translationPreviewExtra": {
+      "message": "Després d'obrir, es mostrarà una vista prèvia del contingut traduït en temps real, que ajuda a millorar la precisió de la traducció"
+   },
+   "translationService": {
+      "message": "Motor de traducció"
+   },
+   "translationServiceExtra": {
+      "message": "Motor de traducció"
+   },
+   "translationSwitch": {
+      "message": "Interruptor de traducció"
+   },
+   "translationSwitchExtra": {
+      "message": "Després de tancar, el programa deixarà de funcionar"
+   },
+   "unlock": {
+      "message": "Desbloqueig"
+   },
+   "unlockAllFeatures": {
+      "message": "Desbloquejar totes les característiques"
+   },
+   "updatePassword": {
+      "message": "Actualització de la contrasenya"
+   },
+   "updateSuccess": {
+      "message": "Actualització amb èxit"
+   },
+   "usageToday": {
+      "message": "Ús avui"
+   },
+   "yourLanguage": {
+      "message": "El teu idioma"
+   },
+   "yourLanguageExtra": {
+      "message": "L'idioma en què es traduirà el missatge que rebeu, normalment la vostra llengua materna"
+   }
+}
